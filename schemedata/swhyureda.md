@@ -1,0 +1,695 @@
+# Solar Water Heater Yojana - Uttarakhand Renewable Energy Development Agency
+
+- **Slug:** `swhyureda`
+- **Scheme ID:** `6910b538ffe048d69300abfd`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/swhyureda
+- **Dbt Scheme:** No
+- **Tags:** Solar Water Heater, UREDA, Power Supply, Electricity, Green Energy, Renewable Energy
+- **Scheme Name:** Solar Water Heater Yojana - Uttarakhand Renewable Energy Development Agency
+- **Scheme Short Title:** SWHYUREDA
+- **Implementing Agency:** Uttarakhand Renewable Energy Development Agency
+- **Level:** State/ UT
+- **Scheme Category:** Social welfare & Empowerment
+- **Scheme Sub Category:** Not specified
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Family, Individual
+- **Scheme For:** Individual
+- **State:** Uttarakhand
+- **Nodal Department Name:** Energy Department
+
+## Brief Description
+
+The scheme aims to promote the use of solar energy for water heating in the state to reduce dependence on conventional electricity and fossil fuels, and to encourage the adoption of green and sustainable energy sources in Uttarakhand.
+
+## Detailed Description
+
+The scheme “Solar Water Heater Yojana” is implemented by the Uttarakhand Renewable Energy Development Agency (UREDA) under the Department of Energy, Government of Uttarakhand. The scheme aims to promote the use of solar energy for water heating in the state to reduce dependence on conventional electricity and fossil fuels, and to encourage the adoption of green and sustainable energy sources in Uttarakhand.
+<br>
+
+## Benefits
+
+1. Under the Solar Water Heater Scheme, the power supply to electricity consumers in the state is often maintained by purchasing electricity at high rates by the DISCOM during peak hours, which directly impacts both consumers and the state government. The installation of solar water heaters will reduce consumers&#39; dependence on grid power and promote solar energy projects across the state. This scheme represents a significant contribution by the State Government toward fulfilling Government of India’s commitment to achieving the global SDG-7 goals.
+   1. The scheme will encourage the use of green and renewable energy across the state.
+   1. Increasing the installation of solar water heaters will lead to electricity savings during peak demand periods and a reduction in annual carbon dioxide emissions. Installing a solar water heater system with a capacity of 100 liters per day can reduce carbon dioxide emissions by approximately 1.5 tons per year, resulting in positive environmental impacts.
+   1. In the mountainous regions of Uttarakhand, where there is a frequent need for hot water, it is often produced by burning wood, which harms the environment. The adoption of solar water heaters will significantly reduce environmental damage caused by traditional methods such as the use of wood or electricity for water heating.
+
+<br>
+
+## Eligibility
+
+1. The applicant must be a permanent resident of Uttarakhand.
+1. The applicant must have a valid electricity connection with Uttarakhand Power Corporation Limited (UPCL).
+1. The applicant must be the owner of the residential property where the solar water heater is proposed to be installed.
+
+<br>
+
+## Application Process
+
+### Online
+
+- An online portal  ([www.uredaonline.uk.gov.in](https://uredaonline.uk.gov.in)) has been developed for applications and selection under the scheme.  - Applicants must register and upload the required information on the portal, including their mobile number, place of establishment, copy of Aadhaar card, electricity bill, bill of the installed plant, prescribed self-declaration form, and the first page of their bank passbook for grant transfer details. They must also upload a copy of the demand draft for the prescribed application fee in favor of the Director, UREDA, or the receipt of the online fee transfer. During registration, the applicant must select their category (General/SC/ST) and specify the capacity of the installed plant.
+  - Applicants must also indicate whether the system is for domestic or non-domestic use based on the electricity bill. The application fee, calculated at ₹100 per 100 liters per day of capacity, must be paid online through the portal. Failure to pay the prescribed fee may lead to rejection of the application.
+  - Applications received on the portal will be processed by UREDA on a first-come, first-served basis, subject to budget availability. The grant will be released only if the installation is found appropriate. After installation, UREDA will conduct a site inspection upon the applicant’s request for a grant through the portal.
+  - Once the application fee and required documents are received, the Senior/Project Officer of the concerned district will inspect the plant. If the installation meets the prescribed standards, a joint inspection report will be uploaded and forwarded to UREDA Headquarters for grant release.
+  - In case deficiencies are found, the applicant must take corrective action, upload the required compliance report, and request a re-inspection through the portal. Applicants are advised to make the final payment to the installation firm only after successful UREDA inspection.
+  - Upon receiving the district officer’s recommendation, UREDA Headquarters will transfer the grant amount online to the beneficiary’s bank account. The beneficiary/approved applicant will then make payment to the installation firm directly. UREDA will not be responsible for or involved in any dispute related to payment between the beneficiary and the installation firm.
+  - In case of non-availability of budget during the financial year, or if the number of applications exceeds the available funds, or if additional funds are not approved for pending applications, or if the state grant cannot be issued for any other reason, the application fee deposited by the applicant will be refunded.
+
+<br>
+
+## References
+
+- [Guidelines (Page No. 135)](https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf)
+
+## Documents Required
+
+1. Aadhaar card
+1. Electricity bill
+1. Bill/invoice of the installed solar water heater plant
+1. Prescribed self-declaration form
+1. First page of bank passbook
+1. Demand draft/online payment receipt of the application fee
+1. Mobile number and installation address details
+1. Other supporting documents as required
+
+<br>
+
+## Frequently Asked Questions
+
+### Who is eligible to apply under the scheme?
+
+Residents of Uttarakhand who have an electricity connection from the Uttarakhand Power Corporation Limited (UPCL) and ownership of the concerned building are eligible to apply under the scheme.
+<br>
+
+### How can an applicant apply for the scheme?
+
+Eligible applicants can apply online through the official UREDA portal https://uredaonline.uk.gov.in/ by filling out the registration form and uploading the required documents.
+<br>
+
+### What is the application fee for the scheme?
+
+The application fee is ₹100 per 100 liters per day (LPD) capacity of the installed solar water heater. The fee must be paid online through the UREDA portal.
+<br>
+
+### What happens if the application fee is not paid?
+
+If the prescribed application fee is not paid, the application will be considered incomplete and may be rejected.
+<br>
+
+### How are applications processed under the scheme?
+
+Applications are processed by UREDA on a first-come, first-served basis, subject to the availability of funds for the financial year.
+<br>
+
+### When is the grant released to the beneficiary?
+
+Once the inspection report is found satisfactory and recommended by the district officer, the UREDA Headquarters transfers the grant amount directly to the beneficiary’s bank account.
+<br>
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Uttarakhand"
+    ],
+    "schemeShortTitle": "SWHYUREDA",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Solar Water Heater Yojana - Uttarakhand Renewable Energy Development Agency",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "swhyureda",
+    "briefDescription": "The scheme aims to promote the use of solar energy for water heating in the state to reduce dependence on conventional electricity and fossil fuels, and to encourage the adoption of green and sustainable energy sources in Uttarakhand.",
+    "tags": [
+      "Solar Water Heater",
+      "UREDA",
+      "Power Supply",
+      "Electricity",
+      "Green Energy",
+      "Renewable Energy"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "6910b538ffe048d69300abfd",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Solar Water Heater",
+            "UREDA",
+            "Power Supply",
+            "Electricity",
+            "Green Energy",
+            "Renewable Energy"
+          ],
+          "schemeName": "Solar Water Heater Yojana - Uttarakhand Renewable Energy Development Agency",
+          "schemeShortTitle": "SWHYUREDA",
+          "implementingAgency": "Uttarakhand Renewable Energy Development Agency",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce87cd6d1a3bde4685312",
+              "label": "Social welfare & Empowerment"
+            }
+          ],
+          "schemeSubCategory": null,
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "family",
+              "label": "Family"
+            },
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "schemeFor": "Individual",
+          "state": {
+            "value": 5,
+            "label": "Uttarakhand"
+          },
+          "nodalDepartmentName": {
+            "value": 50000101,
+            "label": "Energy Department"
+          }
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines (Page No. 135)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The scheme “Solar Water Heater Yojana” is implemented by the Uttarakhand Renewable Energy Development Agency (UREDA) under the Department of Energy, Government of Uttarakhand. The scheme aims to promote the use of solar energy for water heating in the state to reduce dependence on conventional electricity and fossil fuels, and to encourage the adoption of green and sustainable energy sources in Uttarakhand.\n<br>\n\n",
+          "benefits_md": "\n   1. Under the Solar Water Heater Scheme, the power supply to electricity consumers in the state is often maintained by purchasing electricity at high rates by the DISCOM during peak hours, which directly impacts both consumers and the state government. The installation of solar water heaters will reduce consumers&amp;#39; dependence on grid power and promote solar energy projects across the state. This scheme represents a significant contribution by the State Government toward fulfilling Government of India’s commitment to achieving the global SDG-7 goals.\n   1. The scheme will encourage the use of green and renewable energy across the state.\n   1. Increasing the installation of solar water heaters will lead to electricity savings during peak demand periods and a reduction in annual carbon dioxide emissions. Installing a solar water heater system with a capacity of 100 liters per day can reduce carbon dioxide emissions by approximately 1.5 tons per year, resulting in positive environmental impacts.\n   1. In the mountainous regions of Uttarakhand, where there is a frequent need for hot water, it is often produced by burning wood, which harms the environment. The adoption of solar water heaters will significantly reduce environmental damage caused by traditional methods such as the use of wood or electricity for water heating.\n\n<br>\n\n",
+          "exclusions_md": "<br>\n\n",
+          "briefDescription": "The scheme aims to promote the use of solar energy for water heating in the state to reduce dependence on conventional electricity and fossil fuels, and to encourage the adoption of green and sustainable energy sources in Uttarakhand.",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The scheme “Solar Water Heater Yojana” is implemented by the Uttarakhand Renewable Energy Development Agency (UREDA) under the Department of Energy, Government of Uttarakhand. The scheme aims to promote the use of solar energy for water heating in the state to reduce dependence on conventional electricity and fossil fuels, and to encourage the adoption of green and sustainable energy sources in Uttarakhand."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 2,
+            "value": "in-kind",
+            "label": "In Kind"
+          },
+          "benefits": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Under the Solar Water Heater Scheme, the power supply to electricity consumers in the state is often maintained by purchasing electricity at high rates by the DISCOM during peak hours, which directly impacts both consumers and the state government. The installation of solar water heaters will reduce consumers' dependence on grid power and promote solar energy projects across the state. This scheme represents a significant contribution by the State Government toward fulfilling Government of India’s commitment to achieving the global SDG-7 goals."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The scheme will encourage the use of green and renewable energy across the state."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Increasing the installation of solar water heaters will lead to electricity savings during peak demand periods and a reduction in annual carbon dioxide emissions. Installing a solar water heater system with a capacity of 100 liters per day can reduce carbon dioxide emissions by approximately 1.5 tons per year, resulting in positive environmental impacts."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "In the mountainous regions of Uttarakhand, where there is a frequent need for hot water, it is often produced by burning wood, which harms the environment. The adoption of solar water heaters will significantly reduce environmental damage caused by traditional methods such as the use of wood or electricity for water heating."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "An online portal  ("
+                          },
+                          {
+                            "type": "link",
+                            "link": "https://uredaonline.uk.gov.in",
+                            "children": [
+                              {
+                                "text": "www.uredaonline.uk.gov.in"
+                              }
+                            ]
+                          },
+                          {
+                            "text": ") has been developed for applications and selection under the scheme."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Applicants must register and upload the required information on the portal, including their mobile number, place of establishment, copy of Aadhaar card, electricity bill, bill of the installed plant, prescribed self-declaration form, and the first page of their bank passbook for grant transfer details. They must also upload a copy of the demand draft for the prescribed application fee in favor of the Director, UREDA, or the receipt of the online fee transfer. During registration, the applicant must select their category (General/SC/ST) and specify the capacity of the installed plant."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Applicants must also indicate whether the system is for domestic or non-domestic use based on the electricity bill. The application fee, calculated at ₹100 per 100 liters per day of capacity, must be paid online through the portal. Failure to pay the prescribed fee may lead to rejection of the application."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Applications received on the portal will be processed by UREDA on a first-come, first-served basis, subject to budget availability. The grant will be released only if the installation is found appropriate. After installation, UREDA will conduct a site inspection upon the applicant’s request for a grant through the portal."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Once the application fee and required documents are received, the Senior/Project Officer of the concerned district will inspect the plant. If the installation meets the prescribed standards, a joint inspection report will be uploaded and forwarded to UREDA Headquarters for grant release."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "In case deficiencies are found, the applicant must take corrective action, upload the required compliance report, and request a re-inspection through the portal. Applicants are advised to make the final payment to the installation firm only after successful UREDA inspection."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Upon receiving the district officer’s recommendation, UREDA Headquarters will transfer the grant amount online to the beneficiary’s bank account. The beneficiary/approved applicant will then make payment to the installation firm directly. UREDA will not be responsible for or involved in any dispute related to payment between the beneficiary and the installation firm."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "In case of non-availability of budget during the financial year, or if the number of applications exceeds the available funds, or if additional funds are not approved for pending applications, or if the state grant cannot be issued for any other reason, the application fee deposited by the applicant will be refunded."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "process_md": "\n  - An online portal  ([www.uredaonline.uk.gov.in](https://uredaonline.uk.gov.in)) has been developed for applications and selection under the scheme.  - Applicants must register and upload the required information on the portal, including their mobile number, place of establishment, copy of Aadhaar card, electricity bill, bill of the installed plant, prescribed self-declaration form, and the first page of their bank passbook for grant transfer details. They must also upload a copy of the demand draft for the prescribed application fee in favor of the Director, UREDA, or the receipt of the online fee transfer. During registration, the applicant must select their category (General/SC/ST) and specify the capacity of the installed plant.\n  - Applicants must also indicate whether the system is for domestic or non-domestic use based on the electricity bill. The application fee, calculated at ₹100 per 100 liters per day of capacity, must be paid online through the portal. Failure to pay the prescribed fee may lead to rejection of the application.\n  - Applications received on the portal will be processed by UREDA on a first-come, first-served basis, subject to budget availability. The grant will be released only if the installation is found appropriate. After installation, UREDA will conduct a site inspection upon the applicant’s request for a grant through the portal.\n  - Once the application fee and required documents are received, the Senior/Project Officer of the concerned district will inspect the plant. If the installation meets the prescribed standards, a joint inspection report will be uploaded and forwarded to UREDA Headquarters for grant release.\n  - In case deficiencies are found, the applicant must take corrective action, upload the required compliance report, and request a re-inspection through the portal. Applicants are advised to make the final payment to the installation firm only after successful UREDA inspection.\n  - Upon receiving the district officer’s recommendation, UREDA Headquarters will transfer the grant amount online to the beneficiary’s bank account. The beneficiary/approved applicant will then make payment to the installation firm directly. UREDA will not be responsible for or involved in any dispute related to payment between the beneficiary and the installation firm.\n  - In case of non-availability of budget during the financial year, or if the number of applications exceeds the available funds, or if additional funds are not approved for pending applications, or if the state grant cannot be issued for any other reason, the application fee deposited by the applicant will be refunded.\n\n<br>\n\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n1. The applicant must be a permanent resident of Uttarakhand.\n1. The applicant must have a valid electricity connection with Uttarakhand Power Corporation Limited (UPCL).\n1. The applicant must be the owner of the residential property where the solar water heater is proposed to be installed.\n\n<br>\n\n",
+          "eligibilityDescription": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a permanent resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have a valid electricity connection with Uttarakhand Power Corporation Limited (UPCL)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be the owner of the residential property where the solar water heater is proposed to be installed."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "swhyureda"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "6910b61978292522fe4c60aa",
+      "schemeId": "6910b538ffe048d69300abfd",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Electricity bill"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bill/invoice of the installed solar water heater plant"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Prescribed self-declaration form"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "First page of bank passbook"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Demand draft/online payment receipt of the application fee"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Mobile number and installation address details"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n1. Aadhaar card\n1. Electricity bill\n1. Bill/invoice of the installed solar water heater plant\n1. Prescribed self-declaration form\n1. First page of bank passbook\n1. Demand draft/online payment receipt of the application fee\n1. Mobile number and installation address details\n1. Other supporting documents as required\n\n<br>\n\n"
+      }
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "6910b6dfd6179d622a1fafea",
+      "schemeId": "6910b538ffe048d69300abfd",
+      "en": {
+        "faqs": [
+          {
+            "question": "Who is eligible to apply under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Residents of Uttarakhand who have an electricity connection from the Uttarakhand Power Corporation Limited (UPCL) and ownership of the concerned building are eligible to apply under the scheme."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Residents of Uttarakhand who have an electricity connection from the Uttarakhand Power Corporation Limited (UPCL) and ownership of the concerned building are eligible to apply under the scheme.\n<br>\n\n"
+          },
+          {
+            "question": "How can an applicant apply for the scheme?",
+            "answer": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Eligible applicants can apply online through the official UREDA portal https://uredaonline.uk.gov.in/ by filling out the registration form and uploading the required documents."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Eligible applicants can apply online through the official UREDA portal https://uredaonline.uk.gov.in/ by filling out the registration form and uploading the required documents.\n<br>\n\n"
+          },
+          {
+            "question": "What is the application fee for the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The application fee is ₹100 per 100 liters per day (LPD) capacity of the installed solar water heater. The fee must be paid online through the UREDA portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The application fee is ₹100 per 100 liters per day (LPD) capacity of the installed solar water heater. The fee must be paid online through the UREDA portal.\n<br>\n\n"
+          },
+          {
+            "question": "What happens if the application fee is not paid?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "If the prescribed application fee is not paid, the application will be considered incomplete and may be rejected."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "If the prescribed application fee is not paid, the application will be considered incomplete and may be rejected.\n<br>\n\n"
+          },
+          {
+            "question": "How are applications processed under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applications are processed by UREDA on a first-come, first-served basis, subject to the availability of funds for the financial year."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applications are processed by UREDA on a first-come, first-served basis, subject to the availability of funds for the financial year.\n<br>\n\n"
+          },
+          {
+            "question": "When is the grant released to the beneficiary?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Once the inspection report is found satisfactory and recommended by the district officer, the UREDA Headquarters transfers the grant amount directly to the beneficiary’s bank account."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Once the inspection report is found satisfactory and recommended by the district officer, the UREDA Headquarters transfers the grant amount directly to the beneficiary’s bank account.\n<br>\n\n"
+          }
+        ]
+      }
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

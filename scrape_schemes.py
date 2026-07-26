@@ -125,7 +125,13 @@ def clean_markdown(value, fallback=None):
 
 
 def render_markdown(summary, detail_payload, documents_payload, faqs_payload, channels_payload):
-    detail = detail_payload["data"]
+    detail = detail_payload.get("data") or {
+        "slug": summary["slug"],
+        "en": {
+            "basicDetails": summary,
+            "schemeContent": {"briefDescription": summary.get("briefDescription", "")},
+        },
+    }
     language = detail.get("en", {})
     basic = language.get("basicDetails", {})
     content = language.get("schemeContent", {})
@@ -232,11 +238,14 @@ def export_scheme(summary, refresh=False):
 
     encoded_slug = urllib.parse.quote(slug, safe="")
     detail = get_json(f"{API_ROOT}/schemes/v6/public/schemes?slug={encoded_slug}&lang=en")
-    scheme_id = detail["data"]["_id"]
-    base = f"{API_ROOT}/schemes/v6/public/schemes/{scheme_id}"
-    documents = get_json(f"{base}/documents?lang=en", optional=True)
-    faqs = get_json(f"{base}/faqs?lang=en", optional=True)
-    channels = get_json(f"{base}/applicationchannel", optional=True)
+    if detail.get("data"):
+        scheme_id = detail["data"]["_id"]
+        base = f"{API_ROOT}/schemes/v6/public/schemes/{scheme_id}"
+        documents = get_json(f"{base}/documents?lang=en", optional=True)
+        faqs = get_json(f"{base}/faqs?lang=en", optional=True)
+        channels = get_json(f"{base}/applicationchannel", optional=True)
+    else:
+        documents = faqs = channels = {"status": "Unavailable", "data": None}
     markdown = render_markdown(summary, detail, documents, faqs, channels)
 
     temporary = destination.with_suffix(".md.tmp")

@@ -1,0 +1,1141 @@
+# State Medical Scholarship (Scholarship Scheme for MBBS & Allied Courses, Nursing and Paramedical Students)
+
+- **Slug:** `smsssmbbsacnps`
+- **Scheme ID:** `65d49d83cd96dc5e075a7d64`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/smsssmbbsacnps
+- **Dbt Scheme:** No
+- **Tags:** Medical, Scholarship, MBBS, Nursing, Paramedical, Student
+- **Scheme Name:** State Medical Scholarship (Scholarship Scheme for MBBS & Allied Courses, Nursing and Paramedical Students)
+- **Scheme Short Title:** SMS(SSMBBSACNPS)
+- **Implementing Agency:** Department Of Health & Family Welfare, Government Of Nagaland
+- **Level:** State/ UT
+- **Scheme Category:** Education & Learning
+- **Scheme Sub Category:** Scholarships and student finance
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Individual
+- **Scheme For:** Individual
+- **State:** Nagaland
+- **Nodal Department Name:** Health and Family Welfare Department, Nagaland
+
+## Brief Description
+
+The “State Medical Scholarship” is a scholarship scheme, launched by the Department of Health & Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS & Allied Courses, Nursing and Paramedical courses.
+
+## Detailed Description
+
+The “State Medical Scholarship” is a scholarship scheme, launched by the Department of Health &amp; Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS &amp; Allied Courses, Nursing and Paramedical courses.
+
+## Benefits
+
+- Under the scheme, financial assistance/scholarships will be provided to students according to the course/programme in which they are enrolled.
+
+## Eligibility
+
+A student should fulfill the following criteria to be eligible for this Scholarship:
+
+   1. The applicant/student should be an inhabitant of Nagaland.
+   1. Students selected through NEET/NSEE/State Departmental Examination only and undergoing medical, nursing and paramedical courses shall be eligible to apply.
+   1. Students failing to complete their curriculum within the specified duration of the course (repeaters) shall not be entitled to an additional stipend.
+
+## Application Process
+
+### Online
+
+All eligible students shall apply through the Common Scholarship Portal: [https://scholarship.nagaland.gov.in](https://scholarship.nagaland.gov.in/)
+**Step 01: Registration**
+
+  - To register, visit the official Common Scholarship Portal of Nagaland: [https://scholarship.nagaland.gov.in](https://scholarship.nagaland.gov.in/)   - **Create an Account:** If the applicant is a new user, click on the &quot;Register&quot; option. Provide your MOBILE Number linked with AADHAAR to get an OTP and verify the mobile. Once Mobile is verified, provide essential details such as your name, email address and create a unique password. Click on the &quot;Register&quot; button to proceed.
+**Step 02: Login**
+
+  - **Login to Your Account:** Once your mobile number is verified, log in to your scholarship account using the credentials the applicant created during registration.
+**Step 03: Fill in the User Profile**
+
+  - **Personal Details:** Update your personal information, including name, date of birth, gender, category, Bank Account Details, etc.
+**Step 04: Apply for Scholarship**
+
+  - Select your Scholarship Scheme, Institution, Institution State, Institution, District and proceed.
+  - **Academic Information:** Provide details about your educational background, such as school/college name, course, year of study, etc.
+**Step 05: Upload Documents**
+
+  - **Upload Required Documents:** Depending on the scholarship applicants are applying for, applicants will need to upload supporting documents. Commonly required documents include:
+**Step 06: Verify and Submit**
+
+  - **Review Your Application:** Carefully review all the information applicants have entered and the documents applicants have uploaded. Make sure everything is accurate and complete.  - **Submit Application:** Once applicants are satisfied with your application, click on the &quot;Submit&quot; button.
+**Step 07: Track Your Application**
+
+  - **Application Tracking:** After submitting your application, applicants can track its status on the portal: [https://scholarship.nagaland.gov.in/](https://scholarship.nagaland.gov.in/)  - Log in to your account and check for updates on your application&#39;s status regularly.
+
+**Note 01:** The Department will accept applications through the Portal (online) only.
+**Note 02:** Application submitted in Hardcopy to the Directorate will not be entertained and shall be considered as not applied.
+**Note 03:** Applications with Incomplete/Unclear documents will be summarily rejected.
+**Note 04:** Applications received after the last date of submission will be rejected.
+**Note 05:** On submission a unique Registration No will be generated.  Applicants are required to note this number for Renewal in the subsequent years.
+**Note 06:** The Department will not be responsible for non-receipt of scholarship due to wrong/inactive bank account number/details provided by the applicant. 
+**Note 07:** Applicants is warned that if he/she gives false statements/declarations/documents etc. or otherwise obtained a scholarship through fraudulent means, he/she will be blacklisted and debarred from getting a scholarship under this scheme or any other scholarship schemes for the entire period of his/her studies. The scholarship amount if already paid will also be recovered.
+**Note 08:** Incomplete/wrong entries in the e-Form or incomplete/incorrect upload of necessary documents will be subject to rejection. Correction/ rectification after submission will not be entertained.
+
+### Online - via CSC
+
+If the applicant prefers not to apply online, he/she can visit the nearest Common Service Center (CSC). The staff at CSCs will assist in the application process, ensuring a smooth experience.
+**Step 01:** Locate the nearest CSC by contacting the Helpline Number.
+**Step 02:** Visit the CSC in person and inform the staff about the service the applicant wants to apply for.
+**Step 03:** Provide the necessary documents and information to the CSC staff.
+**Step 04:** The CSC staff will guide the applicant through the application process, help the applicant fill out the forms, and submit the application on behalf of the applicant.
+
+## References
+
+- [Guidelines](https://scholarship.nagaland.gov.in/storage/Guidelines//8_Guidelines)
+- [Common Scholarship Portal](https://scholarship.nagaland.gov.in/)
+
+## Documents Required
+
+1. Passport-size photograph
+   1. Aadhaar Card
+   1. Forwarding letter from the concerned Institution
+   1. A copy of the Nomination letter (NSEE/NEET/State Departmental Exam)
+   1. A copy of the Aadhaar Card
+   1. A copy of the SBI Account Number (first page of the Bank passbook or statement clearly indicating Account Number and Account Holders Name)
+   1. Indigenous Certificate
+   1. Educational Qualification Certificates
+   1. Caste/community Certificate, if applicable
+   1. Disability certificate, if applicable
+
+**Note 01:** All the documents should be Self-Attest. Submission of unattested documents will lead to rejection of the application.
+**Note 02:** Bank account number should be of that of the applicant only. Only Bank Accounts of the State Bank of India will be accepted.
+
+## Frequently Asked Questions
+
+### What is the State Medical Scholarship?
+
+The State Medical Scholarship is a scheme initiated by the Department of Health & Family Welfare, Government of Nagaland to provide financial assistance to students pursuing MBBS & Allied Courses, Nursing, and Paramedical courses.
+
+### Who is eligible to apply for the Scholarship?
+
+Applicants must be residents of Nagaland and should be enrolled in medical, nursing, or paramedical courses after being selected through NEET/NSEE/State Departmental Examination.
+
+### What courses are covered under the State Medical Scholarship?
+
+The scholarship covers MBBS & Allied Courses, Nursing, and Paramedical courses.
+
+### Are repeaters eligible for the scholarship?
+
+No, students failing to complete their curriculum within the specified duration of the course (repeaters) are not entitled to additional stipend.
+
+### What are the general instructions for applying?
+
+All documents should be self-attested, and applications must be submitted online through the designated portal. Hardcopy submissions will not be entertained.
+
+### Which bank's account number should be provided?
+
+Only Bank Accounts of State Bank of India will be accepted, and the account number should belong to the applicant.
+
+### What if the scholarship amount is not received due to incorrect bank details?
+
+The Department will not be responsible for non-receipt of the scholarship due to wrong or inactive bank account details provided by the applicant.
+
+### What are the consequences of providing false information?
+
+If an applicant gives false statements, declarations, or documents, they will be blacklisted and debarred from receiving any scholarship under this or any other scheme. The scholarship amount, if already paid, will also be recovered.
+
+### How to apply under the scheme?
+
+All eligible students shall apply through the Common Scholarship Portal: https://scholarship.nagaland.gov.in
+
+### What happens if applications are submitted after the deadline?
+
+Applications received after the last date of submission will be rejected.
+
+### Can applicants from other states apply for this scholarship?
+
+No, only residents of Nagaland are eligible to apply.
+
+### Are there any specific academic requirements for eligibility?
+
+Applicants must have been selected through NEET/NSEE/State Departmental Examination for their respective courses.
+
+### How can applicants check the status of their application?
+
+Applicants can track their application status through the designated online portal.
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Nagaland"
+    ],
+    "schemeShortTitle": "SMS(SSMBBSACNPS)",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "State Medical Scholarship (Scholarship Scheme for MBBS & Allied Courses, Nursing and Paramedical Students)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "smsssmbbsacnps",
+    "briefDescription": "The “State Medical Scholarship” is a scholarship scheme, launched by the Department of Health & Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS & Allied Courses, Nursing and Paramedical courses.",
+    "tags": [
+      "Medical",
+      "Scholarship",
+      "MBBS",
+      "Nursing",
+      "Paramedical",
+      "Student"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65d49d83cd96dc5e075a7d64",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Medical",
+            "Scholarship",
+            "MBBS",
+            "Nursing",
+            "Paramedical",
+            "Student"
+          ],
+          "schemeName": "State Medical Scholarship (Scholarship Scheme for MBBS & Allied Courses, Nursing and Paramedical Students)",
+          "schemeShortTitle": "SMS(SSMBBSACNPS)",
+          "implementingAgency": "Department Of Health & Family Welfare, Government Of Nagaland",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce76cd6d1a3bde4685292",
+              "label": "Education & Learning"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Scholarships and student finance",
+              "label": "Scholarships and student finance"
+            }
+          ],
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "schemeFor": "Individual",
+          "state": {
+            "value": 13,
+            "label": "Nagaland"
+          },
+          "nodalDepartmentName": {
+            "value": 13000007,
+            "label": "Health and Family Welfare Department, Nagaland"
+          }
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://scholarship.nagaland.gov.in/storage/Guidelines//8_Guidelines"
+            },
+            {
+              "title": "Common Scholarship Portal",
+              "url": "https://scholarship.nagaland.gov.in/"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The “State Medical Scholarship” is a scholarship scheme, launched by the Department of Health &amp;amp; Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS &amp;amp; Allied Courses, Nursing and Paramedical courses.\n",
+          "benefits_md": "\n  - Under the scheme, financial assistance/scholarships will be provided to students according to the course/programme in which they are enrolled.\n\n",
+          "briefDescription": "The “State Medical Scholarship” is a scholarship scheme, launched by the Department of Health & Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS & Allied Courses, Nursing and Paramedical courses.",
+          "exclusions_md": "<br>\n\n",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The “State Medical Scholarship” is a scholarship scheme, launched by the Department of Health & Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS & Allied Courses, Nursing and Paramedical courses."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 3,
+            "value": "composite",
+            "label": "Composite"
+          },
+          "benefits": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Under the scheme, financial assistance/scholarships will be provided to students according to the course/programme in which they are enrolled."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "All eligible students shall apply through the Common Scholarship Portal: "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://scholarship.nagaland.gov.in/",
+                        "children": [
+                          {
+                            "text": "https://scholarship.nagaland.gov.in"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 01: Registration",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "To register, visit the official Common Scholarship Portal of Nagaland: "
+                          },
+                          {
+                            "type": "link",
+                            "link": "https://scholarship.nagaland.gov.in/",
+                            "children": [
+                              {
+                                "text": "https://scholarship.nagaland.gov.in"
+                              }
+                            ]
+                          },
+                          {
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Create an Account:",
+                            "bold": true
+                          },
+                          {
+                            "text": " If the applicant is a new user, click on the \"Register\" option. Provide your MOBILE Number linked with AADHAAR to get an OTP and verify the mobile. Once Mobile is verified, provide essential details such as your name, email address and create a unique password. Click on the \"Register\" button to proceed."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 02: Login",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Login to Your Account:",
+                            "bold": true
+                          },
+                          {
+                            "text": " Once your mobile number is verified, log in to your scholarship account using the credentials the applicant created during registration."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 03: Fill in the User Profile",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Personal Details:",
+                            "bold": true
+                          },
+                          {
+                            "text": " Update your personal information, including name, date of birth, gender, category, Bank Account Details, etc."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 04: Apply for Scholarship",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Select your Scholarship Scheme, Institution, Institution State, Institution, District and proceed."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Academic Information: ",
+                            "bold": true
+                          },
+                          {
+                            "text": "Provide details about your educational background, such as school/college name, course, year of study, etc."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 05: Upload Documents",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Upload Required Documents:",
+                            "bold": true
+                          },
+                          {
+                            "text": " Depending on the scholarship applicants are applying for, applicants will need to upload supporting documents. Commonly required documents include:"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 06: Verify and Submit",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Review Your Application:",
+                            "bold": true
+                          },
+                          {
+                            "text": " Carefully review all the information applicants have entered and the documents applicants have uploaded. Make sure everything is accurate and complete."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Submit Application:",
+                            "bold": true
+                          },
+                          {
+                            "text": " Once applicants are satisfied with your application, click on the \"Submit\" button."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 07: Track Your Application",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Application Tracking:",
+                            "bold": true
+                          },
+                          {
+                            "text": " After submitting your application, applicants can track its status on the portal: "
+                          },
+                          {
+                            "type": "link",
+                            "link": "https://scholarship.nagaland.gov.in/",
+                            "children": [
+                              {
+                                "text": "https://scholarship.nagaland.gov.in/"
+                              }
+                            ]
+                          },
+                          {
+                            "text": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Log in to your account and check for updates on your application's status regularly."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 01:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The Department will accept applications through the Portal (online) only."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 02:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Application submitted in Hardcopy to the Directorate will not be entertained and shall be considered as not applied."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 03:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Applications with Incomplete/Unclear documents will be summarily rejected."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 04:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Applications received after the last date of submission will be rejected."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 05:",
+                        "bold": true
+                      },
+                      {
+                        "text": " On submission a unique Registration No will be generated.  Applicants are required to note this number for Renewal in the subsequent years."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 06:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The Department will not be responsible for non-receipt of scholarship due to wrong/inactive bank account number/details provided by the applicant. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 07:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Applicants is warned that if he/she gives false statements/declarations/documents etc. or otherwise obtained a scholarship through fraudulent means, he/she will be blacklisted and debarred from getting a scholarship under this scheme or any other scholarship schemes for the entire period of his/her studies. The scholarship amount if already paid will also be recovered."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 08:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Incomplete/wrong entries in the e-Form or incomplete/incorrect upload of necessary documents will be subject to rejection. Correction/ rectification after submission will not be entertained."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "process_md": "All eligible students shall apply through the Common Scholarship Portal: [https://scholarship.nagaland.gov.in](https://scholarship.nagaland.gov.in/)\n**Step 01: Registration**\n\n  - To register, visit the official Common Scholarship Portal of Nagaland: [https://scholarship.nagaland.gov.in](https://scholarship.nagaland.gov.in/)   - **Create an Account:** If the applicant is a new user, click on the &amp;quot;Register&amp;quot; option. Provide your MOBILE Number linked with AADHAAR to get an OTP and verify the mobile. Once Mobile is verified, provide essential details such as your name, email address and create a unique password. Click on the &amp;quot;Register&amp;quot; button to proceed.\n**Step 02: Login**\n\n  - **Login to Your Account:** Once your mobile number is verified, log in to your scholarship account using the credentials the applicant created during registration.\n**Step 03: Fill in the User Profile**\n\n  - **Personal Details:** Update your personal information, including name, date of birth, gender, category, Bank Account Details, etc.\n**Step 04: Apply for Scholarship**\n\n  - Select your Scholarship Scheme, Institution, Institution State, Institution, District and proceed.\n  - **Academic Information:** Provide details about your educational background, such as school/college name, course, year of study, etc.\n**Step 05: Upload Documents**\n\n  - **Upload Required Documents:** Depending on the scholarship applicants are applying for, applicants will need to upload supporting documents. Commonly required documents include:\n**Step 06: Verify and Submit**\n\n  - **Review Your Application:** Carefully review all the information applicants have entered and the documents applicants have uploaded. Make sure everything is accurate and complete.  - **Submit Application:** Once applicants are satisfied with your application, click on the &amp;quot;Submit&amp;quot; button.\n**Step 07: Track Your Application**\n\n  - **Application Tracking:** After submitting your application, applicants can track its status on the portal: [https://scholarship.nagaland.gov.in/](https://scholarship.nagaland.gov.in/)  - Log in to your account and check for updates on your application&amp;#39;s status regularly.\n\n**Note 01:** The Department will accept applications through the Portal (online) only.\n**Note 02:** Application submitted in Hardcopy to the Directorate will not be entertained and shall be considered as not applied.\n**Note 03:** Applications with Incomplete/Unclear documents will be summarily rejected.\n**Note 04:** Applications received after the last date of submission will be rejected.\n**Note 05:** On submission a unique Registration No will be generated.  Applicants are required to note this number for Renewal in the subsequent years.\n**Note 06:** The Department will not be responsible for non-receipt of scholarship due to wrong/inactive bank account number/details provided by the applicant. \n**Note 07:** Applicants is warned that if he/she gives false statements/declarations/documents etc. or otherwise obtained a scholarship through fraudulent means, he/she will be blacklisted and debarred from getting a scholarship under this scheme or any other scholarship schemes for the entire period of his/her studies. The scholarship amount if already paid will also be recovered.\n**Note 08:** Incomplete/wrong entries in the e-Form or incomplete/incorrect upload of necessary documents will be subject to rejection. Correction/ rectification after submission will not be entertained.\n"
+          },
+          {
+            "mode": "Online - via CSC",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "If the applicant prefers not to apply online, he/she can visit the nearest Common Service Center (CSC). The staff at CSCs will assist in the application process, ensuring a smooth experience."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 01:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Locate the nearest CSC by contacting the Helpline Number."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 02:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Visit the CSC in person and inform the staff about the service the applicant wants to apply for."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 03:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Provide the necessary documents and information to the CSC staff."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 04:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The CSC staff will guide the applicant through the application process, help the applicant fill out the forms, and submit the application on behalf of the applicant. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "process_md": "If the applicant prefers not to apply online, he/she can visit the nearest Common Service Center (CSC). The staff at CSCs will assist in the application process, ensuring a smooth experience.\n**Step 01:** Locate the nearest CSC by contacting the Helpline Number.\n**Step 02:** Visit the CSC in person and inform the staff about the service the applicant wants to apply for.\n**Step 03:** Provide the necessary documents and information to the CSC staff.\n**Step 04:** The CSC staff will guide the applicant through the application process, help the applicant fill out the forms, and submit the application on behalf of the applicant. \n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "A student should fulfill the following criteria to be eligible for this Scholarship:\n\n   1. The applicant/student should be an inhabitant of Nagaland.\n   1. Students selected through NEET/NSEE/State Departmental Examination only and undergoing medical, nursing and paramedical courses shall be eligible to apply.\n   1. Students failing to complete their curriculum within the specified duration of the course (repeaters) shall not be entitled to an additional stipend.\n\n",
+          "eligibilityDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "A student should fulfill the following criteria to be eligible for this Scholarship:"
+                    }
+                  ]
+                },
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The applicant/student should be an inhabitant of Nagaland."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Students selected through NEET/NSEE/State Departmental Examination only and undergoing medical, nursing and paramedical courses shall be eligible to apply."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Students failing to complete their curriculum within the specified duration of the course (repeaters) shall not be entitled to an additional stipend."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "smsssmbbsacnps"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65d49de0cd96dc5e075a7dd6",
+      "en": {
+        "documents_required": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Passport-size photograph"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Aadhaar Card"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Forwarding letter from the concerned Institution"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "A copy of the Nomination letter (NSEE/NEET/State Departmental Exam)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "A copy of the Aadhaar Card"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "A copy of the SBI Account Number (first page of the Bank passbook or statement clearly indicating Account Number and Account Holders Name)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Indigenous Certificate"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Educational Qualification Certificates"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Caste/community Certificate, if applicable"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Disability certificate, if applicable"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " All the documents should be Self-Attest. Submission of unattested documents will lead to rejection of the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Bank account number should be of that of the applicant only. Only Bank Accounts of the State Bank of India will be accepted."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n   1. Passport-size photograph\n   1. Aadhaar Card\n   1. Forwarding letter from the concerned Institution\n   1. A copy of the Nomination letter (NSEE/NEET/State Departmental Exam)\n   1. A copy of the Aadhaar Card\n   1. A copy of the SBI Account Number (first page of the Bank passbook or statement clearly indicating Account Number and Account Holders Name)\n   1. Indigenous Certificate\n   1. Educational Qualification Certificates\n   1. Caste/community Certificate, if applicable\n   1. Disability certificate, if applicable\n\n**Note 01:** All the documents should be Self-Attest. Submission of unattested documents will lead to rejection of the application.\n**Note 02:** Bank account number should be of that of the applicant only. Only Bank Accounts of the State Bank of India will be accepted.\n"
+      },
+      "schemeId": "65d49d83cd96dc5e075a7d64"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65d4a069cd96dc5e075a8070",
+      "en": {
+        "faqs": [
+          {
+            "question": "What is the State Medical Scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The State Medical Scholarship is a scheme initiated by the Department of Health & Family Welfare, Government of Nagaland to provide financial assistance to students pursuing MBBS & Allied Courses, Nursing, and Paramedical courses."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The State Medical Scholarship is a scheme initiated by the Department of Health & Family Welfare, Government of Nagaland to provide financial assistance to students pursuing MBBS & Allied Courses, Nursing, and Paramedical courses.\n"
+          },
+          {
+            "question": "Who is eligible to apply for the Scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants must be residents of Nagaland and should be enrolled in medical, nursing, or paramedical courses after being selected through NEET/NSEE/State Departmental Examination."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applicants must be residents of Nagaland and should be enrolled in medical, nursing, or paramedical courses after being selected through NEET/NSEE/State Departmental Examination.\n"
+          },
+          {
+            "question": "What courses are covered under the State Medical Scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scholarship covers MBBS & Allied Courses, Nursing, and Paramedical courses."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scholarship covers MBBS & Allied Courses, Nursing, and Paramedical courses.\n"
+          },
+          {
+            "question": "Are repeaters eligible for the scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No, students failing to complete their curriculum within the specified duration of the course (repeaters) are not entitled to additional stipend."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No, students failing to complete their curriculum within the specified duration of the course (repeaters) are not entitled to additional stipend.\n"
+          },
+          {
+            "question": "What are the general instructions for applying?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "All documents should be self-attested, and applications must be submitted online through the designated portal. Hardcopy submissions will not be entertained."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "All documents should be self-attested, and applications must be submitted online through the designated portal. Hardcopy submissions will not be entertained.\n"
+          },
+          {
+            "question": "Which bank's account number should be provided?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Only Bank Accounts of State Bank of India will be accepted, and the account number should belong to the applicant."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Only Bank Accounts of State Bank of India will be accepted, and the account number should belong to the applicant.\n"
+          },
+          {
+            "question": "What if the scholarship amount is not received due to incorrect bank details?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Department will not be responsible for non-receipt of the scholarship due to wrong or inactive bank account details provided by the applicant."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Department will not be responsible for non-receipt of the scholarship due to wrong or inactive bank account details provided by the applicant.\n"
+          },
+          {
+            "question": "What are the consequences of providing false information?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "If an applicant gives false statements, declarations, or documents, they will be blacklisted and debarred from receiving any scholarship under this or any other scheme. The scholarship amount, if already paid, will also be recovered."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "If an applicant gives false statements, declarations, or documents, they will be blacklisted and debarred from receiving any scholarship under this or any other scheme. The scholarship amount, if already paid, will also be recovered.\n"
+          },
+          {
+            "question": "How to apply under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "All eligible students shall apply through the Common Scholarship Portal: https://scholarship.nagaland.gov.in"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "All eligible students shall apply through the Common Scholarship Portal: https://scholarship.nagaland.gov.in\n"
+          },
+          {
+            "question": "What happens if applications are submitted after the deadline?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applications received after the last date of submission will be rejected."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applications received after the last date of submission will be rejected.\n"
+          },
+          {
+            "question": "Can applicants from other states apply for this scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No, only residents of Nagaland are eligible to apply."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No, only residents of Nagaland are eligible to apply.\n"
+          },
+          {
+            "question": "Are there any specific academic requirements for eligibility?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants must have been selected through NEET/NSEE/State Departmental Examination for their respective courses."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applicants must have been selected through NEET/NSEE/State Departmental Examination for their respective courses.\n"
+          },
+          {
+            "question": "How can applicants check the status of their application?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants can track their application status through the designated online portal."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applicants can track their application status through the designated online portal.\n"
+          }
+        ]
+      },
+      "schemeId": "65d49d83cd96dc5e075a7d64"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

@@ -1,2 +1,3 @@
+fastapi
+uvicorn[standard]
 pinecone
-typing_extensions
