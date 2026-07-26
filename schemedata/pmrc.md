@@ -1,0 +1,1243 @@
+# Prime Minister Research Chair (PMRC) Scheme - For Fellows
+
+- **Slug:** `pmrc`
+- **Scheme ID:** `698b011ecb1b04954c2efcce`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/pmrc
+- **Dbt Scheme:** No
+- **Tags:** Scientist, Researcher, Fellowship, Innovation, Professional, Abroad
+- **Scheme Name:** Prime Minister Research Chair (PMRC) Scheme - For Fellows
+- **Scheme Short Title:** PMRC-F
+- **Level:** Central
+- **Scheme Type:** Central Sector Scheme
+- **Scheme Category:** Science, IT & Communications
+- **Scheme Sub Category:** Not specified
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Individual
+- **Scheme For:** Individual
+- **Nodal Ministry Name:** Ministry of Education
+- **Nodal Department Name:** Department Of Higher Education
+
+## Brief Description
+
+The scheme is a flagship national initiative that aims to attract & engage leading Indian-origin researchers, scientists & professionals from abroad & place them at premier government higher education institutions & national research laboratories in India to undertake cutting-edge research.
+
+## Detailed Description
+
+The Prime Minister Research Chair (PMRC) Scheme is a flagship national initiative by the Department of Higher Education, Ministry of Education, Government of India that aims to attract and engage leading Indian-origin researchers, scientists, and professionals from abroad and place them at premier government higher education institutions and national research laboratories in India to undertake cutting-edge research.
+The scheme embeds globally experienced researchers and professionals within leading Indian higher education and research institutions to undertake high-impact research, teaching, and mentorship in strategic and emerging domains. Through long-term and structured engagements aligned with national priorities, the PMRC Scheme seeks to position India as a global hub for academic and research excellence.
+**Objectives:**
+
+  - Establish industry and technology partnerships for research scale-up
+  - Enhance India’s position in global research
+  - Improve research quality and international collaboration
+  - Build research and development capacity in Higher Education Institutions (HEIs)
+  - Identify and integrate talent with India’s R&amp;D ecosystem
+  - Provide mentorship for niche areas
+
+***The scheme is focused on supporting RDI activities by PMRC Fellows in the thematic areas, the details of which are provided below:***
+
+- Advanced Materials, Rare-earth & Critical Minerals
+- Energy, Sustainability and Climate Change
+- Agri & Food Technologies
+- Semiconductors
+- Advanced Computing (Supercomputing, Al, Quantum Computing)
+- Healthcare & MedTech
+- Space and Defence
+- Next-Gen Communications, including Quantum Communication
+- Blue Economy
+- Cybersecurity
+- Manufacturing & Industry 4.0
+- Biotechnology
+- Atomic Energy
+- Any other project aligned with the National Missions
+
+<br>
+
+## Benefits
+
+The scheme leverages India&#39;s global scientific diaspora to strengthen domestic research capabilities, accelerate innovation in frontier domains, and support national development missions. By embedding global expertise into premier government institutions in India, the scheme enables sustained collaboration, institutional learning, and real-world impact.
+***Under the scheme, the following benefits will be offered to Fellows:***
+
+- Competitive fellowship fee with annual increments
+- One-time research grant for project initiation
+- Residential and medical allowance
+- Relocation benefits linked to tenure
+- Access to advanced research infrastructure and facilities
+- Academic visibility, recognition, and leadership opportunities
+
+<br>
+
+## Eligibility
+
+1.  Eligible Fellow for the Scheme are:
+
+  - Indian origin (Indian nationals, Overseas Citizens of India, or Persons of Indian Origin) researchers / scientists and professionals working at leading foreign HEIs, research laboratories, and research institutions, reputed companies and other industries.
+  - The Fellowship is in-person and they will be expected to work at Host Institutions. The Scheme will support Fellows for a pre-determined period of duration, with a maximum tenure of 5 years based on performance of the candidate.
+
+2. Fellows must be able to demonstrate a distinguished track record in research, as evidenced by publications, patents, awards, citations, or other internationally recognised indicators of excellence. They must also be willing to commit to the prescribed engagement period and associated responsibilities including research, teaching, and mentorship. It should be noted that candidates currently based in India are also eligible, provided they meet the Indian-origin criterion and other requirements as determined by the Empowered Committee.
+3.  PMRC Fellows will be expected to:
+
+  - Conduct original, high-impact research in the identified priority sector(s) in collaboration with the Host
+  - Teach and co-design courses, contributing to curriculum enrichment
+  - Mentor doctoral, postdoctoral, and postgraduate students and junior researchers
+  - Facilitate international collaborations, publications, and co-funded R&amp;D projects
+  - Engage with industry partners to promote applied research and real-world adoption of research outcomes
+  - Ensure that research ideas translate into commercial products. The patents granted from work done under PMRC is of great importance so as to link research with industry-aligned innovation. They will be supported with patenting process chain.
+  - Submit periodic progress reports and participate in evaluations as stipulated by the Empowered Committee
+
+**Categories of Engagement**
+Over the next five years (2026-27 to 2030-31), the Scheme envisions engaging at least 120 distinguished researchers/ scientists and professionals across the above-mentioned categories:
+
+  - Young Research Fellows: Early-career researchers/ professionals with up to 5 years of post-PhD experience outside of India
+  - Senior Fellows: Mid-career researchers/ professionals with 5 to less than 10 years of post-PhD experience outside of India
+  - Research Chairs: Eminent researchers / professionals with 10 years or more of post-PhD experience outside of India
+
+**Note:** The eligibility criteria for selection of researchers/professionals, projects, and institutes will be finalised by the Empowered Committee.
+<br>
+
+## Application Process
+
+### Online
+
+***Candidates must submit an application through the official*** [***PMRC portal***](https://pmrc.education.gov.in/signup)***.***
+**Step 1:** Explore Thematic Areas: Fellows review the thematic areas and understand the scope and kind of problems PMRC aims to solve.
+**Step 2:** Submission of Application: The applicant submits a complete application consisting of their curriculum vitae, preferred thematic area, and detailed academic profile.
+**Step 3:** Evaluation by Expert Committees: Expert Committees evaluate submitted profiles of prospective PMRC Fellows.
+**Step 4:** Selection &amp; Project Launch: PMRC Fellows initiate research projects with their mapped Host Institution, supported by funding, mentorship and infrastructure.
+**Note 1:** The Empowered Committee may recommend high-calibre researchers and professionals to the Fellowship. These exceptional candidates would have the potential to significantly enhance the quality and nature of research, development, and innovation in specific thematic areas. 
+**Note 2:** For queries related to this Call for Applications, please contact: contact.pmrc@gov.in
+<br>
+
+## References
+
+- [Official Website](https://pmrc.education.gov.in/about)
+- [Application Details](https://pmrc.education.gov.in/gallery/PMRC-Call%20for%20Applications.pdf)
+- [Online Application](https://pmrc.education.gov.in/signup)
+
+## Documents Required
+
+1. Curriculum vitae (including full list of publications, patents, awards, and international engagements) and proof of past work and education
+   1. Detail of Citizenship, VISA, and any other documents supporting domicile/residency
+   1. Details of research outputs, patents granted and commercialized, and any other research/professional achievements aligned with a thematic area
+   1. Details of the preferred Host Institution (if any), including the rationale for the choice
+   1. Any other document as required
+
+<br>
+
+## Frequently Asked Questions
+
+### Who can apply as a PMRC Fellow?
+
+Indian Nationals working abroad, Overseas Citizen of India (OCI) cardholders, and Persons of Indian Origin (PIOs) who are engaged in research, innovation, technology, academia, or industry abroad may apply, subject to eligibility conditions.
+<br>
+
+### What are the fellowship categories under the PMRC Scheme?
+
+The scheme offers three categories:
+
+- Young Research Fellow (YRF)
+- Senior Fellow (SF)
+- Research Chair (RC)
+
+<br>
+
+### What is the eligibility criterion for Young Research Fellows?
+
+Young Research Fellows should generally have less than 5 years of post-PhD experience and demonstrate strong research potential and achievements.
+<br>
+
+### Who can apply as a Senior Fellow?
+
+Researchers with 5 years to less than 10 years of post-PhD experience and a notable record of research contributions may apply as Senior Fellows.
+<br>
+
+### Who is eligible for the Research Chair category?
+
+Researchers with 10 years or more of post-PhD experience and demonstrated leadership in research, innovation, or technology development are eligible for the Research Chair category.
+<br>
+
+### Is it mandatory for applicants to be working outside India?
+
+Yes. The scheme is designed for accomplished Indian-origin researchers and professionals currently engaged with institutions, laboratories, companies, or industries outside India.
+<br>
+
+### How can a Fellow apply for the PMRC Scheme?
+
+Applications must be submitted online through the PMRC portal by registering as a Fellow and completing the prescribed application process.
+<br>
+
+### How are Fellows selected?
+
+Applications are evaluated by expert committees based on academic excellence, research achievements, innovation potential, leadership capabilities, and alignment with the identified thematic areas.
+<br>
+
+### How long can a Fellow be engaged under the PMRC Scheme?
+
+The engagement period may extend up to five years, subject to the terms of the fellowship and satisfactory performance.
+<br>
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "All"
+    ],
+    "schemeShortTitle": "PMRC-F",
+    "level": "Central",
+    "schemeFor": "Individual",
+    "nodalMinistryName": "Ministry of Education",
+    "schemeCategory": [
+      "Science, IT & Communications"
+    ],
+    "schemeName": "Prime Minister Research Chair (PMRC) Scheme - For Fellows",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "pmrc",
+    "briefDescription": "The scheme is a flagship national initiative that aims to attract & engage leading Indian-origin researchers, scientists & professionals from abroad & place them at premier government higher education institutions & national research laboratories in India to undertake cutting-edge research.",
+    "tags": [
+      "Scientist",
+      "Researcher",
+      "Fellowship",
+      "Innovation",
+      "Professional",
+      "Abroad"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "698b011ecb1b04954c2efcce",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Scientist",
+            "Researcher",
+            "Fellowship",
+            "Innovation",
+            "Professional",
+            "Abroad"
+          ],
+          "schemeName": "Prime Minister Research Chair (PMRC) Scheme - For Fellows",
+          "schemeShortTitle": "PMRC-F",
+          "level": {
+            "value": "central",
+            "label": "Central"
+          },
+          "schemeType": {
+            "value": "central-sector-scheme",
+            "label": "Central Sector Scheme"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce9ced6d1a3bde46853a4",
+              "label": "Science, IT & Communications"
+            }
+          ],
+          "schemeSubCategory": null,
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "schemeFor": "Individual",
+          "nodalMinistryName": {
+            "value": 488,
+            "label": "Ministry of Education"
+          },
+          "nodalDepartmentName": {
+            "value": 1608,
+            "label": "Department Of Higher Education"
+          }
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://pmrc.education.gov.in/about"
+            },
+            {
+              "title": "Application Details",
+              "url": "https://pmrc.education.gov.in/gallery/PMRC-Call%20for%20Applications.pdf"
+            },
+            {
+              "title": "Online Application",
+              "url": "https://pmrc.education.gov.in/signup"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The Prime Minister Research Chair (PMRC) Scheme is a flagship national initiative by the Department of Higher Education, Ministry of Education, Government of India that aims to attract and engage leading Indian-origin researchers, scientists, and professionals from abroad and place them at premier government higher education institutions and national research laboratories in India to undertake cutting-edge research.\nThe scheme embeds globally experienced researchers and professionals within leading Indian higher education and research institutions to undertake high-impact research, teaching, and mentorship in strategic and emerging domains. Through long-term and structured engagements aligned with national priorities, the PMRC Scheme seeks to position India as a global hub for academic and research excellence.\n**Objectives:**\n\n  - Establish industry and technology partnerships for research scale-up\n  - Enhance India’s position in global research\n  - Improve research quality and international collaboration\n  - Build research and development capacity in Higher Education Institutions (HEIs)\n  - Identify and integrate talent with India’s R&amp;amp;D ecosystem\n  - Provide mentorship for niche areas\n\n***The scheme is focused on supporting RDI activities by PMRC Fellows in the thematic areas, the details of which are provided below:***\n\n- Advanced Materials, Rare-earth &amp; Critical Minerals\n- Energy, Sustainability and Climate Change\n- Agri &amp; Food Technologies\n- Semiconductors\n- Advanced Computing (Supercomputing, Al, Quantum Computing)\n- Healthcare &amp; MedTech\n- Space and Defence\n- Next-Gen Communications, including Quantum Communication\n- Blue Economy\n- Cybersecurity\n- Manufacturing &amp; Industry 4.0\n- Biotechnology\n- Atomic Energy\n- Any other project aligned with the National Missions\n\n<br>\n\n",
+          "benefits_md": "The scheme leverages India&amp;#39;s global scientific diaspora to strengthen domestic research capabilities, accelerate innovation in frontier domains, and support national development missions. By embedding global expertise into premier government institutions in India, the scheme enables sustained collaboration, institutional learning, and real-world impact.\n***Under the scheme, the following benefits will be offered to Fellows:***\n\n- Competitive fellowship fee with annual increments\n- One-time research grant for project initiation\n- Residential and medical allowance\n- Relocation benefits linked to tenure\n- Access to advanced research infrastructure and facilities\n- Academic visibility, recognition, and leadership opportunities\n\n<br>\n\n",
+          "exclusions_md": "<br>\n\n",
+          "briefDescription": "The scheme is a flagship national initiative that aims to attract & engage leading Indian-origin researchers, scientists & professionals from abroad & place them at premier government higher education institutions & national research laboratories in India to undertake cutting-edge research.",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The Prime Minister Research Chair (PMRC) Scheme is a flagship national initiative by the Department of Higher Education, Ministry of Education, Government of India that aims to attract and engage leading Indian-origin researchers, scientists, and professionals from abroad and place them at premier government higher education institutions and national research laboratories in India to undertake cutting-edge research."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The scheme embeds globally experienced researchers and professionals within leading Indian higher education and research institutions to undertake high-impact research, teaching, and mentorship in strategic and emerging domains. Through long-term and structured engagements aligned with national priorities, the PMRC Scheme seeks to position India as a global hub for academic and research excellence."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Objectives:",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Establish industry and technology partnerships for research scale-up"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Enhance India’s position in global research"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Improve research quality and international collaboration"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Build research and development capacity in Higher Education Institutions (HEIs)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Identify and integrate talent with India’s R&D ecosystem"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Provide mentorship for niche areas"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is focused on supporting RDI activities by PMRC Fellows in the thematic areas, the details of which are provided below:",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Advanced Materials, Rare-earth & Critical Minerals"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Energy, Sustainability and Climate Change"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Agri & Food Technologies"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Semiconductors"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Advanced Computing (Supercomputing, Al, Quantum Computing)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Healthcare & MedTech"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Space and Defence"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Next-Gen Communications, including Quantum Communication"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Blue Economy"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Cybersecurity"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Manufacturing & Industry 4.0"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Biotechnology"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Atomic Energy"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any other project aligned with the National Missions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 2,
+            "value": "in-kind",
+            "label": "In Kind"
+          },
+          "benefits": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The scheme leverages India's global scientific diaspora to strengthen domestic research capabilities, accelerate innovation in frontier domains, and support national development missions. By embedding global expertise into premier government institutions in India, the scheme enables sustained collaboration, institutional learning, and real-world impact."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme, the following benefits will be offered to Fellows:",
+                  "italic": true,
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Competitive fellowship fee with annual increments"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "One-time research grant for project initiation"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Residential and medical allowance"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Relocation benefits linked to tenure"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Access to advanced research infrastructure and facilities"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Academic visibility, recognition, and leadership opportunities"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Candidates must submit an application through the official ",
+                        "bold": true,
+                        "italic": true
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://pmrc.education.gov.in/signup",
+                        "children": [
+                          {
+                            "text": "PMRC portal",
+                            "bold": true,
+                            "italic": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": ".",
+                        "bold": true,
+                        "italic": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Explore Thematic Areas: Fellows review the thematic areas and understand the scope and kind of problems PMRC aims to solve."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Submission of Application: The applicant submits a complete application consisting of their curriculum vitae, preferred thematic area, and detailed academic profile."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Evaluation by Expert Committees: Expert Committees evaluate submitted profiles of prospective PMRC Fellows."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Selection & Project Launch: PMRC Fellows initiate research projects with their mapped Host Institution, supported by funding, mentorship and infrastructure."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The Empowered Committee may recommend high-calibre researchers and professionals to the Fellowship. These exceptional candidates would have the potential to significantly enhance the quality and nature of research, development, and innovation in specific thematic areas. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " For queries related to this Call for Applications, please contact: contact.pmrc@gov.in"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "process_md": "***Candidates must submit an application through the official*** [***PMRC portal***](https://pmrc.education.gov.in/signup)***.***\n**Step 1:** Explore Thematic Areas: Fellows review the thematic areas and understand the scope and kind of problems PMRC aims to solve.\n**Step 2:** Submission of Application: The applicant submits a complete application consisting of their curriculum vitae, preferred thematic area, and detailed academic profile.\n**Step 3:** Evaluation by Expert Committees: Expert Committees evaluate submitted profiles of prospective PMRC Fellows.\n**Step 4:** Selection &amp;amp; Project Launch: PMRC Fellows initiate research projects with their mapped Host Institution, supported by funding, mentorship and infrastructure.\n**Note 1:** The Empowered Committee may recommend high-calibre researchers and professionals to the Fellowship. These exceptional candidates would have the potential to significantly enhance the quality and nature of research, development, and innovation in specific thematic areas. \n**Note 2:** For queries related to this Call for Applications, please contact: contact.pmrc@gov.in\n<br>\n\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "1.  Eligible Fellow for the Scheme are:\n\n  - Indian origin (Indian nationals, Overseas Citizens of India, or Persons of Indian Origin) researchers / scientists and professionals working at leading foreign HEIs, research laboratories, and research institutions, reputed companies and other industries.\n  - The Fellowship is in-person and they will be expected to work at Host Institutions. The Scheme will support Fellows for a pre-determined period of duration, with a maximum tenure of 5 years based on performance of the candidate.\n\n2. Fellows must be able to demonstrate a distinguished track record in research, as evidenced by publications, patents, awards, citations, or other internationally recognised indicators of excellence. They must also be willing to commit to the prescribed engagement period and associated responsibilities including research, teaching, and mentorship. It should be noted that candidates currently based in India are also eligible, provided they meet the Indian-origin criterion and other requirements as determined by the Empowered Committee.\n3.  PMRC Fellows will be expected to:\n\n  - Conduct original, high-impact research in the identified priority sector(s) in collaboration with the Host\n  - Teach and co-design courses, contributing to curriculum enrichment\n  - Mentor doctoral, postdoctoral, and postgraduate students and junior researchers\n  - Facilitate international collaborations, publications, and co-funded R&amp;amp;D projects\n  - Engage with industry partners to promote applied research and real-world adoption of research outcomes\n  - Ensure that research ideas translate into commercial products. The patents granted from work done under PMRC is of great importance so as to link research with industry-aligned innovation. They will be supported with patenting process chain.\n  - Submit periodic progress reports and participate in evaluations as stipulated by the Empowered Committee\n\n**Categories of Engagement**\nOver the next five years (2026-27 to 2030-31), the Scheme envisions engaging at least 120 distinguished researchers/ scientists and professionals across the above-mentioned categories:\n\n  - Young Research Fellows: Early-career researchers/ professionals with up to 5 years of post-PhD experience outside of India\n  - Senior Fellows: Mid-career researchers/ professionals with 5 to less than 10 years of post-PhD experience outside of India\n  - Research Chairs: Eminent researchers / professionals with 10 years or more of post-PhD experience outside of India\n\n**Note:** The eligibility criteria for selection of researchers/professionals, projects, and institutes will be finalised by the Empowered Committee.\n<br>\n\n",
+          "eligibilityDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "1.  Eligible Fellow for the Scheme are:"
+                    }
+                  ]
+                },
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Indian origin (Indian nationals, Overseas Citizens of India, or Persons of Indian Origin) researchers / scientists and professionals working at leading foreign HEIs, research laboratories, and research institutions, reputed companies and other industries."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The Fellowship is in-person and they will be expected to work at Host Institutions. The Scheme will support Fellows for a pre-determined period of duration, with a maximum tenure of 5 years based on performance of the candidate."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "2. Fellows must be able to demonstrate a distinguished track record in research, as evidenced by publications, patents, awards, citations, or other internationally recognised indicators of excellence. They must also be willing to commit to the prescribed engagement period and associated responsibilities including research, teaching, and mentorship. It should be noted that candidates currently based in India are also eligible, provided they meet the Indian-origin criterion and other requirements as determined by the Empowered Committee."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "3.  PMRC Fellows will be expected to:"
+                    }
+                  ]
+                },
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Conduct original, high-impact research in the identified priority sector(s) in collaboration with the Host"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Teach and co-design courses, contributing to curriculum enrichment"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Mentor doctoral, postdoctoral, and postgraduate students and junior researchers"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Facilitate international collaborations, publications, and co-funded R&D projects"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Engage with industry partners to promote applied research and real-world adoption of research outcomes"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Ensure that research ideas translate into commercial products. The patents granted from work done under PMRC is of great importance so as to link research with industry-aligned innovation. They will be supported with patenting process chain."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Submit periodic progress reports and participate in evaluations as stipulated by the Empowered Committee"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Categories of Engagement",
+                      "underline": true,
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Over the next five years (2026-27 to 2030-31), the Scheme envisions engaging at least 120 distinguished researchers/ scientists and professionals across the above-mentioned categories:"
+                    }
+                  ]
+                },
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Young Research Fellows: Early-career researchers/ professionals with up to 5 years of post-PhD experience outside of India"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Senior Fellows: Mid-career researchers/ professionals with 5 to less than 10 years of post-PhD experience outside of India"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Research Chairs: Eminent researchers / professionals with 10 years or more of post-PhD experience outside of India"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Note:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The eligibility criteria for selection of researchers/professionals, projects, and institutes will be finalised by the Empowered Committee."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "pmrc"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "698b01d68da282bbf4ba1fba",
+      "schemeId": "698b011ecb1b04954c2efcce",
+      "en": {
+        "documents_required": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Curriculum vitae (including full list of publications, patents, awards, and international engagements) and proof of past work and education"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Detail of Citizenship, VISA, and any other documents supporting domicile/residency"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Details of research outputs, patents granted and commercialized, and any other research/professional achievements aligned with a thematic area"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Details of the preferred Host Institution (if any), including the rationale for the choice"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Any other document as required"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n   1. Curriculum vitae (including full list of publications, patents, awards, and international engagements) and proof of past work and education\n   1. Detail of Citizenship, VISA, and any other documents supporting domicile/residency\n   1. Details of research outputs, patents granted and commercialized, and any other research/professional achievements aligned with a thematic area\n   1. Details of the preferred Host Institution (if any), including the rationale for the choice\n   1. Any other document as required\n\n<br>\n\n"
+      }
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "698b0260cb1b04954c2f0558",
+      "schemeId": "698b011ecb1b04954c2efcce",
+      "en": {
+        "faqs": [
+          {
+            "question": "Who can apply as a PMRC Fellow?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Indian Nationals working abroad, Overseas Citizen of India (OCI) cardholders, and Persons of Indian Origin (PIOs) who are engaged in research, innovation, technology, academia, or industry abroad may apply, subject to eligibility conditions."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Indian Nationals working abroad, Overseas Citizen of India (OCI) cardholders, and Persons of Indian Origin (PIOs) who are engaged in research, innovation, technology, academia, or industry abroad may apply, subject to eligibility conditions.\n<br>\n\n"
+          },
+          {
+            "question": "What are the fellowship categories under the PMRC Scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme offers three categories:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Young Research Fellow (YRF)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Senior Fellow (SF)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Research Chair (RC)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme offers three categories:\n\n- Young Research Fellow (YRF)\n- Senior Fellow (SF)\n- Research Chair (RC)\n\n<br>\n\n"
+          },
+          {
+            "question": "What is the eligibility criterion for Young Research Fellows?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Young Research Fellows should generally have less than 5 years of post-PhD experience and demonstrate strong research potential and achievements."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Young Research Fellows should generally have less than 5 years of post-PhD experience and demonstrate strong research potential and achievements.\n<br>\n\n"
+          },
+          {
+            "question": "Who can apply as a Senior Fellow?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Researchers with 5 years to less than 10 years of post-PhD experience and a notable record of research contributions may apply as Senior Fellows."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Researchers with 5 years to less than 10 years of post-PhD experience and a notable record of research contributions may apply as Senior Fellows.\n<br>\n\n"
+          },
+          {
+            "question": "Who is eligible for the Research Chair category?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Researchers with 10 years or more of post-PhD experience and demonstrated leadership in research, innovation, or technology development are eligible for the Research Chair category."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Researchers with 10 years or more of post-PhD experience and demonstrated leadership in research, innovation, or technology development are eligible for the Research Chair category.\n<br>\n\n"
+          },
+          {
+            "question": "Is it mandatory for applicants to be working outside India?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes. The scheme is designed for accomplished Indian-origin researchers and professionals currently engaged with institutions, laboratories, companies, or industries outside India."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes. The scheme is designed for accomplished Indian-origin researchers and professionals currently engaged with institutions, laboratories, companies, or industries outside India.\n<br>\n\n"
+          },
+          {
+            "question": "How can a Fellow apply for the PMRC Scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applications must be submitted online through the PMRC portal by registering as a Fellow and completing the prescribed application process."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applications must be submitted online through the PMRC portal by registering as a Fellow and completing the prescribed application process.\n<br>\n\n"
+          },
+          {
+            "question": "How are Fellows selected?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applications are evaluated by expert committees based on academic excellence, research achievements, innovation potential, leadership capabilities, and alignment with the identified thematic areas."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applications are evaluated by expert committees based on academic excellence, research achievements, innovation potential, leadership capabilities, and alignment with the identified thematic areas.\n<br>\n\n"
+          },
+          {
+            "question": "How long can a Fellow be engaged under the PMRC Scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The engagement period may extend up to five years, subject to the terms of the fellowship and satisfactory performance."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The engagement period may extend up to five years, subject to the terms of the fellowship and satisfactory performance.\n<br>\n\n"
+          }
+        ]
+      }
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

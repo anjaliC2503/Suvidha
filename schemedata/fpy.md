@@ -1,0 +1,1050 @@
+# Fal Podharopan Yojana
+
+- **Slug:** `fpy`
+- **Scheme ID:** `672b93c2cef677932c61b527`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/fpy
+- **Dbt Scheme:** No
+- **Tags:** Fruit, Plantation, Farm, Farmer, Plant, Crop, Agriculture, Horticulture
+- **Scheme Name:** Fal Podharopan Yojana
+- **Scheme Short Title:** FPY
+- **Level:** State/ UT
+- **Scheme Category:** Agriculture,Rural & Environment
+- **Scheme Sub Category:** Soil health, Financial assistance
+- **Scheme Open Date:** 1999-04-01
+- **Target Beneficiaries:** Individual
+- **State:** Madhya Pradesh
+- **Nodal Department Name:** Horticulture and Food Processing Department
+- **Scheme For:** Individual
+
+## Brief Description
+
+The objective of this scheme is to expand the area under fruit plantation in the district and increase the fruit production. This scheme is implemented in all the 52 districts of the state.
+
+## Detailed Description
+
+The scheme "Fal Podharopan Yojana" by the Horticulture and Food Processing Department, Government of Madhya Pradesh, provides targeted support to farmers for fruit cultivation, taking into account land conditions, climate, and irrigation availability. Under this scheme, farmers receive a subsidy of 40% to 50% of the unit cost, disbursed over three years, in the ratio of 60:20:20, for planting fruit saplings on areas ranging from 0.25 to 4 hectares. Eligible fruits include mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, tissue-cultured banana, hybrid-seed papaya, munga, and lemon. The subsidy applies to both standard and high-density plantations, with or without drip irrigation, to support sustainable and high-yield fruit farming.
+
+## Benefits
+
+40% to 50% of grant-in-aid is payable in the ratio of 60:20:20 in three years.
+<br>
+
+Sr. No.ConstituentPercentage of grant-in-aidPer Hectare Unit Cost for Dripless IrrigationGrant-in-Aid for Driplessrrigation (60:20:20)Per Hectare Unit Cost for Drip IrrigationGrant-in-Aid for  for Drip Irrigation (60:20:20)1.Normal Distance40% to 50%60,00030,0001,00,00040,0002.High Density40%1,00,00040,0001,50,00060,0003.Ultra High Density40%1,25,00040,0002,00,00080,000(Amount in ₹)
+
+## Eligibility
+
+1. The applicant should own private land.
+1. The land area should be at least 0.25 hectares.
+1. The land area should not exceed 4 hectares.
+1. The applicant should have adequate means of irrigation to support fruit plantation.
+1. The applicant should be interested in growing fruit crops.
+1. The applicant should have a strong interest in plantation activities.
+1. The applicant should be from one of the following social categories - General, Scheduled Tribe, Scheduled Caste.
+
+## Application Process
+
+### Online
+
+> **Registration**
+
+**Step 1:** Go to the [official website](https://www.mpfsts.mp.gov.in/) of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.
+**Step 2:** Click on “[Register Online.](https://www.mpfsts.mp.gov.in/vendor-registration-form.aspx)”
+**Step 3:** Complete the form by entering all necessary information marked with an *.
+**Step 4:** Upload the required documents, such as proof of land ownership, irrigation facility evidence, and any certificates relevant to eligibility.
+**Step 5:** Submit the application after reviewing all details, and save or print the acknowledgement receipt for future reference.
+<br>
+
+> **Application**
+
+**Step 1:** Go to the [official website](https://www.mpfsts.mp.gov.in/) of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.
+**Step 2:** Signin using your email, password, and captcha code.
+**Step 3:** Select the scheme you intend to apply for. In the application form, fill in the mandatory details, and upload the necessary documents.
+**Step 4:** Review all details and submit the application. Save/print the acknowledgement receipt for future reference.
+
+### Offline
+
+**Step 1:** The interested applicant should visit (during office hours) the office of the Deputy/Assistant Director of Horticulture or the office of the Senior Horticulture Development Officer, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.
+**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).
+**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned officer at the office.
+**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).
+**NOTE:** Ensure that the application is submitted within the prescribed period, if any.
+
+## References
+
+- [Guidelines](https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%AB%E0%A4%B2%20%E0%A4%AA%E0%A5%8C%E0%A4%A7%20%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A4%A3%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-converted.pdf)
+- [Registration](https://www.mpfsts.mp.gov.in/)
+- [Scheme Details](https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=529)
+
+## Documents Required
+
+1. Aadhaar Card.
+1. Proof of Land Ownership.
+1. Forest Rights Certificate (if applicable).
+1. Bank Account Details.
+1. Previous Crop Records (to verify that land is new or transitioning from food crops to orchards).
+1. Passport-Sized Photograph.
+
+## Frequently Asked Questions
+
+### What is the primary objective of the Fal Podharopan Yojana?
+
+To support farmers in establishing fruit orchards and increase agricultural income.
+
+### Who is eligible to apply for this scheme?
+
+Farmers in Madhya Pradesh with private land, adequate irrigation, and an interest in fruit cultivation.
+
+### What fruits are covered under this scheme?
+
+Fruits like mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, banana, munga, and papaya.
+
+### How much subsidy can a farmer receive?
+
+Farmers can receive a 40-50% subsidy on the unit cost of saplings.
+
+### What is the subsidy distribution ratio over three years?
+
+Subsidy is distributed as 60:20:20 across three years.
+
+### What is the minimum and maximum land area eligible for the subsidy?
+
+The scheme covers plantation from 0.25 to 4.00 hectares.
+
+### Can farmers use existing farmland for the scheme?
+
+Yes, but the land must be new for orchards or transitioning from food crops.
+
+### What documents are needed to apply?
+
+Aadhaar, land ownership proof, irrigation evidence, and caste certificate if applicable.
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Madhya Pradesh"
+    ],
+    "schemeShortTitle": "FPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Fal Podharopan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "fpy",
+    "briefDescription": "The objective of this scheme is to expand the area under fruit plantation in the district and increase the fruit production. This scheme is implemented in all the 52 districts of the state.",
+    "tags": [
+      "Fruit",
+      "Plantation",
+      "Farm",
+      "Farmer",
+      "Plant",
+      "Crop",
+      "Agriculture",
+      "Horticulture"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "672b93c2cef677932c61b527",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Fruit",
+            "Plantation",
+            "Farm",
+            "Farmer",
+            "Plant",
+            "Crop",
+            "Agriculture",
+            "Horticulture"
+          ],
+          "schemeName": "Fal Podharopan Yojana",
+          "schemeShortTitle": "FPY",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce6ead6d1a3bde4685252",
+              "label": "Agriculture,Rural & Environment"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Soil health",
+              "label": "Soil health"
+            },
+            {
+              "value": "Financial assistance",
+              "label": "Financial assistance"
+            }
+          ],
+          "schemeOpenDate": "1999-04-01",
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "state": {
+            "value": 23,
+            "label": "Madhya Pradesh"
+          },
+          "nodalDepartmentName": {
+            "value": 2300018,
+            "label": "Horticulture and Food Processing Department"
+          },
+          "schemeFor": "Individual"
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%AB%E0%A4%B2%20%E0%A4%AA%E0%A5%8C%E0%A4%A7%20%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A4%A3%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-converted.pdf"
+            },
+            {
+              "title": "Registration",
+              "url": "https://www.mpfsts.mp.gov.in/"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=529"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The scheme &quot;Fal Podharopan Yojana&quot; by the Horticulture and Food Processing Department, Government of Madhya Pradesh, provides targeted support to farmers for fruit cultivation, taking into account land conditions, climate, and irrigation availability. Under this scheme, farmers receive a subsidy of 40% to 50% of the unit cost, disbursed over three years, in the ratio of 60:20:20, for planting fruit saplings on areas ranging from 0.25 to 4 hectares. Eligible fruits include mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, tissue-cultured banana, hybrid-seed papaya, munga, and lemon. The subsidy applies to both standard and high-density plantations, with or without drip irrigation, to support sustainable and high-yield fruit farming.\n",
+          "benefits_md": "40% to 50% of grant-in-aid is payable in the ratio of 60:20:20 in three years.\n<br>\n\nSr. No.ConstituentPercentage of grant-in-aidPer Hectare Unit Cost for Dripless IrrigationGrant-in-Aid for Driplessrrigation (60:20:20)Per Hectare Unit Cost for Drip IrrigationGrant-in-Aid for  for Drip Irrigation (60:20:20)1.Normal Distance40% to 50%60,00030,0001,00,00040,0002.High Density40%1,00,00040,0001,50,00060,0003.Ultra High Density40%1,25,00040,0002,00,00080,000(Amount in ₹)\n",
+          "exclusions_md": "<br>\n\n",
+          "briefDescription": "The objective of this scheme is to expand the area under fruit plantation in the district and increase the fruit production. This scheme is implemented in all the 52 districts of the state.",
+          "detailedDescription": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Fal Podharopan Yojana\" by the Horticulture and Food Processing Department, Government of Madhya Pradesh, provides targeted support to farmers for fruit cultivation, taking into account land conditions, climate, and irrigation availability. Under this scheme, farmers receive a subsidy of 40% to 50% of the unit cost, disbursed over three years, in the ratio of 60:20:20, for planting fruit saplings on areas ranging from 0.25 to 4 hectares. Eligible fruits include mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, tissue-cultured banana, hybrid-seed papaya, munga, and lemon. The subsidy applies to both standard and high-density plantations, with or without drip irrigation, to support sustainable and high-yield fruit farming."
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 1,
+            "value": "cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "40% to 50% of grant-in-aid is payable in the ratio of 60:20:20 in three years."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "children": [
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Sr. No."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Constituent"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Percentage of grant-in-aid"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Per Hectare Unit Cost for Dripless Irrigation"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Grant-in-Aid for Driplessrrigation (60:20:20)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Per Hectare Unit Cost for Drip Irrigation"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Grant-in-Aid for  for Drip Irrigation (60:20:20)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "1."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Normal Distance"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "40% to 50%"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "60,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "30,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "1,00,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "40,000"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "2."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "High Density"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "40%"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "1,00,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "40,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "1,50,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "60,000"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "3."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Ultra High Density"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "40%"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "1,25,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "40,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "2,00,000"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "80,000"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(Amount in ₹)"
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Registration",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Go to the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://www.mpfsts.mp.gov.in/",
+                    "children": [
+                      {
+                        "text": "official website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the Horticulture and Food Processing Department of the Government of Madhya Pradesh."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on “"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://www.mpfsts.mp.gov.in/vendor-registration-form.aspx",
+                    "children": [
+                      {
+                        "text": "Register Online."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "”"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Complete the form by entering all necessary information marked with an *."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Upload the required documents, such as proof of land ownership, irrigation facility evidence, and any certificates relevant to eligibility."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the application after reviewing all details, and save or print the acknowledgement receipt for future reference."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Go to the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://www.mpfsts.mp.gov.in/",
+                    "children": [
+                      {
+                        "text": "official website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the Horticulture and Food Processing Department of the Government of Madhya Pradesh."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Signin using your email, password, and captcha code."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Select the scheme you intend to apply for. In the application form, fill in the mandatory details, and upload the necessary documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Review all details and submit the application. Save/print the acknowledgement receipt for future reference."
+                  }
+                ]
+              }
+            ],
+            "process_md": "> **Registration**\n\n**Step 1:** Go to the [official website](https://www.mpfsts.mp.gov.in/) of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.\n**Step 2:** Click on “[Register Online.](https://www.mpfsts.mp.gov.in/vendor-registration-form.aspx)”\n**Step 3:** Complete the form by entering all necessary information marked with an *.\n**Step 4:** Upload the required documents, such as proof of land ownership, irrigation facility evidence, and any certificates relevant to eligibility.\n**Step 5:** Submit the application after reviewing all details, and save or print the acknowledgement receipt for future reference.\n<br>\n\n> **Application**\n\n**Step 1:** Go to the [official website](https://www.mpfsts.mp.gov.in/) of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.\n**Step 2:** Signin using your email, password, and captcha code.\n**Step 3:** Select the scheme you intend to apply for. In the application form, fill in the mandatory details, and upload the necessary documents.\n**Step 4:** Review all details and submit the application. Save/print the acknowledgement receipt for future reference.\n"
+          },
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the office of the Deputy/Assistant Director of Horticulture or the office of the Senior Horticulture Development Officer, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned officer at the office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "NOTE: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Ensure that the application is submitted within the prescribed period, if any."
+                  }
+                ]
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the office of the Deputy/Assistant Director of Horticulture or the office of the Senior Horticulture Development Officer, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned officer at the office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n1. The applicant should own private land.\n1. The land area should be at least 0.25 hectares.\n1. The land area should not exceed 4 hectares.\n1. The applicant should have adequate means of irrigation to support fruit plantation.\n1. The applicant should be interested in growing fruit crops.\n1. The applicant should have a strong interest in plantation activities.\n1. The applicant should be from one of the following social categories - General, Scheduled Tribe, Scheduled Caste.\n\n",
+          "eligibilityDescription": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should own private land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The land area should be at least 0.25 hectares."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The land area should not exceed 4 hectares."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have adequate means of irrigation to support fruit plantation."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be interested in growing fruit crops."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have a strong interest in plantation activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be from one of the following social categories - General, Scheduled Tribe, Scheduled Caste."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "fpy"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "672b9430cef677932c61b5a4",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Proof of Land Ownership."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Forest Rights Certificate (if applicable)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank Account Details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Previous Crop Records (to verify that land is new or transitioning from food crops to orchards)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Passport-Sized Photograph."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n1. Aadhaar Card.\n1. Proof of Land Ownership.\n1. Forest Rights Certificate (if applicable).\n1. Bank Account Details.\n1. Previous Crop Records (to verify that land is new or transitioning from food crops to orchards).\n1. Passport-Sized Photograph.\n\n"
+      },
+      "schemeId": "672b93c2cef677932c61b527"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "672b94f483693094f71c5807",
+      "en": {
+        "faqs": [
+          {
+            "question": "What is the primary objective of the Fal Podharopan Yojana?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To support farmers in establishing fruit orchards and increase agricultural income."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "To support farmers in establishing fruit orchards and increase agricultural income.\n"
+          },
+          {
+            "question": "Who is eligible to apply for this scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Farmers in Madhya Pradesh with private land, adequate irrigation, and an interest in fruit cultivation."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Farmers in Madhya Pradesh with private land, adequate irrigation, and an interest in fruit cultivation.\n"
+          },
+          {
+            "question": "What fruits are covered under this scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fruits like mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, banana, munga, and papaya."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Fruits like mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, banana, munga, and papaya.\n"
+          },
+          {
+            "question": "How much subsidy can a farmer receive?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Farmers can receive a 40-50% subsidy on the unit cost of saplings."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Farmers can receive a 40-50% subsidy on the unit cost of saplings.\n"
+          },
+          {
+            "question": "What is the subsidy distribution ratio over three years?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Subsidy is distributed as 60:20:20 across three years."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Subsidy is distributed as 60:20:20 across three years.\n"
+          },
+          {
+            "question": "What is the minimum and maximum land area eligible for the subsidy?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme covers plantation from 0.25 to 4.00 hectares."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme covers plantation from 0.25 to 4.00 hectares.\n"
+          },
+          {
+            "question": "Can farmers use existing farmland for the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes, but the land must be new for orchards or transitioning from food crops."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes, but the land must be new for orchards or transitioning from food crops.\n"
+          },
+          {
+            "question": "What documents are needed to apply?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aadhaar, land ownership proof, irrigation evidence, and caste certificate if applicable."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Aadhaar, land ownership proof, irrigation evidence, and caste certificate if applicable.\n"
+          }
+        ]
+      },
+      "schemeId": "672b93c2cef677932c61b527"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

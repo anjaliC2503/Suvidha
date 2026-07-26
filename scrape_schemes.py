@@ -22,7 +22,7 @@ HEADERS = {
 }
 OUTPUT_DIR = Path(__file__).with_name("schemedata")
 
-REQUEST_INTERVAL = 0.5
+REQUEST_INTERVAL = 0.25
 request_lock = threading.Lock()
 next_request_at = 0.0
 

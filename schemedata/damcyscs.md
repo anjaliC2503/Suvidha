@@ -1,0 +1,700 @@
+# Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students
+
+- **Slug:** `damcyscs`
+- **Scheme ID:** `656385947e51bbad7a84b80c`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/damcyscs
+- **Dbt Scheme:** No
+- **Tags:** Ambedkar, Medhavi, Scheduled Caste, Student, Scholarship
+- **Scheme Name:** Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students
+- **Scheme Short Title:** DAMCYSCS
+- **Implementing Agency:** Department Of Education, Himachal Pradesh
+- **Level:** State/ UT
+- **Scheme Category:** Education & Learning
+- **Scheme Sub Category:** Scholarships and student finance
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Individual
+- **Scheme For:** Individual
+- **State:** Himachal Pradesh
+- **Nodal Department Name:** Education Department, Himachal Pradesh
+
+## Brief Description
+
+The scheme “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students” was started by the Dept. of Education, H.P. Under the scheme, scholarship is given to top 1250 meritorious students of SC category as such in the result of Matric Examination conducted by H.P. Board of School Education.
+
+## Detailed Description
+
+The scheme “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students” was started by the Department of Education, Himachal Pradesh. Under the scheme, the scholarship is given to the top 1250 meritorious students of the Scheduled Caste category after modification from the session 2018-19 declared as such in the result of the Matric Examination conducted by the H.P. Board of School Education, Dharamshala, strictly on a merit basis to students studying in a recognized (including Professional/Technical) institution within or outside the State. The renewal in the 10+2 Class/2nd Year of course will be subject to satisfactory performance in internal examinations of the 10+1 Class/1st Year Course.
+
+## Benefits
+
+1. Under this scholarship scheme, an amount of ₹18,000/- will be given to each eligible student per year for two successive years after matric.
+
+## Eligibility
+
+1. The student should be a permanent resident of Himachal Pradesh.
+   1. The student should belong to Scheduled Caste Category.
+   1. The scholarship will be given in case the eligible students take admission to any professional/technical course after Matric in a recognized Institution within or outside the state.
+
+**Note 01:** The scholarship is limited for a maximum of two successive years after matric.
+**Note 02:** The renewal in 2nd year of the course will be subject to satisfactory performance in 1st year of the course.
+
+## Application Process
+
+### Online
+
+**Step 01:** The students applying for the scholarship for the first time need to &quot;Register&quot; using the icon “New Registration” at the NSP Portal URL - [https://scholarships.gov.in/](https://scholarships.gov.in/), by providing accurate and correct information as per their documents.
+**Step 02:** After successfully get registration done, students will get their “Student Registration ID”.
+**Step 03:** Through “Student Registration ID” students will be able to login into the account using the icon “Fresh Application” at NSP Portal.
+**Step 04:** After successful login to the portal, the welcome page appeared. On clicking the “Application Form” icon, students will be directed to the application screen.
+**Step 05:** Now, the students may fill out the complete application form and on clicking the “Final Submit” button, the application is finally submitted.
+**Step 06:** On successful submission of the application, a system-generated registration number is sent to the students which can be used for future reference.
+**Note 01:** The printed copy of the Online Scholarship Form (after successful online submission of the form), along with all requisite documents, needs to be submitted by the student to his/her Head of the Institute, who will retain it in the institution.
+**Note 02:** The Institution will further forward the duly attested printed form (after successful online verification) along with the Verified Candidate List(s) (on the prescribed format) to the concerned DDHE (in case of Govt./ Private Recognized Schools within the state) &amp; to this Directorate (in case of Professional/Technical institutes / Out of state institutes), for online verification &amp;cross-checking.
+**Note 03:** After successful online verification, the DDHE shall retain the hard copies of the students of Private Recognized School(s), and return the remaining forms to the concerned schools. The DDHE also needs to forward the Verified Candidate List(s) in r/o their respective district(s) to this Directorate.
+**Note 04:** In case, any offline application form is received by the Head of the Institute/DDHE, he/she is directed to return the same to the concerned student/institute, at his/her own level; &amp; to direct the sender to fill the form online &amp; submit the printed copy of the Online Application Form, afterward, through the same channel.
+
+## References
+
+- [Guidelines](https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr.%20Ambedkar%20medhavi%20Chhatrvriti%20%20Yojna%20for%20SC%20Student_new_2024.pdf)
+- [EPASS Portal](https://hpepass.cgg.gov.in/NewHomePage.do?actionParameter=stateSchemes)
+- [National Scholarship Portal](https://scholarships.gov.in/)
+
+## Documents Required
+
+1. Passport Size Photographs
+1. Copy of Aadhaar Card
+1. Copy of Himachali Bonafide Certificate (Domicile of Himachal Pradesh)
+1. Copy of Marks Certificate for Previous Years
+1. Copy of the first page of the Bank Passbook
+1. Scheduled Caste Category Certificate (Issued by an officer not below the rank of Tehsildar) 
+1. Copy of Student School Bonafide Certificate signed by Principal
+1. Income Certificate of Parent/Guardian (Issued by an officer, not below the rank of Tehsildar)
+1. Email and Mobile Number of Parents
+
+## Frequently Asked Questions
+
+### What is the “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students”?
+
+Under the scheme, the scholarship is given to the top 1250 meritorious students of the Scheduled Caste category after modification from the session 2018-19 declared as such in the result of the Matric Examination conducted by the H.P. Board of School Education, Dharamshala, strictly on a merit basis to students studying in a recognized (including Professional/Technical) institution within or outside the State. The renewal in the 10+2 Class/2nd Year of course will be subject to satisfactory performance in internal examinations of the 10+1 Class/1st Year Course.
+
+### Which is the implementing department of this scheme?
+
+Department of Education, Himachal Pradesh
+
+### Who is eligible to apply under the scheme?
+
+The scholarship will be given in case the eligible students take admission to any professional/technical course after Matric in a recognized Institution within or outside the state.
+
+### Is this scholarship scheme only for the students of Himachal Pradesh?
+
+Yes, only those students shall be eligible for the award of scholarships who are Bonafide residents of Himachal Pradesh.
+
+### What is the benefit of the scheme?
+
+Under this scholarship scheme, an amount of [?]18,000/- will be given to each eligible student per year for two successive years after matric.
+
+### Is this scheme only for the Scheduled Caste Category students?
+
+Yes, the student should belong to Scheduled Caste Category declared as such by the Himachal Government to avail the scholarship under the scheme.
+
+### For how long a student will receive scholarship?
+
+The scholarship is limited to a maximum of two successive years after matric.
+
+### How to apply for this scholarship?
+
+Online submission of the application form can be done through the website of the National Scholarship Portal. https://scholarships.gov.in/
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Himachal Pradesh"
+    ],
+    "schemeShortTitle": "DAMCYSCS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "damcyscs",
+    "briefDescription": "The scheme “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students” was started by the Dept. of Education, H.P. Under the scheme, scholarship is given to top 1250 meritorious students of SC category as such in the result of Matric Examination conducted by H.P. Board of School Education.",
+    "tags": [
+      "Ambedkar",
+      "Medhavi",
+      "Scheduled Caste",
+      "Student",
+      "Scholarship"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "656385947e51bbad7a84b80c",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Ambedkar",
+            "Medhavi",
+            "Scheduled Caste",
+            "Student",
+            "Scholarship"
+          ],
+          "schemeName": "Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students",
+          "schemeShortTitle": "DAMCYSCS",
+          "implementingAgency": "Department Of Education, Himachal Pradesh",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce76cd6d1a3bde4685292",
+              "label": "Education & Learning"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Scholarships and student finance",
+              "label": "Scholarships and student finance"
+            }
+          ],
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "schemeFor": "Individual",
+          "state": {
+            "value": 2,
+            "label": "Himachal Pradesh"
+          },
+          "nodalDepartmentName": {
+            "value": 21111117,
+            "label": "Education Department, Himachal Pradesh"
+          }
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr.%20Ambedkar%20medhavi%20Chhatrvriti%20%20Yojna%20for%20SC%20Student_new_2024.pdf"
+            },
+            {
+              "title": "EPASS Portal",
+              "url": "https://hpepass.cgg.gov.in/NewHomePage.do?actionParameter=stateSchemes"
+            },
+            {
+              "title": "National Scholarship Portal",
+              "url": "https://scholarships.gov.in/"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The scheme “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students” was started by the Department of Education, Himachal Pradesh. Under the scheme, the scholarship is given to the top 1250 meritorious students of the Scheduled Caste category after modification from the session 2018-19 declared as such in the result of the Matric Examination conducted by the H.P. Board of School Education, Dharamshala, strictly on a merit basis to students studying in a recognized (including Professional/Technical) institution within or outside the State. The renewal in the 10+2 Class/2nd Year of course will be subject to satisfactory performance in internal examinations of the 10+1 Class/1st Year Course.\n",
+          "benefits_md": "\n   1. Under this scholarship scheme, an amount of ₹18,000/- will be given to each eligible student per year for two successive years after matric.\n\n",
+          "briefDescription": "The scheme “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students” was started by the Dept. of Education, H.P. Under the scheme, scholarship is given to top 1250 meritorious students of SC category as such in the result of Matric Examination conducted by H.P. Board of School Education.",
+          "exclusions_md": "<br>\n\n",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The scheme “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students” was started by the Department of Education, Himachal Pradesh. Under the scheme, the scholarship is given to the top 1250 meritorious students of the Scheduled Caste category after modification from the session 2018-19 declared as such in the result of the Matric Examination conducted by the H.P. Board of School Education, Dharamshala, strictly on a merit basis to students studying in a recognized (including Professional/Technical) institution within or outside the State. The renewal in the 10+2 Class/2nd Year of course will be subject to satisfactory performance in internal examinations of the 10+1 Class/1st Year Course."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 1,
+            "value": "cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Under this scholarship scheme, an amount of ₹18,000/- will be given to each eligible student per year for two successive years after matric."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 01:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The students applying for the scholarship for the first time need to \"Register\" using the icon “New Registration” at the NSP Portal URL - "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://scholarships.gov.in/",
+                        "children": [
+                          {
+                            "text": "https://scholarships.gov.in/"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ", by providing accurate and correct information as per their documents."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 02:",
+                        "bold": true
+                      },
+                      {
+                        "text": " After successfully get registration done, students will get their “Student Registration ID”."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 03: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Through “Student Registration ID” students will be able to login into the account using the icon “Fresh Application” at NSP Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 04:",
+                        "bold": true
+                      },
+                      {
+                        "text": " After successful login to the portal, the welcome page appeared. On clicking the “Application Form” icon, students will be directed to the application screen."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 05:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Now, the students may fill out the complete application form and on clicking the “Final Submit” button, the application is finally submitted."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 06:",
+                        "bold": true
+                      },
+                      {
+                        "text": " On successful submission of the application, a system-generated registration number is sent to the students which can be used for future reference."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 01:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The printed copy of the Online Scholarship Form (after successful online submission of the form), along with all requisite documents, needs to be submitted by the student to his/her Head of the Institute, who will retain it in the institution."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 02:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The Institution will further forward the duly attested printed form (after successful online verification) along with the Verified Candidate List(s) (on the prescribed format) to the concerned DDHE (in case of Govt./ Private Recognized Schools within the state) & to this Directorate (in case of Professional/Technical institutes / Out of state institutes), for online verification &cross-checking."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 03:",
+                        "bold": true
+                      },
+                      {
+                        "text": " After successful online verification, the DDHE shall retain the hard copies of the students of Private Recognized School(s), and return the remaining forms to the concerned schools. The DDHE also needs to forward the Verified Candidate List(s) in r/o their respective district(s) to this Directorate."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 04: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "In case, any offline application form is received by the Head of the Institute/DDHE, he/she is directed to return the same to the concerned student/institute, at his/her own level; & to direct the sender to fill the form online & submit the printed copy of the Online Application Form, afterward, through the same channel."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "process_md": "**Step 01:** The students applying for the scholarship for the first time need to &amp;quot;Register&amp;quot; using the icon “New Registration” at the NSP Portal URL - [https://scholarships.gov.in/](https://scholarships.gov.in/), by providing accurate and correct information as per their documents.\n**Step 02:** After successfully get registration done, students will get their “Student Registration ID”.\n**Step 03:** Through “Student Registration ID” students will be able to login into the account using the icon “Fresh Application” at NSP Portal.\n**Step 04:** After successful login to the portal, the welcome page appeared. On clicking the “Application Form” icon, students will be directed to the application screen.\n**Step 05:** Now, the students may fill out the complete application form and on clicking the “Final Submit” button, the application is finally submitted.\n**Step 06:** On successful submission of the application, a system-generated registration number is sent to the students which can be used for future reference.\n**Note 01:** The printed copy of the Online Scholarship Form (after successful online submission of the form), along with all requisite documents, needs to be submitted by the student to his/her Head of the Institute, who will retain it in the institution.\n**Note 02:** The Institution will further forward the duly attested printed form (after successful online verification) along with the Verified Candidate List(s) (on the prescribed format) to the concerned DDHE (in case of Govt./ Private Recognized Schools within the state) &amp;amp; to this Directorate (in case of Professional/Technical institutes / Out of state institutes), for online verification &amp;amp;cross-checking.\n**Note 03:** After successful online verification, the DDHE shall retain the hard copies of the students of Private Recognized School(s), and return the remaining forms to the concerned schools. The DDHE also needs to forward the Verified Candidate List(s) in r/o their respective district(s) to this Directorate.\n**Note 04:** In case, any offline application form is received by the Head of the Institute/DDHE, he/she is directed to return the same to the concerned student/institute, at his/her own level; &amp;amp; to direct the sender to fill the form online &amp;amp; submit the printed copy of the Online Application Form, afterward, through the same channel.\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n   1. The student should be a permanent resident of Himachal Pradesh.\n   1. The student should belong to Scheduled Caste Category.\n   1. The scholarship will be given in case the eligible students take admission to any professional/technical course after Matric in a recognized Institution within or outside the state.\n\n**Note 01:** The scholarship is limited for a maximum of two successive years after matric.\n**Note 02:** The renewal in 2nd year of the course will be subject to satisfactory performance in 1st year of the course.\n",
+          "eligibilityDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The student should be a permanent resident of Himachal Pradesh."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The student should belong to Scheduled Caste Category."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The scholarship will be given in case the eligible students take admission to any professional/technical course after Matric in a recognized Institution within or outside the state."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Note 01:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The scholarship is limited for a maximum of two successive years after matric."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Note 02:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The renewal in 2nd year of the course will be subject to satisfactory performance in 1st year of the course."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "damcyscs"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "656385a89c52d316975d8f02",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Passport Size Photographs"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of Aadhaar Card"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of Himachali Bonafide Certificate (Domicile of Himachal Pradesh)"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of Marks Certificate for Previous Years"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of the first page of the Bank Passbook"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Scheduled Caste Category Certificate (Issued by an officer not below the rank of Tehsildar) "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of Student School Bonafide Certificate signed by Principal"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Income Certificate of Parent/Guardian (Issued by an officer, not below the rank of Tehsildar)"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Email and Mobile Number of Parents"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n1. Passport Size Photographs\n1. Copy of Aadhaar Card\n1. Copy of Himachali Bonafide Certificate (Domicile of Himachal Pradesh)\n1. Copy of Marks Certificate for Previous Years\n1. Copy of the first page of the Bank Passbook\n1. Scheduled Caste Category Certificate (Issued by an officer not below the rank of Tehsildar) \n1. Copy of Student School Bonafide Certificate signed by Principal\n1. Income Certificate of Parent/Guardian (Issued by an officer, not below the rank of Tehsildar)\n1. Email and Mobile Number of Parents\n\n"
+      },
+      "schemeId": "656385947e51bbad7a84b80c"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65643a957e51bbad7a85260a",
+      "en": {
+        "faqs": [
+          {
+            "question": "What is the “Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students”?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Under the scheme, the scholarship is given to the top 1250 meritorious students of the Scheduled Caste category after modification from the session 2018-19 declared as such in the result of the Matric Examination conducted by the H.P. Board of School Education, Dharamshala, strictly on a merit basis to students studying in a recognized (including Professional/Technical) institution within or outside the State. The renewal in the 10+2 Class/2nd Year of course will be subject to satisfactory performance in internal examinations of the 10+1 Class/1st Year Course."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Under the scheme, the scholarship is given to the top 1250 meritorious students of the Scheduled Caste category after modification from the session 2018-19 declared as such in the result of the Matric Examination conducted by the H.P. Board of School Education, Dharamshala, strictly on a merit basis to students studying in a recognized (including Professional/Technical) institution within or outside the State. The renewal in the 10+2 Class/2nd Year of course will be subject to satisfactory performance in internal examinations of the 10+1 Class/1st Year Course.\n"
+          },
+          {
+            "question": "Which is the implementing department of this scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Department of Education, Himachal Pradesh"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Department of Education, Himachal Pradesh\n"
+          },
+          {
+            "question": "Who is eligible to apply under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scholarship will be given in case the eligible students take admission to any professional/technical course after Matric in a recognized Institution within or outside the state."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scholarship will be given in case the eligible students take admission to any professional/technical course after Matric in a recognized Institution within or outside the state.\n"
+          },
+          {
+            "question": "Is this scholarship scheme only for the students of Himachal Pradesh?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes, only those students shall be eligible for the award of scholarships who are Bonafide residents of Himachal Pradesh."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes, only those students shall be eligible for the award of scholarships who are Bonafide residents of Himachal Pradesh.\n"
+          },
+          {
+            "question": "What is the benefit of the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Under this scholarship scheme, an amount of ₹18,000/- will be given to each eligible student per year for two successive years after matric. "
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Under this scholarship scheme, an amount of [?]18,000/- will be given to each eligible student per year for two successive years after matric. \n"
+          },
+          {
+            "question": "Is this scheme only for the Scheduled Caste Category students?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes, the student should belong to Scheduled Caste Category declared as such by the Himachal Government to avail the scholarship under the scheme. "
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes, the student should belong to Scheduled Caste Category declared as such by the Himachal Government to avail the scholarship under the scheme. \n"
+          },
+          {
+            "question": "For how long a student will receive scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scholarship is limited to a maximum of two successive years after matric."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scholarship is limited to a maximum of two successive years after matric.\n"
+          },
+          {
+            "question": "How to apply for this scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Online submission of the application form can be done through the website of the National Scholarship Portal. https://scholarships.gov.in/"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Online submission of the application form can be done through the website of the National Scholarship Portal. https://scholarships.gov.in/\n"
+          }
+        ]
+      },
+      "schemeId": "656385947e51bbad7a84b80c"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

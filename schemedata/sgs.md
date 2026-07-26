@@ -1,0 +1,893 @@
+# Good Samaritan Scheme
+
+- **Slug:** `sgs`
+- **Scheme ID:** `63e72f588b626e1ffc9f6adb`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/sgs
+- **Dbt Scheme:** Not specified
+- **Tags:** Accident, Citizen Empowerment, Health
+- **Scheme Name:** Good Samaritan Scheme
+- **Scheme Short Title:** SGS
+- **Level:** Central
+- **Scheme Type:** Central Sector Scheme
+- **Scheme Category:** Social welfare & Empowerment
+- **Scheme Sub Category:** Crisis/Disaster/Accident, Citizen empowerment
+- **Scheme Open Date:** 2021-03-10
+- **Target Beneficiaries:** Individual
+- **Scheme For:** Individual
+- **Nodal Ministry Name:** Ministry Of Road Transport & Highways
+- **Nodal Department Name:** Department of National Highways
+
+## Brief Description
+
+Launched on 3rd Oct 2021 by the MoRTH, the scheme grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to the Hospital/Trauma Care Centre within the Golden Hour of the accident.
+
+## Detailed Description
+
+Launched on 3rd Oct 2021 by the Ministry of Road Transport &amp; Highways, the &quot;Scheme for Good Samaritan&quot; grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment. The amount of award for each Good Samaritan would be ₹ 25,000/- per incident. The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026.
+The objective of the scheme is to motivate the general public to help road accident victims in emergency situations and inspire and motivate others to save innocent lives.. A Good Samaritan who has informed the police of any accident involving a motor vehicle, or who has transported a victim of an accident involving a motor vehicle to the hospital, shall not be subjected to any further requirements by the police or the hospital and shall be permitted to leave immediately.
+<br>
+
+## Benefits
+
+- **Award Amount For Single Incident:** If one Good Samaritan saves one or more victims in a single fatal motor vehicle accident, a total award of ₹ 5,000/- is given.  - **Award Distribution Among Multiple Samaritans (Single Victim):** If more than one Good Samaritan saves one victim, the award amount (₹25,000/-) award is equally divided among them.  - **Award For Multiple Victims And Samaritans:** If more than one Good Samaritan saves multiple victims, ₹25,000/- is given per victim, subject to a maximum of ₹ 5,000/- per Good Samaritan.  - **Certification Of Appreciation:** Each cash award is accompanied by a Certification of Appreciation.  - **National Level Awards:** 10 most deserving Good Samaritans are selected annually and awarded ₹ 1,00,000/- each.  - **Maximum Award Limit Per Year:** An individual Good Samaritan can receive the award up to 5 times in a year.
+<br>
+
+## Eligibility
+
+- The applicant should have saved the life of a victim of a fatal accident involving a motor vehicle by administering immediate assistance and rushing to the Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment.
+  - Good Samaritans, who are not willing to disclose their details, would not be awarded under the scheme.
+
+<br>
+
+## Application Process
+
+### Offline
+
+**Case 01:** 
+> In case the incident is informed to the police at the first hand by the Good Samaritan. After verifying details from Doctor the police shall provide Acknowledgment to such Good Samaritan, on an official letter pad, mentioning the name of the good Samaritan, his mobile number and address, place, date, and time of the incident, and how the Good Samaritan has helped in saving the life of the victim, etc.
+
+**Case 02:** 
+> In case the Good Samaritan takes the victim to the hospital directly. The concerned hospital shall provide all the details to the concerned police station. The police shall provide an Acknowledgment to such Good Samaritan, on an official letter pad, mentioning the name of the Good Samaritan, his mobile number and address, place, date, and time of the incident, how the Good Samaritan has helped in saving the life of the victim, etc.
+
+**Step 1:** The copy of the Acknowledgement (as per [Annexure - A](https://cdnbbsr.s3waas.gov.in/s3250413d2982f1f83aa62a3a323cd2a87/uploads/2025/05/202505191131972350.pdf)) would be sent by the concerned police station to the Appraisal Committee formed at District Level under the Chairmanship of the District Magistrate with a copy marked to the Good Samaritan(s). with a copy marked to the Good Samaritan(s).
+**Step 2:** On receipt of communication from the Police Station/Hospital, the District Level Appraisal Committee shall review and approve the proposals on a monthly basis. 
+**Step 3:** This list would be sent to the Transport Commissioner of the concerned State / UT Transport Department for the necessary payment. 
+**Step 4:** The payment for the selected Good Samaritan would be made online in their Bank Account directly by the Transport Department of the State/UT. 
+**Step 5:** By 30th September or the date decided by MoRTH every year, the State Level Monitoring Committee of each State/UT will nominate the three most worthy proposals for national-level awards on a yearly basis to this Ministry for further consideration.
+<br>
+
+An Appraisal Committee of MoRTH headed by AS/JS (Road Safety) and also comprising of Director/ Deputy Secretary (Road safety), Director/Deputy Secretary (Transport), and Dy. Financial Advisor/ MoRTH shall review the proposals received from each State / UTs and select the best ten Good Samaritans of the year. They will be awarded ₹1,00,000/- each along with a Certificate and trophy during NRSM in Delhi.
+<br>
+
+<br>
+
+## Definitions
+
+
+
+## References
+
+- [Guidelines](https://cdnbbsr.s3waas.gov.in/s3250413d2982f1f83aa62a3a323cd2a87/uploads/2025/05/202505191131972350.pdf)
+- [Official Website](https://morth.gov.in/#/offerings/schemes-and-services/details/be-a-good-samaritan)
+- [PIB (Press Release)](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1795122&reg=3&lang=2)
+
+## Documents Required
+
+1. Identity Card
+1. Address Proof
+1. Bank account details
+1. Certification by the Police department
+1. Certification by hospital
+
+## Frequently Asked Questions
+
+### Who Is A Good Samaritan?
+
+A Good Samaritan is a person who, in good faith, without expectation of payment or reward and without any duty of care or special relationship, voluntarily comes forward to administer immediate assistance or emergency care to a person injured in an accident, or crash, or emergency medical condition, or emergency situation.
+
+### What Is Good Samaritan Law?
+
+The Good Samaritan Law allows a person, without expectation of payment or reward and without any duty of care or special relationship, voluntarily come forward to administer immediate assistance or emergency care to a person injured in an accident, or crash, or emergency medical condition. Good Samaritan Law protects Good Samaritans from harassment on the actions being taken by them to save the life of the road accident victims.
+
+### Why The Need For Good Samaritan Law?
+
+India is an unfortunate victim of a large number of road crash fatalities. Three out of four people in the country are hesitant to help injured accident victims on roads due to fear of police harassment, detention at hospitals, and prolonged legal formalities. Even if someone wants to help, these factors stop them from doing so.
+
+### How Did India Get A Good Samaritan Law?
+
+In the last ten years, road crashes have killed over 13 lakh people in India. According to the Law Commission of India, 50% of these victims died of preventable injuries and could have been saved if they had received care on time. The role of the bystander is critical in providing emergency care to the victim. Yet, in India, bystanders have been hesitant to help the injured for fear of legal repercussions and procedural hassles.
+
+In 2012, a Public Interest Litigation (PIL) was filed in the Supreme Court of India, requesting the Hon'ble court to safeguard Good Samaritans who come forward to help the injured.
+
+### What is the Award For Each Good Samaritan?
+
+The amount of award for each Good Samaritan would be [?] 5,000/- per incident.
+
+### Till when shall this scheme Remain Operational?
+
+The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026.
+
+### What is the Objective Of The Good Samaritan Scheme?
+
+The objective of the scheme is to motivate the general public to help road accident victims in emergency situations and inspire and motivate others to save innocent lives..
+
+### Will the Good Samaritan be Subjected To Any Further Requirements By The Police?
+
+A Good Samaritan who has informed the police of any accident involving a motor vehicle, or who has transported a victim of an accident involving a motor vehicle to the hospital, shall not be subjected to any further requirements by the police or the hospital and shall be permitted to leave immediately.
+
+### How many National Level Awards are granted each year For The Most Worthy Good Samaritans?
+
+There will be 10 National Level Awards for the most worthy Good Samaritans (who will be selected from all those who have been awarded during the whole year) and they would be given an Award of [?] 1,00,000/- each.
+
+### How many times can a Good Samaritan be awarded?
+
+An individual Good Samaritan can be awarded a maximum of 5 times a year.
+
+### Will the Good Samaritan receive a "Certification of Appreciation"?
+
+Yes, every cash award would be accompanied by a "Certification of Appreciation".
+
+### What if More Than One Good Samaritan Saves The Life Of More Than One Victim?
+
+If more than one Good Samaritan saves the life of more than one victim of a fatal accident involving a motor vehicle, the amount of award will be [?] 5000/- per victim saved subject to a maximum of [?] 5000/-per Good Samaritan.
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "All"
+    ],
+    "schemeShortTitle": "SGS",
+    "level": "Central",
+    "schemeFor": "Individual",
+    "nodalMinistryName": "Ministry Of Road Transport & Highways",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Good Samaritan Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "sgs",
+    "briefDescription": "Launched on 3rd Oct 2021 by the MoRTH, the scheme grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to the Hospital/Trauma Care Centre within the Golden Hour of the accident.",
+    "tags": [
+      "Accident",
+      "Citizen Empowerment",
+      "Health"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "63e72f588b626e1ffc9f6adb",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": null,
+          "tags": [
+            "Accident",
+            "Citizen Empowerment",
+            "Health"
+          ],
+          "schemeName": "Good Samaritan Scheme",
+          "schemeShortTitle": "SGS",
+          "level": {
+            "value": "central",
+            "label": "Central"
+          },
+          "schemeType": {
+            "value": "central-sector-scheme",
+            "label": "Central Sector Scheme"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce87cd6d1a3bde4685312",
+              "label": "Social welfare & Empowerment"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Crisis/Disaster/Accident",
+              "label": "Crisis/Disaster/Accident"
+            },
+            {
+              "value": "Citizen empowerment",
+              "label": "Citizen empowerment"
+            }
+          ],
+          "schemeOpenDate": "2021-03-10",
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "schemeFor": "Individual",
+          "nodalMinistryName": {
+            "value": 1146,
+            "label": "Ministry Of Road Transport & Highways"
+          },
+          "nodalDepartmentName": {
+            "value": 1147,
+            "label": "Department of National Highways"
+          }
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cdnbbsr.s3waas.gov.in/s3250413d2982f1f83aa62a3a323cd2a87/uploads/2025/05/202505191131972350.pdf"
+            },
+            {
+              "title": "Official Website",
+              "url": "https://morth.gov.in/#/offerings/schemes-and-services/details/be-a-good-samaritan"
+            },
+            {
+              "title": "PIB (Press Release)",
+              "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1795122&reg=3&lang=2"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "Launched on 3rd Oct 2021 by the Ministry of Road Transport &amp;amp; Highways, the &amp;quot;Scheme for Good Samaritan&amp;quot; grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment. The amount of award for each Good Samaritan would be ₹ 25,000/- per incident. The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026.\nThe objective of the scheme is to motivate the general public to help road accident victims in emergency situations and inspire and motivate others to save innocent lives.. A Good Samaritan who has informed the police of any accident involving a motor vehicle, or who has transported a victim of an accident involving a motor vehicle to the hospital, shall not be subjected to any further requirements by the police or the hospital and shall be permitted to leave immediately.\n<br>\n\n",
+          "benefits_md": "\n  - **Award Amount For Single Incident:** If one Good Samaritan saves one or more victims in a single fatal motor vehicle accident, a total award of ₹ 5,000/- is given.  - **Award Distribution Among Multiple Samaritans (Single Victim):** If more than one Good Samaritan saves one victim, the award amount (₹25,000/-) award is equally divided among them.  - **Award For Multiple Victims And Samaritans:** If more than one Good Samaritan saves multiple victims, ₹25,000/- is given per victim, subject to a maximum of ₹ 5,000/- per Good Samaritan.  - **Certification Of Appreciation:** Each cash award is accompanied by a Certification of Appreciation.  - **National Level Awards:** 10 most deserving Good Samaritans are selected annually and awarded ₹ 1,00,000/- each.  - **Maximum Award Limit Per Year:** An individual Good Samaritan can receive the award up to 5 times in a year.\n<br>\n\n",
+          "exclusions_md": "<br>\n\n",
+          "briefDescription": "Launched on 3rd Oct 2021 by the MoRTH, the scheme grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to the Hospital/Trauma Care Centre within the Golden Hour of the accident.",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Launched on 3rd Oct 2021 by the Ministry of Road Transport & Highways, the \"Scheme for Good Samaritan\" grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment. The amount of award for each Good Samaritan would be ₹ 25,000/- per incident. The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The objective of the scheme is to motivate the general public to help road accident victims in emergency situations and inspire and motivate others to save innocent lives.. A Good Samaritan who has informed the police of any accident involving a motor vehicle, or who has transported a victim of an accident involving a motor vehicle to the hospital, shall not be subjected to any further requirements by the police or the hospital and shall be permitted to leave immediately."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "value": "Cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Award Amount For Single Incident:",
+                          "bold": true
+                        },
+                        {
+                          "text": " If one Good Samaritan saves one or more victims in a single fatal motor vehicle accident, a total award of ₹ 5,000/- is given."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Award Distribution Among Multiple Samaritans (Single Victim):",
+                          "bold": true
+                        },
+                        {
+                          "text": " If more than one Good Samaritan saves one victim, the award amount (₹25,000/-) award is equally divided among them."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Award For Multiple Victims And Samaritans:",
+                          "bold": true
+                        },
+                        {
+                          "text": " If more than one Good Samaritan saves multiple victims, ₹25,000/- is given per victim, subject to a maximum of ₹ 5,000/- per Good Samaritan."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Certification Of Appreciation:",
+                          "bold": true
+                        },
+                        {
+                          "text": " Each cash award is accompanied by a Certification of Appreciation."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "National Level Awards:",
+                          "bold": true
+                        },
+                        {
+                          "text": " 10 most deserving Good Samaritans are selected annually and awarded ₹ 1,00,000/- each."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Maximum Award Limit Per Year:",
+                          "bold": true
+                        },
+                        {
+                          "text": " An individual Good Samaritan can receive the award up to 5 times in a year."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "url": "",
+            "process": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Case 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "In case the incident is informed to the police at the first hand by the Good Samaritan. After verifying details from Doctor the police shall provide Acknowledgment to such Good Samaritan, on an official letter pad, mentioning the name of the good Samaritan, his mobile number and address, place, date, and time of the incident, and how the Good Samaritan has helped in saving the life of the victim, etc."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Case 02:",
+                        "bold": true
+                      },
+                      {
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "In case the Good Samaritan takes the victim to the hospital directly. The concerned hospital shall provide all the details to the concerned police station. The police shall provide an Acknowledgment to such Good Samaritan, on an official letter pad, mentioning the name of the Good Samaritan, his mobile number and address, place, date, and time of the incident, how the Good Samaritan has helped in saving the life of the victim, etc."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The copy of the Acknowledgement (as per "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://cdnbbsr.s3waas.gov.in/s3250413d2982f1f83aa62a3a323cd2a87/uploads/2025/05/202505191131972350.pdf",
+                        "children": [
+                          {
+                            "text": "Annexure - A"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ") would be sent by the concerned police station to the Appraisal Committee formed at District Level under the Chairmanship of the District Magistrate with a copy marked to the Good Samaritan(s). with a copy marked to the Good Samaritan(s)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " On receipt of communication from the Police Station/Hospital, the District Level Appraisal Committee shall review and approve the proposals on a monthly basis. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " This list would be sent to the Transport Commissioner of the concerned State / UT Transport Department for the necessary payment. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The payment for the selected Good Samaritan would be made online in their Bank Account directly by the Transport Department of the State/UT. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 5:",
+                        "bold": true
+                      },
+                      {
+                        "text": " By 30th September or the date decided by MoRTH every year, the State Level Monitoring Committee of each State/UT will nominate the three most worthy proposals for national-level awards on a yearly basis to this Ministry for further consideration."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "An Appraisal Committee of MoRTH headed by AS/JS (Road Safety) and also comprising of Director/ Deputy Secretary (Road safety), Director/Deputy Secretary (Transport), and Dy. Financial Advisor/ MoRTH shall review the proposals received from each State / UTs and select the best ten Good Samaritans of the year. They will be awarded ₹1,00,000/- each along with a Certificate and trophy during NRSM in Delhi."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "process_md": "**Case 01:** \n&gt; In case the incident is informed to the police at the first hand by the Good Samaritan. After verifying details from Doctor the police shall provide Acknowledgment to such Good Samaritan, on an official letter pad, mentioning the name of the good Samaritan, his mobile number and address, place, date, and time of the incident, and how the Good Samaritan has helped in saving the life of the victim, etc.\n\n**Case 02:** \n&gt; In case the Good Samaritan takes the victim to the hospital directly. The concerned hospital shall provide all the details to the concerned police station. The police shall provide an Acknowledgment to such Good Samaritan, on an official letter pad, mentioning the name of the Good Samaritan, his mobile number and address, place, date, and time of the incident, how the Good Samaritan has helped in saving the life of the victim, etc.\n\n**Step 1:** The copy of the Acknowledgement (as per [Annexure - A](https://cdnbbsr.s3waas.gov.in/s3250413d2982f1f83aa62a3a323cd2a87/uploads/2025/05/202505191131972350.pdf)) would be sent by the concerned police station to the Appraisal Committee formed at District Level under the Chairmanship of the District Magistrate with a copy marked to the Good Samaritan(s). with a copy marked to the Good Samaritan(s).\n**Step 2:** On receipt of communication from the Police Station/Hospital, the District Level Appraisal Committee shall review and approve the proposals on a monthly basis. \n**Step 3:** This list would be sent to the Transport Commissioner of the concerned State / UT Transport Department for the necessary payment. \n**Step 4:** The payment for the selected Good Samaritan would be made online in their Bank Account directly by the Transport Department of the State/UT. \n**Step 5:** By 30th September or the date decided by MoRTH every year, the State Level Monitoring Committee of each State/UT will nominate the three most worthy proposals for national-level awards on a yearly basis to this Ministry for further consideration.\n&lt;br&gt;\n\nAn Appraisal Committee of MoRTH headed by AS/JS (Road Safety) and also comprising of Director/ Deputy Secretary (Road safety), Director/Deputy Secretary (Transport), and Dy. Financial Advisor/ MoRTH shall review the proposals received from each State / UTs and select the best ten Good Samaritans of the year. They will be awarded ₹1,00,000/- each along with a Certificate and trophy during NRSM in Delhi.\n&lt;br&gt;\n\n<br>\n\n"
+          }
+        ],
+        "schemeDefinitions": [
+          {
+            "name": "Golden Hour",
+            "definition": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "As per Motor Vehicle Act section 2(12A) \"golden hour\" means the time period lasting one hour following a traumatic injury during which there is the highest likelihood of preventing death by providing prompt medical care."
+                  }
+                ]
+              }
+            ],
+            "source": "https://morth.nic.in/sites/default/files/notifications_document/MV%20Act%20English.pdf",
+            "definitions_md": "As per Motor Vehicle Act section 2(12A) &quot;golden hour&quot; means the time period lasting one hour following a traumatic injury during which there is the highest likelihood of preventing death by providing prompt medical care.\n"
+          },
+          {
+            "name": "Fatal Accident",
+            "definition": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Any Road accident involving a motor vehicle leading to any of the following conditions during treatment of the victim and certificate of fatality by the Hospital:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "a.\tMajor surgery involved"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "b.\tMinimum three days of hospitalization"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "c.\tBrain injuries"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "d.\tSpinal cord injuries"
+                  }
+                ]
+              }
+            ],
+            "source": "https://morth.nic.in/sites/default/files/notifications_document/MV%20Act%20English.pdf",
+            "definitions_md": "Any Road accident involving a motor vehicle leading to any of the following conditions during treatment of the victim and certificate of fatality by the Hospital:\na.\tMajor surgery involved\nb.\tMinimum three days of hospitalization\nc.\tBrain injuries\nd.\tSpinal cord injuries\n"
+          }
+        ],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n  - The applicant should have saved the life of a victim of a fatal accident involving a motor vehicle by administering immediate assistance and rushing to the Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment.\n  - Good Samaritans, who are not willing to disclose their details, would not be awarded under the scheme.\n\n<br>\n\n",
+          "eligibilityDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The applicant should have saved the life of a victim of a fatal accident involving a motor vehicle by administering immediate assistance and rushing to the Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Good Samaritans, who are not willing to disclose their details, would not be awarded under the scheme."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "sgs"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "63e738508b626e1ffc9f6b42",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Identity Card"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Address Proof"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Certification by the Police department"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Certification by hospital "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n1. Identity Card\n1. Address Proof\n1. Bank account details\n1. Certification by the Police department\n1. Certification by hospital \n\n"
+      },
+      "schemeId": "63e72f588b626e1ffc9f6adb"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "63e738a1683cf328b7be3a92",
+      "en": {
+        "faqs": [
+          {
+            "question": "Who Is A Good Samaritan?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A Good Samaritan is a person who, in good faith, without expectation of payment or reward and without any duty of care or special relationship, voluntarily comes forward to administer immediate assistance or emergency care to a person injured in an accident, or crash, or emergency medical condition, or emergency situation."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "A Good Samaritan is a person who, in good faith, without expectation of payment or reward and without any duty of care or special relationship, voluntarily comes forward to administer immediate assistance or emergency care to a person injured in an accident, or crash, or emergency medical condition, or emergency situation.\n"
+          },
+          {
+            "question": "What Is Good Samaritan Law?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Good Samaritan Law allows a person, without expectation of payment or reward and without any duty of care or special relationship, voluntarily come forward to administer immediate assistance or emergency care to a person injured in an accident, or crash, or emergency medical condition. Good Samaritan Law protects Good Samaritans from harassment on the actions being taken by them to save the life of the road accident victims."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Good Samaritan Law allows a person, without expectation of payment or reward and without any duty of care or special relationship, voluntarily come forward to administer immediate assistance or emergency care to a person injured in an accident, or crash, or emergency medical condition. Good Samaritan Law protects Good Samaritans from harassment on the actions being taken by them to save the life of the road accident victims.\n"
+          },
+          {
+            "question": "Why The Need For Good Samaritan Law?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "India is an unfortunate victim of a large number of road crash fatalities. Three out of four people in the country are hesitant to help injured accident victims on roads due to fear of police harassment, detention at hospitals, and prolonged legal formalities. Even if someone wants to help, these factors stop them from doing so."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "India is an unfortunate victim of a large number of road crash fatalities. Three out of four people in the country are hesitant to help injured accident victims on roads due to fear of police harassment, detention at hospitals, and prolonged legal formalities. Even if someone wants to help, these factors stop them from doing so.\n"
+          },
+          {
+            "question": "How Did India Get A Good Samaritan Law?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In the last ten years, road crashes have killed over 13 lakh people in India. According to the Law Commission of India, 50% of these victims died of preventable injuries and could have been saved if they had received care on time. The role of the bystander is critical in providing emergency care to the victim. Yet, in India, bystanders have been hesitant to help the injured for fear of legal repercussions and procedural hassles.\n\nIn 2012, a Public Interest Litigation (PIL) was filed in the Supreme Court of India, requesting the Hon'ble court to safeguard Good Samaritans who come forward to help the injured."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "In the last ten years, road crashes have killed over 13 lakh people in India. According to the Law Commission of India, 50% of these victims died of preventable injuries and could have been saved if they had received care on time. The role of the bystander is critical in providing emergency care to the victim. Yet, in India, bystanders have been hesitant to help the injured for fear of legal repercussions and procedural hassles.\n\nIn 2012, a Public Interest Litigation (PIL) was filed in the Supreme Court of India, requesting the Hon'ble court to safeguard Good Samaritans who come forward to help the injured.\n"
+          },
+          {
+            "question": "What is the Award For Each Good Samaritan?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The amount of award for each Good Samaritan would be ₹ 5,000/- per incident."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The amount of award for each Good Samaritan would be [?] 5,000/- per incident.\n"
+          },
+          {
+            "question": "Till when shall this scheme Remain Operational?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026.\n"
+          },
+          {
+            "question": "What is the Objective Of The Good Samaritan Scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The objective of the scheme is to motivate the general public to help road accident victims in emergency situations and inspire and motivate others to save innocent lives.. "
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The objective of the scheme is to motivate the general public to help road accident victims in emergency situations and inspire and motivate others to save innocent lives.. \n"
+          },
+          {
+            "question": "Will the Good Samaritan be Subjected To Any Further Requirements By The Police?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A Good Samaritan who has informed the police of any accident involving a motor vehicle, or who has transported a victim of an accident involving a motor vehicle to the hospital, shall not be subjected to any further requirements by the police or the hospital and shall be permitted to leave immediately."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "A Good Samaritan who has informed the police of any accident involving a motor vehicle, or who has transported a victim of an accident involving a motor vehicle to the hospital, shall not be subjected to any further requirements by the police or the hospital and shall be permitted to leave immediately.\n"
+          },
+          {
+            "question": "How many National Level Awards are granted each year For The Most Worthy Good Samaritans?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": " There will be 10 National Level Awards for the most worthy Good Samaritans (who will be selected from all those who have been awarded during the whole year) and they would be given an Award of ₹ 1,00,000/- each."
+                  }
+                ]
+              }
+            ],
+            "answer_md": " There will be 10 National Level Awards for the most worthy Good Samaritans (who will be selected from all those who have been awarded during the whole year) and they would be given an Award of [?] 1,00,000/- each.\n"
+          },
+          {
+            "question": "How many times can a Good Samaritan be awarded?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": " An individual Good Samaritan can be awarded a maximum of 5 times a year."
+                  }
+                ]
+              }
+            ],
+            "answer_md": " An individual Good Samaritan can be awarded a maximum of 5 times a year.\n"
+          },
+          {
+            "question": "Will the Good Samaritan receive a \"Certification of Appreciation\"?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes, every cash award would be accompanied by a \"Certification of Appreciation\"."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes, every cash award would be accompanied by a \"Certification of Appreciation\".\n"
+          },
+          {
+            "question": "What if More Than One Good Samaritan Saves The Life Of More Than One Victim?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "If more than one Good Samaritan saves the life of more than one victim of a fatal accident involving a motor vehicle, the amount of award will be ₹ 5000/- per victim saved subject to a maximum of ₹ 5000/-per Good Samaritan."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "If more than one Good Samaritan saves the life of more than one victim of a fatal accident involving a motor vehicle, the amount of award will be [?] 5000/- per victim saved subject to a maximum of [?] 5000/-per Good Samaritan.\n"
+          }
+        ]
+      },
+      "schemeId": "63e72f588b626e1ffc9f6adb"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

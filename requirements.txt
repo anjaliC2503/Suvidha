@@ -1,0 +1,2 @@
+pinecone
+typing_extensions

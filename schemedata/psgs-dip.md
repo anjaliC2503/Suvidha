@@ -1,0 +1,1185 @@
+# Pragati Scholarship Scheme For Girl Students (Technical Diploma)
+
+- **Slug:** `psgs-dip`
+- **Scheme ID:** `62949e246eb5d4447ec333f1`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/psgs-dip
+- **Dbt Scheme:** Yes
+- **Tags:** Scholarship, Girl, Diploma, Education, Student, Higher Education, College Fee
+- **Scheme Name:** Pragati Scholarship Scheme For Girl Students (Technical Diploma)
+- **Scheme Short Title:** PSGS-DIP
+- **Level:** Central
+- **Scheme Type:** Central Sector Scheme
+- **Scheme Category:** Education & Learning, Social welfare & Empowerment, Women and Child
+- **Scheme Sub Category:** Universities and higher education, Scholarships and student finance, Financial assistance, Citizen empowerment
+- **Scheme Open Date:** 2014-01-01
+- **Target Beneficiaries:** Individual
+- **Nodal Ministry Name:** Ministry of Education
+- **Nodal Department Name:** Department Of Higher Education
+- **Scheme For:** Individual
+
+## Brief Description
+
+A scholarship scheme by AICTE for Girl Students admitted in 1st or 2nd Year of the technical diploma course in an AICTE approved institution. The benefits are provided for a period of max. of 3 years for first-year students and a max. of 2 years for second-year admitted students (later entry).
+
+## Detailed Description
+
+A scholarship scheme by AICTE, MoE for Girl Students admitted in 1st or 2nd Year of the technical diploma course in an AICTE approved institution. A maximum of two girl children per family are eligible to avail of the benefits. The benefits are provided for a period of maximum of 3 years for first-year admitted students and a maximum of 2 years for second-year admitted students through lateral entry.
+<br>
+
+This scheme is an attempt to give young women the opportunity to further their education and prepare for a successful future by empowering Women through knowledge, skill, and self-confidence.
+
+## Benefits
+
+**₹ 50,000/-** per annum for every year of study, i.e. maximum 3 years for first-year admitted students and maximum 2 years for second-year admitted students, through lateral entry as lump sum amount towards payment of **college fee, purchase of computer, stationeries, books, equipment, software, etc.** No other additional grant will be payable instead of hostel charges medical charges, etc.
+
+## Exclusions
+
+1. If a candidate failed/drops out in a subsequent year, she will not be eligible for further scholarship.
+   1. If it is found that the student is in receipt of financial assistance in the shape of scholarship/any emoluments, salary, stipend, etc. from any other source during her course of study in the institute, the scholarship shall be discontinued.
+   1. If the gap period between the year of passing the qualifying examination and the admission session in a degree course is more than two years.
+   1. The scholarship is only applicable to a **maximum of two girl children of a family**.
+
+## Eligibility
+
+1. The applicant must be a **Girl Student.**1. The applicant must be pursuing either **the First year of the Diploma course** OR **the** **Second year of the Diploma course through lateral entry.**1. The **annual income of the family** (from all sources) must not be more than **₹ 8,00,000 per annum** during the current financial year.1. **All eligible girls** (who submit an online scholarship form) **from the following 13 Union Territories and North Eastern States** i.e., Andaman and Nicobar Islands (UT), Jammu and Kashmir (UT), Ladakh (UT), Dadra and Nagar Haveli & Daman and Diu (UT), Lakshadweep (UT), Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, & Tripura will be given a scholarship by AICTE.
+
+## Application Process
+
+### Online
+
+**Application URL:** http://www.scholarships.gov.in/
+
+> ***New Registration******:***
+
+**Step 1:** Visit the [Registration ](https://scholarships.gov.in/fresh/newstdRegfrmInstruction)page of the National Scholarships Portal.
+**Step 2:** Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accept the Terms. Click “Continue”.
+**Step 3:** A Registration Form will appear. (The fields marked as * are compulsory). Fill in the details and click “Register”. Your Application ID and password will be displayed. The same will also be sent as an SMS to your registered mobile number.
+> **Fresh Application****:**
+
+**Step 1:** Visit the applicant [Login ](https://scholarships.gov.in/fresh/loginPage)page of the National Scholarships Portal Enter your Application ID and password.
+**Step 2:** Type the Captcha and click “Login”.
+**Step 3:** On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm.
+**Step 4:** Click “Submit”. You will be directed to the “Applicant’s Dashboard”.
+**Step 5:** On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents. The verification of credentials of the students (caste, educational qualifications etc.) will be done through the DIGILOCKER facility of the MeitY, Govt. of India. 
+**Step 6:** You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to apply.
+> **Track Payment Status****:**
+
+The student can track their payment status from the template “Know Your Payment” in the [Public Financial Management System (PFMS) Portal](https://pfms.nic.in/Users/LoginDetails/Login.aspx) either by indicating their Aadhaar Number, Bank Account number or NSP Application ID.
+<br>
+
+## Definitions
+
+
+
+## References
+
+- [Guidelines](https://www.aicte-india.org/sites/default/files/stdc/Pragati/AICTE%20Pragati%20Scheme%20Guidelines_Diploma.pdf)
+- [Official Portal](https://scholarships.gov.in/)
+- [FAQs](https://www.aicte-india.org/downloads/FAQ_PRAGATI%20AND%20SAKSHAM.pdf)
+- [Registration Link](https://scholarships.gov.in/registrations/#/)
+
+## Documents Required
+
+1. Copy of the SSC/10th certificate.
+1. Copy of HSC/12th certificate (In case of degree level).
+1. Copy of ITI certificate (In case of lateral entry for diploma level).
+1. Copy of Diploma certificate (In case of lateral entry for Degree level).
+1. Bank Passbook
+1. Category Certificate 
+1. Aadhaar Card
+1. Applicant’s Passport-Size Photo
+1. Study Certificate (Appendix-I)
+1. Annual Family Income Certificate (Appendix II)
+1. Parent’s Declaration (Appendix-III)
+1. Bank Mandate Form (Appendix-IV)
+
+<br>
+
+> [Download the Appendix from the pdf.](https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf)
+
+## Frequently Asked Questions
+
+### Is there a validity to the scheme benefits?
+
+The benefits are provided for a period of maximum 3 years for first year admitted students and maximum 2 years for second year admitted students through lateral entry.
+
+### How many slots are there in this scheme?
+
+A total of 5,000 scholarships are earmarked per annum under this scheme.
+
+### What would be the mode of payment of the scholarship?
+
+The payment of the scholarship will be through DBT.
+
+### Are there any additional grants that may be payable in lieu of hostel charges and medical charges?
+
+No other additional grant will be payable in lieu of hostel charges and medical charges etc.
+
+### What would be the mode of payment of the scholarship?
+
+The payment of the scholarship will be through DBT.
+
+### I belong to a NorthEastern state. Am I eligible to apply for this scholarship?
+
+Yes. All eligible girls who submit the online scholarship form, from following 13 Union Territories and North Eastern States will be given scholarship by AICTE.
+
+### Is there a tie-breaker in case of multiple applicants for the last available slot?
+
+The procedure to be adopted for breaking ties (similar percentiles) shall be as under: -
+Age: In case qualifying examination percentile does not break ties, then the candidate of elder age will be ranked higher.
+Annual family income:  If above method does not break ties, and then the lower annual family income will settle on in higher ranking for the scholarships.
+
+### Will I be eligible for the scholarship if I fail to get promoted to the next semester?
+
+No. The scholarship will be terminated in that case.
+
+### Can I apply offline for the scholarship?
+
+No. You need to visit https://scholarships.gov.in/ to apply.
+
+### Is there any application fee?
+
+No. The entire application process is completely free of cost.
+
+### Am I eligible for this scholarship if two of my girl siblings are availing the benefits of this scheme?
+
+No. You won't be eligible in this case.
+
+### Do I need to complete the application in one sitting?
+
+No. You can save the application as draft and continue at a later time before the deadline.
+
+### How do I track the status of my application?
+
+You can check the same anytime by visiting the Applicant Dashboard and clicking "Track Status" in the left pane.
+
+### What should be the type and size of the documents to be uploaded?
+
+The format should be.pdf or .jpeg. The size of each document should not be greater than 200 kb.
+
+### In what cases a Bonafide Certificate from the institute is needed?
+
+The Bonafide Certificate is needed to be uploaded with the application in a case where the institute is located in a State/UT different from the domicile State/UT of the applicant.
+
+### How do I know if a field in the application form is mandatory?
+
+The mandatory fields have a red asterisk (*) mark at the end.
+
+### How do I prove that my Family Income (all sources) is less than Rs. 8 LPA?
+
+A valid income certificate issued by State/ UT Government
+need to be enclosed as a proof of income.
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "All"
+    ],
+    "schemeShortTitle": "PSGS-DIP",
+    "level": "Central",
+    "schemeFor": "Individual",
+    "nodalMinistryName": "Ministry of Education",
+    "schemeCategory": [
+      "Education & Learning",
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "schemeName": "Pragati Scholarship Scheme For Girl Students (Technical Diploma)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "psgs-dip",
+    "briefDescription": "A scholarship scheme by AICTE for Girl Students admitted in 1st or 2nd Year of the technical diploma course in an AICTE approved institution. The benefits are provided for a period of max. of 3 years for first-year students and a max. of 2 years for second-year admitted students (later entry).",
+    "tags": [
+      "Scholarship",
+      "Girl",
+      "Diploma",
+      "Education",
+      "Student",
+      "Higher Education",
+      "College Fee"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "62949e246eb5d4447ec333f1",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": true,
+          "tags": [
+            "Scholarship",
+            "Girl",
+            "Diploma",
+            "Education",
+            "Student",
+            "Higher Education",
+            "College Fee"
+          ],
+          "schemeName": "Pragati Scholarship Scheme For Girl Students (Technical Diploma)",
+          "schemeShortTitle": "PSGS-DIP",
+          "level": {
+            "value": "central",
+            "label": "Central"
+          },
+          "schemeType": {
+            "value": "central-sector-scheme",
+            "label": "Central Sector Scheme"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce76cd6d1a3bde4685292",
+              "label": "Education & Learning",
+              "subcategories": [
+                "Early childhood",
+                "Universities and higher education",
+                "International education",
+                "International students",
+                "Scholarships and student finance",
+                "Apprenticeships and training",
+                "Education and training grants, fellowship, stipend",
+                "Resources for schools",
+                "Coaching",
+                "Internship"
+              ]
+            },
+            {
+              "value": "628ce87cd6d1a3bde4685312",
+              "label": "Social welfare & Empowerment",
+              "subcategories": [
+                "Pension",
+                "Crisis/Disaster/Accident",
+                "Shelter",
+                "Rehabilitation",
+                "Loan",
+                "Insurance",
+                "Provident fund",
+                "Aids/Appliances",
+                "Micro finance",
+                "Marriage",
+                "Financial assistance",
+                "Citizen empowerment"
+              ]
+            },
+            {
+              "value": "64f57d10ffb93104c7006c97",
+              "label": "Women and Child"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Universities and higher education",
+              "label": "Universities and higher education"
+            },
+            {
+              "value": "Scholarships and student finance",
+              "label": "Scholarships and student finance"
+            },
+            {
+              "value": "Financial assistance",
+              "label": "Financial assistance"
+            },
+            {
+              "value": "Citizen empowerment",
+              "label": "Citizen empowerment"
+            }
+          ],
+          "schemeOpenDate": "2014-01-01",
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "nodalMinistryName": {
+            "value": 488,
+            "label": "Ministry of Education"
+          },
+          "nodalDepartmentName": {
+            "value": 1608,
+            "label": "Department Of Higher Education"
+          },
+          "schemeFor": "Individual"
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.aicte-india.org/sites/default/files/stdc/Pragati/AICTE%20Pragati%20Scheme%20Guidelines_Diploma.pdf"
+            },
+            {
+              "title": "Official Portal",
+              "url": "https://scholarships.gov.in/"
+            },
+            {
+              "title": "FAQs",
+              "url": "https://www.aicte-india.org/downloads/FAQ_PRAGATI%20AND%20SAKSHAM.pdf"
+            },
+            {
+              "title": "Registration Link",
+              "url": "https://scholarships.gov.in/registrations/#/"
+            }
+          ],
+          "schemeImageUrl": "https://uttara-s3-bucket.s3.ap-south-1.amazonaws.com/schemes/psgs-dip/psgs-dip.svg",
+          "detailedDescription_md": "A scholarship scheme by AICTE, MoE for Girl Students admitted in 1st or 2nd Year of the technical diploma course in an AICTE approved institution. A maximum of two girl children per family are eligible to avail of the benefits. The benefits are provided for a period of maximum of 3 years for first-year admitted students and a maximum of 2 years for second-year admitted students through lateral entry.\n<br>\n\nThis scheme is an attempt to give young women the opportunity to further their education and prepare for a successful future by empowering Women through knowledge, skill, and self-confidence.\n",
+          "benefits_md": "**₹ 50,000/-** per annum for every year of study, i.e. maximum 3 years for first-year admitted students and maximum 2 years for second-year admitted students, through lateral entry as lump sum amount towards payment of **college fee, purchase of computer, stationeries, books, equipment, software, etc.** No other additional grant will be payable instead of hostel charges medical charges, etc.\n",
+          "exclusions_md": "\n\n   1. If a candidate failed/drops out in a subsequent year, she will not be eligible for further scholarship.\n   1. If it is found that the student is in receipt of financial assistance in the shape of scholarship/any emoluments, salary, stipend, etc. from any other source during her course of study in the institute, the scholarship shall be discontinued.\n   1. If the gap period between the year of passing the qualifying examination and the admission session in a degree course is more than two years.\n   1. The scholarship is only applicable to a **maximum of two girl children of a family**.\n\n",
+          "briefDescription": "A scholarship scheme by AICTE for Girl Students admitted in 1st or 2nd Year of the technical diploma course in an AICTE approved institution. The benefits are provided for a period of max. of 3 years for first-year students and a max. of 2 years for second-year admitted students (later entry).",
+          "detailedDescription": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A scholarship scheme by AICTE, MoE for Girl Students admitted in 1st or 2nd Year of the technical diploma course in an AICTE approved institution. A maximum of two girl children per family are eligible to avail of the benefits. The benefits are provided for a period of maximum of 3 years for first-year admitted students and a maximum of 2 years for second-year admitted students through lateral entry."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme is an attempt to give young women the opportunity to further their education and prepare for a successful future by empowering Women through knowledge, skill, and self-confidence."
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "value": "Cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹ 50,000/- ",
+                  "bold": true
+                },
+                {
+                  "text": "per annum for every year of study, i.e. maximum 3 years for first-year admitted students and maximum 2 years for second-year admitted students, through lateral entry as lump sum amount towards payment of"
+                },
+                {
+                  "text": " college fee, purchase of computer, stationeries, books, equipment, software, etc. ",
+                  "bold": true
+                },
+                {
+                  "text": "No other additional grant will be payable instead of hostel charges medical charges, etc."
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "If a candidate failed/drops out in a subsequent year, she will not be eligible for further scholarship."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "If it is found that the student is in receipt of financial assistance in the shape of scholarship/any emoluments, salary, stipend, etc. from any other source during her course of study in the institute, the scholarship shall be discontinued."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "If the gap period between the year of passing the qualifying examination and the admission session in a degree course is more than two years."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The scholarship is only applicable to a "
+                        },
+                        {
+                          "text": "maximum of two girl children of a family",
+                          "bold": true
+                        },
+                        {
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "url": "http://www.scholarships.gov.in/",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "New Registration",
+                        "bold": true,
+                        "italic": true,
+                        "underline": true
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": ":"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Visit the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://scholarships.gov.in/fresh/newstdRegfrmInstruction",
+                        "children": [
+                          {
+                            "text": "Registration "
+                          }
+                        ]
+                      },
+                      {
+                        "text": "page of the National Scholarships Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accept the Terms. Click “Continue”."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " A Registration Form will appear. (The fields marked as * are compulsory). Fill in the details and click “Register”. Your Application ID and password will be displayed. The same will also be sent as an SMS to your registered mobile number."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Fresh Application",
+                        "bold": true,
+                        "underline": true
+                      },
+                      {
+                        "bold": true,
+                        "text": ":"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Visit the applicant "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://scholarships.gov.in/fresh/loginPage",
+                        "children": [
+                          {
+                            "text": "Login "
+                          }
+                        ]
+                      },
+                      {
+                        "text": "page of the National Scholarships Portal Enter your Application ID and password."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Type the Captcha and click “Login”."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click “Submit”. You will be directed to the “Applicant’s Dashboard”."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 5:",
+                        "bold": true
+                      },
+                      {
+                        "text": " On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents. The verification of credentials of the students (caste, educational qualifications etc.) will be done through the DIGILOCKER facility of the MeitY, Govt. of India. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 6:",
+                        "bold": true
+                      },
+                      {
+                        "text": " You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to apply."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Track Payment Status",
+                        "bold": true,
+                        "underline": true
+                      },
+                      {
+                        "bold": true,
+                        "text": ":"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "The student can track their payment status from the template “Know Your Payment” in the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://pfms.nic.in/Users/LoginDetails/Login.aspx",
+                        "children": [
+                          {
+                            "text": "Public Financial Management System (PFMS) Portal"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " either by indicating their Aadhaar Number, Bank Account number or NSP Application ID."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "process_md": "&gt; ***New Registration******:***\n\n**Step 1:** Visit the [Registration ](https://scholarships.gov.in/fresh/newstdRegfrmInstruction)page of the National Scholarships Portal.\n**Step 2:** Guidelines for Registration will appear. Scroll to the bottom. Read carefully the undertaking. Accept the Terms. Click “Continue”.\n**Step 3:** A Registration Form will appear. (The fields marked as * are compulsory). Fill in the details and click “Register”. Your Application ID and password will be displayed. The same will also be sent as an SMS to your registered mobile number.\n&gt; **Fresh Application****:**\n\n**Step 1:** Visit the applicant [Login ](https://scholarships.gov.in/fresh/loginPage)page of the National Scholarships Portal Enter your Application ID and password.\n**Step 2:** Type the Captcha and click “Login”.\n**Step 3:** On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm.\n**Step 4:** Click “Submit”. You will be directed to the “Applicant’s Dashboard”.\n**Step 5:** On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents. The verification of credentials of the students (caste, educational qualifications etc.) will be done through the DIGILOCKER facility of the MeitY, Govt. of India. \n**Step 6:** You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to apply.\n&gt; **Track Payment Status****:**\n\nThe student can track their payment status from the template “Know Your Payment” in the [Public Financial Management System (PFMS) Portal](https://pfms.nic.in/Users/LoginDetails/Login.aspx) either by indicating their Aadhaar Number, Bank Account number or NSP Application ID.\n&lt;br&gt;\n\n"
+          }
+        ],
+        "schemeDefinitions": [
+          {
+            "name": "Union Territories",
+            "definition": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Andaman and Nicobar Islands (UT), Jammu and Kashmir (UT), Ladakh (UT), Dadra and Nagar Haveli & Daman and Diu (UT), Lakshadweep (UT)."
+                  }
+                ]
+              }
+            ],
+            "source": "https://www.aicte-india.org/sites/default/files/stdc/Pragati/AICTE%20Pragati%20Scheme%20Guidelines_Diploma.pdf",
+            "definitions_md": "Andaman and Nicobar Islands (UT), Jammu and Kashmir (UT), Ladakh (UT), Dadra and Nagar Haveli &amp; Daman and Diu (UT), Lakshadweep (UT).\n"
+          },
+          {
+            "name": "North Eastern States",
+            "definition": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim & Tripura."
+                  }
+                ]
+              }
+            ],
+            "source": "https://www.aicte-india.org/sites/default/files/stdc/Pragati/AICTE%20Pragati%20Scheme%20Guidelines_Diploma.pdf",
+            "definitions_md": "Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim &amp; Tripura.\n"
+          }
+        ],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n1. The applicant must be a **Girl Student.**1. The applicant must be pursuing either **the First year of the Diploma course** OR **the** **Second year of the Diploma course through lateral entry.**1. The **annual income of the family** (from all sources) must not be more than **₹ 8,00,000 per annum** during the current financial year.1. **All eligible girls** (who submit an online scholarship form) **from the following 13 Union Territories and North Eastern States** i.e., Andaman and Nicobar Islands (UT), Jammu and Kashmir (UT), Ladakh (UT), Dadra and Nagar Haveli &amp; Daman and Diu (UT), Lakshadweep (UT), Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, &amp; Tripura will be given a scholarship by AICTE.\n",
+          "eligibilityDescription": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a "
+                    },
+                    {
+                      "text": "Girl Student.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be pursuing either "
+                    },
+                    {
+                      "text": "the First year of the Diploma course",
+                      "bold": true
+                    },
+                    {
+                      "text": " OR "
+                    },
+                    {
+                      "text": "the",
+                      "bold": true
+                    },
+                    {
+                      "text": " "
+                    },
+                    {
+                      "text": "Second year of the Diploma course through lateral entry.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The "
+                    },
+                    {
+                      "text": "annual income of the family",
+                      "bold": true
+                    },
+                    {
+                      "text": " (from all sources) must not be more than "
+                    },
+                    {
+                      "text": "₹ 8,00,000 per annum",
+                      "bold": true
+                    },
+                    {
+                      "text": " during the current financial year."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All eligible girls",
+                      "bold": true
+                    },
+                    {
+                      "text": " (who submit an online scholarship form) "
+                    },
+                    {
+                      "text": "from the following 13 Union Territories and North Eastern States",
+                      "bold": true
+                    },
+                    {
+                      "text": " i.e., Andaman and Nicobar Islands (UT), Jammu and Kashmir (UT), Ladakh (UT), Dadra and Nagar Haveli & Daman and Diu (UT), Lakshadweep (UT), Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, & Tripura will be given a scholarship by AICTE."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "psgs-dip"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "62949e4b6eb5d4447ec3341a",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of the SSC/10th certificate."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of HSC/12th certificate (In case of degree level)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of ITI certificate (In case of lateral entry for diploma level)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Copy of Diploma certificate (In case of lateral entry for Degree level)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank Passbook"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Category Certificate "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant’s Passport-Size Photo"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Study Certificate (Appendix-I)"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Annual Family Income Certificate (Appendix II)"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Parent’s Declaration (Appendix-III)"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank Mandate Form (Appendix-IV)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": ""
+              },
+              {
+                "type": "link",
+                "link": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+                "children": [
+                  {
+                    "text": "Download the Appendix from the pdf."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n1. Copy of the SSC/10th certificate.\n1. Copy of HSC/12th certificate (In case of degree level).\n1. Copy of ITI certificate (In case of lateral entry for diploma level).\n1. Copy of Diploma certificate (In case of lateral entry for Degree level).\n1. Bank Passbook\n1. Category Certificate \n1. Aadhaar Card\n1. Applicant’s Passport-Size Photo\n1. Study Certificate (Appendix-I)\n1. Annual Family Income Certificate (Appendix II)\n1. Parent’s Declaration (Appendix-III)\n1. Bank Mandate Form (Appendix-IV)\n\n<br>\n\n> [Download the Appendix from the pdf.](https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf)\n\n"
+      },
+      "schemeId": "62949e246eb5d4447ec333f1"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "6294a01f6eb5d4447ec33584",
+      "en": {
+        "faqs": [
+          {
+            "question": "Is there a validity to the scheme benefits?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The benefits are provided for a period of maximum 3 years for first year admitted students and maximum 2 years for second year admitted students through lateral entry."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The benefits are provided for a period of maximum 3 years for first year admitted students and maximum 2 years for second year admitted students through lateral entry.\n"
+          },
+          {
+            "question": "How many slots are there in this scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A total of 5,000 scholarships are earmarked per annum under this scheme."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "A total of 5,000 scholarships are earmarked per annum under this scheme.\n"
+          },
+          {
+            "question": "What would be the mode of payment of the scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The payment of the scholarship will be through DBT."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The payment of the scholarship will be through DBT.\n"
+          },
+          {
+            "question": "Are there any additional grants that may be payable in lieu of hostel charges and medical charges?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No other additional grant will be payable in lieu of hostel charges and medical charges etc."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No other additional grant will be payable in lieu of hostel charges and medical charges etc.\n"
+          },
+          {
+            "question": "What would be the mode of payment of the scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The payment of the scholarship will be through DBT."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The payment of the scholarship will be through DBT.\n"
+          },
+          {
+            "question": "I belong to a NorthEastern state. Am I eligible to apply for this scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes. All eligible girls who submit the online scholarship form, from following 13 Union Territories and North Eastern States will be given scholarship by AICTE."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes. All eligible girls who submit the online scholarship form, from following 13 Union Territories and North Eastern States will be given scholarship by AICTE.\n"
+          },
+          {
+            "question": "Is there a tie-breaker in case of multiple applicants for the last available slot?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The procedure to be adopted for breaking ties (similar percentiles) shall be as under: -\nAge: In case qualifying examination percentile does not break ties, then the candidate of elder age will be ranked higher.\nAnnual family income:  If above method does not break ties, and then the lower annual family income will settle on in higher ranking for the scholarships."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The procedure to be adopted for breaking ties (similar percentiles) shall be as under: -\nAge: In case qualifying examination percentile does not break ties, then the candidate of elder age will be ranked higher.\nAnnual family income:  If above method does not break ties, and then the lower annual family income will settle on in higher ranking for the scholarships.\n"
+          },
+          {
+            "question": "Will I be eligible for the scholarship if I fail to get promoted to the next semester?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No. The scholarship will be terminated in that case."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No. The scholarship will be terminated in that case.\n"
+          },
+          {
+            "question": "Can I apply offline for the scholarship?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": " No. You need to visit https://scholarships.gov.in/ to apply."
+                  }
+                ]
+              }
+            ],
+            "answer_md": " No. You need to visit https://scholarships.gov.in/ to apply.\n"
+          },
+          {
+            "question": "Is there any application fee?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No. The entire application process is completely free of cost."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No. The entire application process is completely free of cost.\n"
+          },
+          {
+            "question": "Am I eligible for this scholarship if two of my girl siblings are availing the benefits of this scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No. You won’t be eligible in this case."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No. You won't be eligible in this case.\n"
+          },
+          {
+            "question": "Do I need to complete the application in one sitting?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No. You can save the application as draft and continue at a later time before the deadline."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No. You can save the application as draft and continue at a later time before the deadline.\n"
+          },
+          {
+            "question": "How do I track the status of my application?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "You can check the same anytime by visiting the Applicant Dashboard and clicking “Track Status” in the left pane."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "You can check the same anytime by visiting the Applicant Dashboard and clicking \"Track Status\" in the left pane.\n"
+          },
+          {
+            "question": "What should be the type and size of the documents to be uploaded?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The format should be.pdf or .jpeg. The size of each document should not be greater than 200 kb."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The format should be.pdf or .jpeg. The size of each document should not be greater than 200 kb.\n"
+          },
+          {
+            "question": "In what cases a Bonafide Certificate from the institute is needed?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Bonafide Certificate is needed to be uploaded with the application in a case where the institute is located in a State/UT different from the domicile State/UT of the applicant."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Bonafide Certificate is needed to be uploaded with the application in a case where the institute is located in a State/UT different from the domicile State/UT of the applicant.\n"
+          },
+          {
+            "question": "How do I know if a field in the application form is mandatory?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The mandatory fields have a red asterisk (*) mark at the end."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The mandatory fields have a red asterisk (*) mark at the end.\n"
+          },
+          {
+            "question": "How do I prove that my Family Income (all sources) is less than Rs. 8 LPA?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A valid income certificate issued by State/ UT Government\nneed to be enclosed as a proof of income."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "A valid income certificate issued by State/ UT Government\nneed to be enclosed as a proof of income.\n"
+          }
+        ]
+      },
+      "schemeId": "62949e246eb5d4447ec333f1"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````
