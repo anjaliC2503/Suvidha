@@ -1,0 +1,698 @@
+# "Advance / High Skill Training" Component of the "Development of Industries" Scheme
+
+- **Slug:** `ahst`
+- **Scheme ID:** `65d35909ed4030e118dfb2ec`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/ahst
+- **Dbt Scheme:** No
+- **Tags:** Skill, Training, Youth, Employment, Stipend, ITI
+- **Scheme Name:** "Advance / High Skill Training" Component of the "Development of Industries" Scheme
+- **Scheme Short Title:** AHST
+- **Level:** State/ UT
+- **Scheme Category:** Skills & Employment
+- **Scheme Sub Category:** Training and Skill Up-gradation, Academic qualification Up-Gradation, Voctional education
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Individual
+- **State:** Puducherry
+- **Nodal Department Name:** Industries and Commerce Department, Puducherry
+- **Scheme For:** Individual
+
+## Brief Description
+
+The scheme aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualifications willing to undergo some special high skilled training to start their ventures or to get suitable employment.
+
+## Detailed Description
+
+The "Advance / High Skill Training" Component of the "Development of Industries" Scheme by the District Industries Centre, Department of Industries and Commerce, Union Territory of Puducherry aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualification who are willing to undergo some special high skilled training to start their ventures or to get suitable employment opportunity in competitive fields.
+
+## Benefits
+
+> **Skill Training**
+
+Selected candidates are sponsored to training in relevant courses offered by reputed Training Institutions situated in the neighbouring states.
+> **Stipend to Trainee (per month)**
+
+
+- Higher Secondary / ITI: ₹ 2,500/-.
+- Any Graduate or 3 years Diploma in Engineering or equivalent: ₹ 3,000/-.
+
+> **Travelling Allowances**
+
+One-time to and fro expenses restricted to 2nd class train fare and accommodation charges as fixed by the institute
+> **Course Fees / Honorarium and Accommodation Charges**
+
+As prescribed by the training units/institutions will be paid.
+> **Period of Training**
+
+As prescribed by the Training Units/ Institutions.
+
+## Eligibility
+
+- The applicant should be between 18 and 35 years of age.
+- The applicant should possess the educational qualification as prescribed by the Training Units/ Institutions.
+- The applicant should be a native of the Union Territory of Puducherry (or) continuous resident of the area for the past three years.
+
+## Application Process
+
+### Offline
+
+**Step 1:** The interested applicant should take print of the [prescribed format](https://dic.py.gov.in/application-forms-download-area) of the application form.
+**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).
+**Step 3:** The interested applicant should visit (on a working day, and during office hours) the General Manager of the District Industries Centre (Thattanchavady, Puducherry - 605 009, 2248391, 2249392, 2248987, dic_pdy@bsnl.in), and submit the duly filled and signed application form and the documents to the concerned authority.
+**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.
+
+## References
+
+- [Guidelines](https://dic.py.gov.in/training)
+- [Citizen's Charter](https://dic.py.gov.in/sites/default/files/citizencharter.pdf)
+- [Application Form](https://dic.py.gov.in/application-forms-download-area)
+- [Contact Us](https://dic.py.gov.in/contact-us)
+
+## Documents Required
+
+- Aadhaar Card.
+- Applicant's Passport-sized Photo.
+- Residence-cum-Nativity Certificate, issued by the competent authority.
+- Age Proof.
+- Educational Certificates/Marksheets.
+
+## Frequently Asked Questions
+
+### What is the main objective of the "Advance / High Skill Training" scheme in Puducherry?
+
+The scheme aims to enhance the skills of individuals for advanced training in their trade or pursue special high-skilled training for entrepreneurial ventures or competitive employment.
+
+### How are selected candidates supported during training?
+
+Selected candidates receive sponsorship for relevant courses in neighboring states along with a stipend based on their educational qualifications.
+
+### What is the stipend amount for Higher Secondary / ITI trainees per month?
+
+Higher Secondary / ITI trainees receive a stipend of [?]2,500 per month.
+
+### What is the stipend amount for Any Graduate or 3 years Diploma in Engineering trainees?
+
+Any Graduate or 3 years Diploma in Engineering trainees receive a stipend of [?]3,000 per month.
+
+### How are the traveling allowances provided to the trainees?
+
+Trainees receive a one-time traveling allowance, restricted to 2nd class train fare, and accommodation charges as fixed by the institute.
+
+### What expenses are covered under the scheme regarding training units/institutions?
+
+The scheme covers course fees, honorarium, and accommodation charges as prescribed by the training units/institutions.
+
+### What is the age eligibility for applicants?
+
+Applicants should be between 18 and 35 years of age to be eligible for the scheme.
+
+### What educational qualifications are required for applicants?
+
+Applicants need to possess the educational qualifications as prescribed by the Training Units/Institutions.
+
+### What residency criteria should applicants meet?
+
+Applicants should be either native of Union Territory of Puducherry or continuous residents of the area for the past three years.
+
+### Which documents are mandatory for the application process?
+
+Mandatory documents include Aadhaar Card, Passport-sized Photo, Residence-cum-Nativity Certificate, Age Proof, and Educational Certificates/Marksheets.
+
+### Where can an interested applicant obtain the application form?
+
+Interested applicants can visit the Deputy Functional Manager or the Technical Officer of the District Industries Centre, Thattanchavady, Puducherry, during office hours.
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Puducherry"
+    ],
+    "schemeShortTitle": "AHST",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Skills & Employment"
+    ],
+    "schemeName": "\"Advance / High Skill Training\" Component of the \"Development of Industries\" Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ahst",
+    "briefDescription": "The scheme aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualifications willing to undergo some special high skilled training to start their ventures or to get suitable employment.",
+    "tags": [
+      "Skill",
+      "Training",
+      "Youth",
+      "Employment",
+      "Stipend",
+      "ITI"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65d35909ed4030e118dfb2ec",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Skill",
+            "Training",
+            "Youth",
+            "Employment",
+            "Stipend",
+            "ITI"
+          ],
+          "schemeName": "\"Advance / High Skill Training\" Component of the \"Development of Industries\" Scheme",
+          "schemeShortTitle": "AHST",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce85cd6d1a3bde4685304",
+              "label": "Skills & Employment"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Training and Skill Up-gradation",
+              "label": "Training and Skill Up-gradation"
+            },
+            {
+              "value": "Academic qualification Up-Gradation",
+              "label": "Academic qualification Up-Gradation"
+            },
+            {
+              "value": "Voctional education",
+              "label": "Voctional education"
+            }
+          ],
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "state": {
+            "value": 34,
+            "label": "Puducherry"
+          },
+          "nodalDepartmentName": {
+            "value": 34000021,
+            "label": "Industries and Commerce Department, Puducherry"
+          },
+          "schemeFor": "Individual"
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dic.py.gov.in/training"
+            },
+            {
+              "title": "Citizen's Charter",
+              "url": "https://dic.py.gov.in/sites/default/files/citizencharter.pdf"
+            },
+            {
+              "title": "Application Form",
+              "url": "https://dic.py.gov.in/application-forms-download-area"
+            },
+            {
+              "title": "Contact Us",
+              "url": "https://dic.py.gov.in/contact-us"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The &quot;Advance / High Skill Training&quot; Component of the &quot;Development of Industries&quot; Scheme by the District Industries Centre, Department of Industries and Commerce, Union Territory of Puducherry aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualification who are willing to undergo some special high skilled training to start their ventures or to get suitable employment opportunity in competitive fields.\n",
+          "benefits_md": "> **Skill Training**\n\nSelected candidates are sponsored to training in relevant courses offered by reputed Training Institutions situated in the neighbouring states.\n> **Stipend to Trainee (per month)**\n\n\n- Higher Secondary / ITI: ₹ 2,500/-.\n- Any Graduate or 3 years Diploma in Engineering or equivalent: ₹ 3,000/-.\n\n> **Travelling Allowances**\n\nOne-time to and fro expenses restricted to 2nd class train fare and accommodation charges as fixed by the institute\n> **Course Fees / Honorarium and Accommodation Charges**\n\nAs prescribed by the training units/institutions will be paid.\n> **Period of Training**\n\nAs prescribed by the Training Units/ Institutions.\n",
+          "briefDescription": "The scheme aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualifications willing to undergo some special high skilled training to start their ventures or to get suitable employment.",
+          "exclusions_md": "",
+          "detailedDescription": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Advance / High Skill Training\" Component of the \"Development of Industries\" Scheme by the District Industries Centre, Department of Industries and Commerce, Union Territory of Puducherry aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualification who are willing to undergo some special high skilled training to start their ventures or to get suitable employment opportunity in competitive fields."
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 3,
+            "value": "composite",
+            "label": "Composite"
+          },
+          "benefits": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Skill Training",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Selected candidates are sponsored to training in relevant courses offered by reputed Training Institutions situated in the neighbouring states."
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Stipend to Trainee (per month)",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Higher Secondary / ITI: ₹ 2,500/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any Graduate or 3 years Diploma in Engineering or equivalent: ₹ 3,000/-."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Travelling Allowances",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "One-time to and fro expenses restricted to 2nd class train fare and accommodation charges as fixed by the institute"
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Course Fees / Honorarium and Accommodation Charges",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "As prescribed by the training units/institutions will be paid."
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Period of Training",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "As prescribed by the Training Units/ Institutions."
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should take print of the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://dic.py.gov.in/application-forms-download-area",
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (on a working day, and during office hours) the General Manager of the District Industries Centre (Thattanchavady, Puducherry - 605 009, 2248391, 2249392, 2248987, dic_pdy@bsnl.in), and submit the duly filled and signed application form and the documents to the concerned authority."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+                  }
+                ]
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should take print of the [prescribed format](https://dic.py.gov.in/application-forms-download-area) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The interested applicant should visit (on a working day, and during office hours) the General Manager of the District Industries Centre (Thattanchavady, Puducherry - 605 009, 2248391, 2249392, 2248987, dic_pdy@bsnl.in), and submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n- The applicant should be between 18 and 35 years of age.\n- The applicant should possess the educational qualification as prescribed by the Training Units/ Institutions.\n- The applicant should be a native of the Union Territory of Puducherry (or) continuous resident of the area for the past three years. \n\n",
+          "eligibilityDescription": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be between 18 and 35 years of age."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should possess the educational qualification as prescribed by the Training Units/ Institutions."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of the Union Territory of Puducherry (or) continuous resident of the area for the past three years. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "ahst"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65d35914cd96dc5e075945e2",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant's Passport-sized Photo."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Residence-cum-Nativity Certificate, issued by the competent authority."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Age Proof."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Educational Certificates/Marksheets."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n- Aadhaar Card.\n- Applicant&#39;s Passport-sized Photo.\n- Residence-cum-Nativity Certificate, issued by the competent authority.\n- Age Proof.\n- Educational Certificates/Marksheets.\n\n"
+      },
+      "schemeId": "65d35909ed4030e118dfb2ec"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65d35978cd96dc5e07594639",
+      "en": {
+        "faqs": [
+          {
+            "question": "What is the main objective of the \"Advance / High Skill Training\" scheme in Puducherry?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme aims to enhance the skills of individuals for advanced training in their trade or pursue special high-skilled training for entrepreneurial ventures or competitive employment.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme aims to enhance the skills of individuals for advanced training in their trade or pursue special high-skilled training for entrepreneurial ventures or competitive employment.\n\n"
+          },
+          {
+            "question": "How are selected candidates supported during training?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Selected candidates receive sponsorship for relevant courses in neighboring states along with a stipend based on their educational qualifications.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Selected candidates receive sponsorship for relevant courses in neighboring states along with a stipend based on their educational qualifications.\n\n"
+          },
+          {
+            "question": "What is the stipend amount for Higher Secondary / ITI trainees per month?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Higher Secondary / ITI trainees receive a stipend of ₹2,500 per month.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Higher Secondary / ITI trainees receive a stipend of [?]2,500 per month.\n\n"
+          },
+          {
+            "question": "What is the stipend amount for Any Graduate or 3 years Diploma in Engineering trainees?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Any Graduate or 3 years Diploma in Engineering trainees receive a stipend of ₹3,000 per month.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Any Graduate or 3 years Diploma in Engineering trainees receive a stipend of [?]3,000 per month.\n\n"
+          },
+          {
+            "question": "How are the traveling allowances provided to the trainees?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Trainees receive a one-time traveling allowance, restricted to 2nd class train fare, and accommodation charges as fixed by the institute.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Trainees receive a one-time traveling allowance, restricted to 2nd class train fare, and accommodation charges as fixed by the institute.\n\n"
+          },
+          {
+            "question": "What expenses are covered under the scheme regarding training units/institutions?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme covers course fees, honorarium, and accommodation charges as prescribed by the training units/institutions.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme covers course fees, honorarium, and accommodation charges as prescribed by the training units/institutions.\n\n"
+          },
+          {
+            "question": "What is the age eligibility for applicants?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants should be between 18 and 35 years of age to be eligible for the scheme.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applicants should be between 18 and 35 years of age to be eligible for the scheme.\n\n"
+          },
+          {
+            "question": "What educational qualifications are required for applicants?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants need to possess the educational qualifications as prescribed by the Training Units/Institutions.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applicants need to possess the educational qualifications as prescribed by the Training Units/Institutions.\n\n"
+          },
+          {
+            "question": "What residency criteria should applicants meet?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants should be either native of Union Territory of Puducherry or continuous residents of the area for the past three years.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applicants should be either native of Union Territory of Puducherry or continuous residents of the area for the past three years.\n\n"
+          },
+          {
+            "question": "Which documents are mandatory for the application process?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mandatory documents include Aadhaar Card, Passport-sized Photo, Residence-cum-Nativity Certificate, Age Proof, and Educational Certificates/Marksheets.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Mandatory documents include Aadhaar Card, Passport-sized Photo, Residence-cum-Nativity Certificate, Age Proof, and Educational Certificates/Marksheets.\n\n"
+          },
+          {
+            "question": "Where can an interested applicant obtain the application form?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Interested applicants can visit the Deputy Functional Manager or the Technical Officer of the District Industries Centre, Thattanchavady, Puducherry, during office hours.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Interested applicants can visit the Deputy Functional Manager or the Technical Officer of the District Industries Centre, Thattanchavady, Puducherry, during office hours.\n\n"
+          }
+        ]
+      },
+      "schemeId": "65d35909ed4030e118dfb2ec"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

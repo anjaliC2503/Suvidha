@@ -1,0 +1,805 @@
+# Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)
+
+- **Slug:** `atesgephmesthrt3`
+- **Scheme ID:** `66151f38d7abbe47ee24d2bb`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/atesgephmesthrt3
+- **Dbt Scheme:** No
+- **Tags:** Tools, Equipment, Scheduled Tribe, HRT-3, Financial Assistance, Farmer, Farmer Group, Cooperative Society
+- **Scheme Name:** Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)
+- **Scheme Short Title:** ATES/GEPHMEST(HRT3)
+- **Implementing Agency:** Directorate Of Horticulture, Government Of Gujarat
+- **Level:** State/ UT
+- **Scheme Category:** Agriculture,Rural & Environment
+- **Scheme Sub Category:** Mechanization- solar power, farming systems
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Individual, Self Help Groups (SHGS), Registered Societies
+- **State:** Gujarat
+- **Scheme Type:** Not specified
+- **Nodal Ministry Name:** Not specified
+- **Nodal Department Name:** Agriculture, Farmers Welfare and Cooperation Department
+- **Other Ministry Name:** Not specified
+- **Other Department Names:** Not specified
+- **Scheme For:** Infra
+
+## Brief Description
+
+Under the scheme, financial assistance is provided to farmers belonging to the Scheduled Tribes category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment.
+
+## Detailed Description
+
+The scheme “Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)” is implemented by the Directorate of Horticulture, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under the scheme, financial assistance is provided to farmers belonging to the Scheduled Tribes category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment. This includes plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc.
+
+## Benefits
+
+1. The Scheduled Tribes farmers will be eligible for assistance up to 75% of the cost of the Tools/Equipment or ₹3,750/-, whichever is less.
+   1. Farmer groups/cooperative societies will be eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment.
+
+## Eligibility
+
+1. The beneficiary should be a permanent resident of Gujarat.
+   1. The beneficiary should belong to the Scheduled Tribes.
+   1. The individual farmer or farmer groups/Cooperative Societies are eligible to avail benefits under the scheme.
+
+**Note 01:** The tool/equipment has to be purchased from the authorised dealer of the empanelled manufacturer for the purpose of price discovery as notified by the Department of Agriculture from time to time.
+**Note 02:** Companies empanelled by the Department of Agriculture for tarpaulin seats and their regulations will have to be implemented as per the norms.
+**Note 03:** Companies empanelled by the Agriculture Department for plastic crates and have to implement as per its norms.
+
+## Application Process
+
+### Online
+
+> **Application Procedure:**
+
+**Step 01:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)
+**Step 02:** On the home page, click on ‘Schemes’ and then click on ‘Horticulture Schemes’.
+**Step 03:** Now select the scheme and then read the instructions for HRT-3.
+**Step 04:** Click on the ‘Apply’ button and an application page will open.
+**Step 05:** Click on the &quot;Apply New&quot; button and submit a new application.
+**Step 06:** Click on the &quot;Update Application&quot; button to add corrections to the application.
+**Step 07:** Once the application is done, confirm it.
+**Step 08:** Take a printout of the confirmed application.
+**Step 09:** Take a printout of the online application and submit it to the office/office address mentioned on the application along with the necessary documents. Or after applying Khedut online on the iKhedut Portal, take a print of the signature/ fingerprint and scan it, and upload it by clicking on the &quot;Upload Signed Copy of Application Print&quot; menu on the portal.
+**Note 01:** The facility to upload a scanned copy of the caste certificate is also enabled in the &quot;Other Document Upload&quot; menu wherever applicable.
+**Note 02:** There is no need for the farmer to submit the application in person at the office.
+**Note 03:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.
+> **Application Tracking:**
+
+Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx ](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx)
+
+## References
+
+- [Official Website](https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_IndividualGhatakDetails.aspx)
+- [Scheme Details (Page No. 167)](https://planning.gujarat.gov.in/images/pdf/dp-eng-23-24.pdf)
+
+## Documents Required
+
+1. Scheduled Tribes Certificate issued by competent authority
+   1. Disability Certificate issued by Competent Authority (only for PWDs) (if applicable)
+   1. Copy of land details 7/12 and 8-A
+   1. Copy of Aadhaar Card
+   1. Copy of bank passbook/cancelled cheque
+   1. Copy of forest rights Letter (if applicable) 
+   1. Any other documents as required
+
+## Frequently Asked Questions
+
+### Who is eligible to benefit from the scheme?
+
+Permanent residents of Gujarat belonging to the Scheduled Tribes category, as well as individual farmers and farmer groups/cooperative societies, are eligible to avail benefits under the scheme.
+
+### What financial assistance is available for Scheduled Tribes farmers under the scheme?
+
+Scheduled Tribes farmers are eligible for assistance up to 75% of the cost of the tools/equipment or [?]3,750/-, whichever is less.
+
+### What assistance is available for farmer groups/cooperative societies under the scheme?
+
+Farmer groups/cooperative societies are eligible for assistance of 90% of the cost of equipment or up to [?]7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment.
+
+### What types of equipment are covered under the scheme?
+
+The scheme covers various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment, including plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc.
+
+### What are the eligibility criteria for beneficiaries under the scheme?
+
+Beneficiaries must be permanent residents of Gujarat and belong to the Scheduled Tribes category.
+
+### Can farmer groups and cooperative societies avail benefits under the scheme?
+
+Yes, farmer groups and cooperative societies are eligible to avail benefits under the scheme along with individual farmers.
+
+### Are there any specific purchasing guidelines for the tools/equipment under the scheme?
+
+The tools/equipment must be purchased from authorized dealers of empanelled manufacturers to ensure price discovery as notified by the Department of Agriculture.
+
+### How can one apply for the scheme?
+
+Applicants can apply online through the I-Khedut Portal: https://ikhedut.gujarat.gov.in/
+
+### Can applicants track their application status online?
+
+Yes, applicant can also check their Application Status/View/Print/Upload Application details from the below link: https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Gujarat"
+    ],
+    "schemeShortTitle": "ATES/GEPHMEST(HRT3)",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "atesgephmesthrt3",
+    "briefDescription": "Under the scheme, financial assistance is provided to farmers belonging to the Scheduled Tribes category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment.",
+    "tags": [
+      "Tools",
+      "Equipment",
+      "Scheduled Tribe",
+      "HRT-3",
+      "Financial Assistance",
+      "Farmer",
+      "Farmer Group",
+      "Cooperative Society"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "66151f38d7abbe47ee24d2bb",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Tools",
+            "Equipment",
+            "Scheduled Tribe",
+            "HRT-3",
+            "Financial Assistance",
+            "Farmer",
+            "Farmer Group",
+            "Cooperative Society"
+          ],
+          "schemeName": "Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)",
+          "schemeShortTitle": "ATES/GEPHMEST(HRT3)",
+          "implementingAgency": "Directorate Of Horticulture, Government Of Gujarat",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce6ead6d1a3bde4685252",
+              "label": "Agriculture,Rural & Environment"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Mechanization- solar power, farming systems",
+              "label": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            },
+            {
+              "value": "self-help-groups",
+              "label": "Self Help Groups (SHGS)"
+            },
+            {
+              "value": "registered-societies",
+              "label": "Registered Societies"
+            }
+          ],
+          "state": {
+            "value": 24,
+            "label": "Gujarat"
+          },
+          "schemeType": null,
+          "nodalMinistryName": null,
+          "nodalDepartmentName": {
+            "value": 2444441,
+            "label": "Agriculture, Farmers Welfare and Cooperation Department"
+          },
+          "otherMinistryName": null,
+          "otherDepartmentNames": null,
+          "schemeFor": "Infra"
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_IndividualGhatakDetails.aspx"
+            },
+            {
+              "title": "Scheme Details (Page No. 167)",
+              "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-23-24.pdf"
+            }
+          ],
+          "schemeImageUrl": "",
+          "briefDescription": "Under the scheme, financial assistance is provided to farmers belonging to the Scheduled Tribes category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment.",
+          "detailedDescription_md": "The scheme “Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)” is implemented by the Directorate of Horticulture, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under the scheme, financial assistance is provided to farmers belonging to the Scheduled Tribes category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment. This includes plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc.\n",
+          "benefits_md": "\n   1. The Scheduled Tribes farmers will be eligible for assistance up to 75% of the cost of the Tools/Equipment or ₹3,750/-, whichever is less.\n   1. Farmer groups/cooperative societies will be eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment.\n\n",
+          "exclusions_md": "",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The scheme “Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)” is implemented by the Directorate of Horticulture, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under the scheme, financial assistance is provided to farmers belonging to the Scheduled Tribes category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment. This includes plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 1,
+            "value": "cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The Scheduled Tribes farmers will be eligible for assistance up to 75% of the cost of the Tools/Equipment or ₹3,750/-, whichever is less."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Farmer groups/cooperative societies will be eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Application Procedure:",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 01:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 02:",
+                        "bold": true
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Horticulture Schemes’."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 03:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Now select the scheme and then read the instructions for HRT-3."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 04:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on the ‘Apply’ button and an application page will open."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 05:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on the \"Apply New\" button and submit a new application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 06: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 07:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Once the application is done, confirm it."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 08:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Take a printout of the confirmed application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 09:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Take a printout of the online application and submit it to the office/office address mentioned on the application along with the necessary documents. Or after applying Khedut online on the iKhedut Portal, take a print of the signature/ fingerprint and scan it, and upload it by clicking on the \"Upload Signed Copy of Application Print\" menu on the portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 01:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The facility to upload a scanned copy of the caste certificate is also enabled in the \"Other Document Upload\" menu wherever applicable."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 02: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "There is no need for the farmer to submit the application in person at the office."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note 03:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Scanned copy uploaded in PDF format should not exceed 200 KB in size."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Application Tracking:",
+                        "bold": true,
+                        "underline": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx "
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "process_md": "&gt; **Application Procedure:**\n\n**Step 01:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 02:** On the home page, click on ‘Schemes’ and then click on ‘Horticulture Schemes’.\n**Step 03:** Now select the scheme and then read the instructions for HRT-3.\n**Step 04:** Click on the ‘Apply’ button and an application page will open.\n**Step 05:** Click on the &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 06:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 07:** Once the application is done, confirm it.\n**Step 08:** Take a printout of the confirmed application.\n**Step 09:** Take a printout of the online application and submit it to the office/office address mentioned on the application along with the necessary documents. Or after applying Khedut online on the iKhedut Portal, take a print of the signature/ fingerprint and scan it, and upload it by clicking on the &amp;quot;Upload Signed Copy of Application Print&amp;quot; menu on the portal.\n**Note 01:** The facility to upload a scanned copy of the caste certificate is also enabled in the &amp;quot;Other Document Upload&amp;quot; menu wherever applicable.\n**Note 02:** There is no need for the farmer to submit the application in person at the office.\n**Note 03:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.\n&gt; **Application Tracking:**\n\nApplicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx ](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx)\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. The beneficiary should belong to the Scheduled Tribes.\n   1. The individual farmer or farmer groups/Cooperative Societies are eligible to avail benefits under the scheme.\n\n**Note 01:** The tool/equipment has to be purchased from the authorised dealer of the empanelled manufacturer for the purpose of price discovery as notified by the Department of Agriculture from time to time.\n**Note 02:** Companies empanelled by the Department of Agriculture for tarpaulin seats and their regulations will have to be implemented as per the norms.\n**Note 03:** Companies empanelled by the Agriculture Department for plastic crates and have to implement as per its norms.\n",
+          "eligibilityDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a permanent resident of Gujarat."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The beneficiary should belong to the Scheduled Tribes."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The individual farmer or farmer groups/Cooperative Societies are eligible to avail benefits under the scheme."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Note 01:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The tool/equipment has to be purchased from the authorised dealer of the empanelled manufacturer for the purpose of price discovery as notified by the Department of Agriculture from time to time."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Note 02:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Companies empanelled by the Department of Agriculture for tarpaulin seats and their regulations will have to be implemented as per the norms."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Note 03:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Companies empanelled by the Agriculture Department for plastic crates and have to implement as per its norms."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "atesgephmesthrt3"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "66151f61d7abbe47ee24d2f1",
+      "en": {
+        "documents_required": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Scheduled Tribes Certificate issued by competent authority"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Disability Certificate issued by Competent Authority (only for PWDs) (if applicable)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Copy of land details 7/12 and 8-A"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Copy of Aadhaar Card"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Copy of bank passbook/cancelled cheque"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Copy of forest rights Letter (if applicable) "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Any other documents as required"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n   1. Scheduled Tribes Certificate issued by competent authority\n   1. Disability Certificate issued by Competent Authority (only for PWDs) (if applicable)\n   1. Copy of land details 7/12 and 8-A\n   1. Copy of Aadhaar Card\n   1. Copy of bank passbook/cancelled cheque\n   1. Copy of forest rights Letter (if applicable) \n   1. Any other documents as required\n\n"
+      },
+      "schemeId": "66151f38d7abbe47ee24d2bb"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "661520d9d7abbe47ee24d491",
+      "en": {
+        "faqs": [
+          {
+            "question": "Who is eligible to benefit from the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Permanent residents of Gujarat belonging to the Scheduled Tribes category, as well as individual farmers and farmer groups/cooperative societies, are eligible to avail benefits under the scheme."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Permanent residents of Gujarat belonging to the Scheduled Tribes category, as well as individual farmers and farmer groups/cooperative societies, are eligible to avail benefits under the scheme.\n"
+          },
+          {
+            "question": "What financial assistance is available for Scheduled Tribes farmers under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Scheduled Tribes farmers are eligible for assistance up to 75% of the cost of the tools/equipment or ₹3,750/-, whichever is less."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Scheduled Tribes farmers are eligible for assistance up to 75% of the cost of the tools/equipment or [?]3,750/-, whichever is less.\n"
+          },
+          {
+            "question": "What assistance is available for farmer groups/cooperative societies under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Farmer groups/cooperative societies are eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Farmer groups/cooperative societies are eligible for assistance of 90% of the cost of equipment or up to [?]7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment.\n"
+          },
+          {
+            "question": "What types of equipment are covered under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme covers various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment, including plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme covers various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment, including plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc.\n"
+          },
+          {
+            "question": "What are the eligibility criteria for beneficiaries under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Beneficiaries must be permanent residents of Gujarat and belong to the Scheduled Tribes category."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Beneficiaries must be permanent residents of Gujarat and belong to the Scheduled Tribes category.\n"
+          },
+          {
+            "question": "Can farmer groups and cooperative societies avail benefits under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes, farmer groups and cooperative societies are eligible to avail benefits under the scheme along with individual farmers."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes, farmer groups and cooperative societies are eligible to avail benefits under the scheme along with individual farmers.\n"
+          },
+          {
+            "question": "Are there any specific purchasing guidelines for the tools/equipment under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The tools/equipment must be purchased from authorized dealers of empanelled manufacturers to ensure price discovery as notified by the Department of Agriculture."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The tools/equipment must be purchased from authorized dealers of empanelled manufacturers to ensure price discovery as notified by the Department of Agriculture.\n"
+          },
+          {
+            "question": "How can one apply for the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants can apply online through the I-Khedut Portal: https://ikhedut.gujarat.gov.in/"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Applicants can apply online through the I-Khedut Portal: https://ikhedut.gujarat.gov.in/\n"
+          },
+          {
+            "question": "Can applicants track their application status online?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes, applicant can also check their Application Status/View/Print/Upload Application details from the below link: https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx "
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes, applicant can also check their Application Status/View/Print/Upload Application details from the below link: https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx \n"
+          }
+        ]
+      },
+      "schemeId": "66151f38d7abbe47ee24d2bb"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

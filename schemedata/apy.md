@@ -1,0 +1,1078 @@
+# Atal Pension Yojana
+
+- **Slug:** `apy`
+- **Scheme ID:** `628b41a2c9b440ca7f31ff6c`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/apy
+- **Dbt Scheme:** No
+- **Tags:** Pension, Unorganized Workers, Bank Account Holders
+- **Scheme Name:** Atal Pension Yojana
+- **Scheme Short Title:** APY
+- **Implementing Agency:** Banks
+- **Level:** Central
+- **Scheme Type:** Central Sector Scheme
+- **Scheme Category:** Banking,Financial Services and Insurance
+- **Scheme Sub Category:** Pension
+- **Scheme Open Date:** 2015-05-09
+- **Target Beneficiaries:** Individual
+- **Nodal Ministry Name:** Ministry Of Finance
+- **Nodal Department Name:** Department of Financial Service
+- **Scheme For:** Individual
+
+## Brief Description
+
+Atal Pension Yojana (APY) is an old age income security scheme for a  savings account holder  in the age group of 18-40 years,  who is not an income tax-payee. It helps to address longevity risks among  workers in unorganized sector and encourages the workers to voluntarily save for retirement.
+
+## Detailed Description
+
+Atal Pension Yojana (APY) is an old age income security scheme for a   savings account holder in the  age group of **18-40 years who is not an income tax-payee. The scheme helps in addressing** the longevity risks among the workers in the unorganized sector and encourages the workers to voluntarily save for their retirement.
+#### Focus of APY
+The scheme is mainly targeted **at the poor, the under-privileged and workers in** the  unorganized sector. 
+#### APY Subscriber Contribution Chart -
+[ https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf](https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf)
+#### **Charges and fees and overdue interest under APY:** 
+The charges and fees and the overdue interest for non-payment or delayed payment of prescribed contribution amount shall be levied on the subscribers of APY. These charges and their method of application shall be prescribed by PFRDA from time to time, in consultation with the Central Government.
+##### **Raising Grievance Under APY**
+ A subscriber can raise grievance anytime free of cost from anywhere by visiting: [www.npscra.nsdl.co.in](https://www.npscra.nsdl.co.in/) 
+&gt;&gt;Home &gt;&gt; select: NPS-Lite or through CGMS Subscriber raising the grievance will be allotted a token number against the grievance raised. Subscriber may check the status of the grievance under “Check the status of Grievance / Enquiry already registered”.
+
+## Benefits
+
+#### Upon exit on attaining 60 years
+The subscriber shall receive the following three benefits on attaining the age of 60:
+**(i) Guaranteed minimum pension amount:** Each subscriber under APY shall receive a  guaranteed minimum pension of Rs. 1000/- per month or Rs. 2000/- per month or Rs. 3000/- per month or Rs. 4000/- per month or Rs. 5000/- per month, after the age of 60 years until death.
+**(ii) Guaranteed minimum pension amount to the spouse:** After the subscriber’s demise, the spouse of the subscriber shall be entitled to receive the same pension amount as that of the subscriber,until death.  
+**(iii) Return of the pension wealth to the nominee of the subscriber:** After the demise of both the subscriber and the spouse, the nominee of the subscriber shall be entitled to receive the pension wealth, as accumulated till the  subscriber&#39;s age of 60 years.
+Contributions to the Atal Pension Yojana (APY) are  eligible for tax benefits similar to the National Pension System (NPS) under section 80CCD(1).
+#### Voluntary exit (Exit before 60 Years of age): 
+The subscriber shall  be refunded only the contributions made by him to APY alongwith the net actual accrued income earned on his contributions (after deducting the account maintenance charges).
+However, in case of subscribers who joined the scheme before 31st March 2016 and have received the Government Co-Contribution,  shall not receive the same including the   accrued  income earned thereon.    
+#### For death before 60 years
+**Option 1:** In case of death of the subscriber before 60 years, option will be available to the spouse of the subscriber to continue contribution in the APY account of the subscriber, which can be maintained in the spouse’s name, for the remaining vesting period, till the original subscriber would have attained the age of 60 years. The spouse of the subscriber shall be entitled to receive the same pension amount as the subscriber until death of the spouse. Such APY account and pension amount would be in addition even if the spouse has his/her APY account and pension amount in own name.
+**Option 2:** The entire accumulated pension corpus till date under APY will be returned to the spouse / nominee.
+
+## Exclusions
+
+**From 1st October, 2022, any citizen who is or has been an income tax payer, shall  not be eligible to join  APY.** 
+####
+
+## Eligibility
+
+#### Age of joining and contribution period
+
+1. The minimum age of joining APY is 18 years and maximum is 40 years.
+1. The age of exit and start of pension is 60 years.
+1. Subscriber contribution to APY shall be made through the facility of ‘auto-debit’ of the prescribed contribution amount from the savings bank account of the subscriber on monthly, quarterly or half-yearly basis.
+1. The subscribers are required to contribute the prescribed contribution amount from the age of joining APY till the age of  60 years.
+
+## Application Process
+
+### Online
+
+#### **Process 1:**
+
+1. One can also open an APY account online using one's Net banking facility. 
+1. The applicant can login into his/her internet banking account and search for APY on dashboard.
+1. Customer has to fill basic and Nominee details.
+1. Customer has to give consent for  auto debit of premium from the account and submit the form.
+
+##### **Process 2:**
+##### Visit website “[https://enps.nsdl.com/eNPS/NationalPensionSystem.html]() “ and select “Atal Pension Yojana”.
+##### Select “APY Registration”
+##### Fill the basic details in the form. One can complete KYC through 3 options – 
+
+  - Offline KYC – Where one has to upload XML file of Aadhaar
+  - Aadhaar – Where KYC is done through OTP verification on Mobile Number register with Aadhaar
+  - Virtual ID – Where Aadhaar virtual ID is created for KYC 
+
+**Citizen can select either one of three options.**
+##### Once the basic details are filled, an acknowledgement number is generated.
+
+  - Citizen then has to fill personal details and decide the pension amount he/she wants after 60 years.
+  - The Citizen also has to decide the frequency of contribution for the scheme.
+  - Once the citizen “confirms” for personal details, he/she  has to then fill nominee details.
+  - After submitting the personal and Nominee details, Citizen is redirected to NSDL website for eSign.
+  - Once Aadhaar is OTP verified,  Citizen gets successfully registered in APY.
+  - One can also join digitally through e-APY portal or through web portal of banks providing such facility.
+
+##### Visit website “[https://enps.nsdl.com/eNPS/NationalPensionSystem.html ](https://enps.nsdl.com/eNPS/NationalPensionSystem.html)“ and select “Atal Pension Yojana”.
+##### Helpline Number - - Toll Free Helpline number for APY Scheme is 1800-110-069
+
+### Offline
+
+##### One can visit the nearest Bank branch or Post Office where he/ she is having a saving bank account and submit the APY registration form for opening the APY account.
+
+## References
+
+- [Scheme Guidelines](https://jansuraksha.gov.in/Files/APY/ENGLISH/APY.pdf)
+- [APY Subscriber Contribution Chart](https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf)
+
+## Documents Required
+
+**KYC details are fetched from active Bank/Post Office Savings account.**  
+<br>
+
+## Frequently Asked Questions
+
+### When will I receive my Pension?
+
+Age Of Start Of Pension is  60 Years.
+
+### I am a  Swavalamban subscriber. Can I still, apply for APY?
+
+Eligible Swavalamban Subscribers may be migrated to APY.
+
+### Is it required to furnish nomination while joining the scheme?
+
+Yes.
+
+### Is there any provision of default nominee or blood relation?
+
+If the subscriber is unmarried they can nominate any other person as nominee and they have to provide spouse details after marriage. If married, the spouse will be the default nominee. The Aadhaar details of spouse and nominees may be provided.
+
+### What will happen if the contribution gets delayed?
+
+Subscriber will be charged overdue interest for the delayed period in case the APY contribution gets delayed beyond the due date.
+
+### How will I know the status of my contribution?
+
+The periodical information to the subscribers regarding activation of PRAN, balance in the account, contribution credits etc. will be intimated to APY subscribers by way of SMS alerts on the registered mobile number or can be accessed through mobile/APY app launched by NSDL. The subscriber will also be receiving physical statement of account once in a financial year at their registered address.
+
+### Whether Aadhaar Number is compulsory for joining the scheme?
+
+It is not mandatory as of now.
+
+### Whether an employee of Central/State Government or Public Sector Undertaking and/or a NPS subscriber can subscribe to APY?
+
+APY is open to all citizens of India who have a savings bank account. The minimum age of joining APY is 18 years and maximum age is 40 years.
+Provided that from 1st Oct 2022, any citizen who is or has been an income tax payer, shall not be eligible to join APY.
+
+### Can I open APY Account without savings bank account?
+
+No, the savings bank account/ post office savings bank account is mandatory for joining APY.
+
+### If I have completed 40 years, can I join Atal Pension Yojana?
+
+A person can join APY till his/ her 40th birthday. For example, if person 'X' becomes 40 years old on 1st January 2023, then, he/she is eligible to join APY till 1st January 2023 and becomes ineligible from 2nd January 2023 to join the scheme.
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "All"
+    ],
+    "schemeShortTitle": "APY",
+    "level": "Central",
+    "schemeFor": "Individual",
+    "nodalMinistryName": "Ministry Of Finance",
+    "schemeCategory": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "schemeName": "Atal Pension Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "apy",
+    "briefDescription": "Atal Pension Yojana (APY) is an old age income security scheme for a  savings account holder  in the age group of 18-40 years,  who is not an income tax-payee. It helps to address longevity risks among  workers in unorganized sector and encourages the workers to voluntarily save for retirement.",
+    "tags": [
+      "Pension",
+      "Unorganized Workers",
+      "Bank Account Holders"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "628b41a2c9b440ca7f31ff6c",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Pension",
+            "Unorganized Workers",
+            "Bank Account Holders"
+          ],
+          "schemeName": "Atal Pension Yojana",
+          "schemeShortTitle": "APY",
+          "implementingAgency": "Banks",
+          "level": {
+            "value": "central",
+            "label": "Central"
+          },
+          "schemeType": {
+            "value": "central-sector-scheme",
+            "label": "Central Sector Scheme"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce7f6d6d1a3bde46852d0",
+              "label": "Banking,Financial Services and Insurance"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Pension",
+              "label": "Pension"
+            }
+          ],
+          "schemeOpenDate": "2015-05-09",
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "nodalMinistryName": {
+            "value": 499,
+            "label": "Ministry Of Finance"
+          },
+          "nodalDepartmentName": {
+            "value": 1174,
+            "label": "Department of Financial Service"
+          },
+          "schemeFor": "Individual"
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Scheme Guidelines",
+              "url": " https://jansuraksha.gov.in/Files/APY/ENGLISH/APY.pdf "
+            },
+            {
+              "title": "APY Subscriber Contribution Chart",
+              "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "Atal Pension Yojana (APY) is an old age income security scheme for a   savings account holder in the  age group of **18-40 years who is not an income tax-payee. The scheme helps in addressing** the longevity risks among the workers in the unorganized sector and encourages the workers to voluntarily save for their retirement.\n#### Focus of APY\nThe scheme is mainly targeted **at the poor, the under-privileged and workers in** the  unorganized sector. \n#### APY Subscriber Contribution Chart -\n[ https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf](https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf)\n#### **Charges and fees and overdue interest under APY:** \nThe charges and fees and the overdue interest for non-payment or delayed payment of prescribed contribution amount shall be levied on the subscribers of APY. These charges and their method of application shall be prescribed by PFRDA from time to time, in consultation with the Central Government.\n##### **Raising Grievance Under APY**\n A subscriber can raise grievance anytime free of cost from anywhere by visiting: [www.npscra.nsdl.co.in](https://www.npscra.nsdl.co.in/) \n&amp;gt;&amp;gt;Home &amp;gt;&amp;gt; select: NPS-Lite or through CGMS Subscriber raising the grievance will be allotted a token number against the grievance raised. Subscriber may check the status of the grievance under “Check the status of Grievance / Enquiry already registered”.\n",
+          "benefits_md": "#### Upon exit on attaining 60 years\nThe subscriber shall receive the following three benefits on attaining the age of 60:\n**(i) Guaranteed minimum pension amount:** Each subscriber under APY shall receive a  guaranteed minimum pension of Rs. 1000/- per month or Rs. 2000/- per month or Rs. 3000/- per month or Rs. 4000/- per month or Rs. 5000/- per month, after the age of 60 years until death.\n**(ii) Guaranteed minimum pension amount to the spouse:** After the subscriber’s demise, the spouse of the subscriber shall be entitled to receive the same pension amount as that of the subscriber,until death.  \n**(iii) Return of the pension wealth to the nominee of the subscriber:** After the demise of both the subscriber and the spouse, the nominee of the subscriber shall be entitled to receive the pension wealth, as accumulated till the  subscriber&amp;#39;s age of 60 years.\nContributions to the Atal Pension Yojana (APY) are  eligible for tax benefits similar to the National Pension System (NPS) under section 80CCD(1).\n#### Voluntary exit (Exit before 60 Years of age): \nThe subscriber shall  be refunded only the contributions made by him to APY alongwith the net actual accrued income earned on his contributions (after deducting the account maintenance charges).\nHowever, in case of subscribers who joined the scheme before 31st March 2016 and have received the Government Co-Contribution,  shall not receive the same including the   accrued  income earned thereon.    \n#### For death before 60 years\n**Option 1:** In case of death of the subscriber before 60 years, option will be available to the spouse of the subscriber to continue contribution in the APY account of the subscriber, which can be maintained in the spouse’s name, for the remaining vesting period, till the original subscriber would have attained the age of 60 years. The spouse of the subscriber shall be entitled to receive the same pension amount as the subscriber until death of the spouse. Such APY account and pension amount would be in addition even if the spouse has his/her APY account and pension amount in own name.\n**Option 2:** The entire accumulated pension corpus till date under APY will be returned to the spouse / nominee.\n",
+          "exclusions_md": "**From 1st October, 2022, any citizen who is or has been an income tax payer, shall  not be eligible to join  APY.** \n####   \n",
+          "briefDescription": "Atal Pension Yojana (APY) is an old age income security scheme for a  savings account holder  in the age group of 18-40 years,  who is not an income tax-payee. It helps to address longevity risks among  workers in unorganized sector and encourages the workers to voluntarily save for retirement.",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Atal Pension Yojana (APY) is an old age income security scheme for a   savings account holder in the  age group of "
+                    },
+                    {
+                      "text": "18-40 years who is not an income tax-payee. The scheme helps in addressing",
+                      "bold": true
+                    },
+                    {
+                      "text": " the longevity risks among the workers in the unorganized sector and encourages the workers to voluntarily save for their retirement."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading_four",
+              "children": [
+                {
+                  "text": "Focus of APY"
+                }
+              ]
+            },
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The scheme is mainly targeted "
+                    },
+                    {
+                      "text": "at the poor, the under-privileged and workers in",
+                      "bold": true
+                    },
+                    {
+                      "text": " the  unorganized sector. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading_four",
+              "children": [
+                {
+                  "text": "APY Subscriber Contribution Chart -"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "link": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf",
+                  "children": [
+                    {
+                      "text": " https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "link": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading_four",
+              "children": [
+                {
+                  "text": "Charges and fees and overdue interest under APY: ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The charges and fees and the overdue interest for non-payment or delayed payment of prescribed contribution amount shall be levied on the subscribers of APY. These charges and their method of application shall be prescribed by PFRDA from time to time, in consultation with the Central Government."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading_five",
+                  "children": [
+                    {
+                      "text": "Raising Grievance Under APY",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": " A subscriber can raise grievance anytime free of cost from anywhere by visiting: "
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://www.npscra.nsdl.co.in/",
+                      "children": [
+                        {
+                          "text": "www.npscra.nsdl.co.in"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ">>Home >> select: NPS-Lite or through CGMS Subscriber raising the grievance will be allotted a token number against the grievance raised. Subscriber may check the status of the grievance under “Check the status of Grievance / Enquiry already registered”."
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "text": ""
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "value": "Cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "heading_four",
+                  "children": [
+                    {
+                      "text": "Upon exit on attaining 60 years"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The subscriber shall receive the following three benefits on attaining the age of 60:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "(i) Guaranteed minimum pension amount:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Each subscriber under APY shall receive a  guaranteed minimum pension of Rs. 1000/- per month or Rs. 2000/- per month or Rs. 3000/- per month or Rs. 4000/- per month or Rs. 5000/- per month, after the age of 60 years until death."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "(ii) Guaranteed minimum pension amount to the spouse:",
+                      "bold": true
+                    },
+                    {
+                      "text": " After the subscriber’s demise, the spouse of the subscriber shall be entitled to receive the same pension amount as that of the subscriber,until death.  "
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "(iii) Return of the pension wealth to the nominee of the subscriber:",
+                      "bold": true
+                    },
+                    {
+                      "text": " After the demise of both the subscriber and the spouse, the nominee of the subscriber shall be entitled to receive the pension wealth, as accumulated till the  subscriber's age of 60 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Contributions to the Atal Pension Yojana (APY) are  eligible for tax benefits similar to the National Pension System (NPS) under section 80CCD(1)."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading_four",
+                  "children": [
+                    {
+                      "text": "Voluntary exit (Exit before 60 Years of age): "
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The subscriber shall  be refunded only the contributions made by him to APY alongwith the net actual accrued income earned on his contributions (after deducting the account maintenance charges)."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "However, in case of subscribers who joined the scheme before 31st March 2016 and have received the Government Co-Contribution,  shall not receive the same including the   accrued  income earned thereon.    "
+                    }
+                  ]
+                },
+                {
+                  "type": "heading_four",
+                  "children": [
+                    {
+                      "text": "For death before 60 years"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Option 1:",
+                      "bold": true
+                    },
+                    {
+                      "text": " In case of death of the subscriber before 60 years, option will be available to the spouse of the subscriber to continue contribution in the APY account of the subscriber, which can be maintained in the spouse’s name, for the remaining vesting period, till the original subscriber would have attained the age of 60 years. The spouse of the subscriber shall be entitled to receive the same pension amount as the subscriber until death of the spouse. Such APY account and pension amount would be in addition even if the spouse has his/her APY account and pension amount in own name."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Option 2:",
+                  "bold": true
+                },
+                {
+                  "text": " The entire accumulated pension corpus till date under APY will be returned to the spouse / nominee."
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "From 1st October, 2022, any citizen who is or has been an income tax payer, shall  not be eligible to join  APY. ",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading_four",
+              "children": [
+                {
+                  "text": "  "
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "url": "",
+            "process": [
+              {
+                "type": "heading_four",
+                "children": [
+                  {
+                    "text": "Process 1:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "One can also open an APY account online using one's Net banking facility. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant can login into his/her internet banking account and search for APY on dashboard."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Customer has to fill basic and Nominee details."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Customer has to give consent for  auto debit of premium from the account and submit the form."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Process 2:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Visit website “"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html",
+                    "children": [
+                      {
+                        "text": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " “ and select “Atal Pension Yojana”."
+                  }
+                ]
+              },
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Select “APY Registration”"
+                  }
+                ]
+              },
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Fill the basic details in the form. One can complete KYC through 3 options – "
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Offline KYC – Where one has to upload XML file of Aadhaar"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Aadhaar – Where KYC is done through OTP verification on Mobile Number register with Aadhaar"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Virtual ID – Where Aadhaar virtual ID is created for KYC "
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Citizen can select either one of three options.",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading_five",
+                    "children": [
+                      {
+                        "text": "Once the basic details are filled, an acknowledgement number is generated."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Citizen then has to fill personal details and decide the pension amount he/she wants after 60 years."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "The Citizen also has to decide the frequency of contribution for the scheme."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Once the citizen “confirms” for personal details, he/she  has to then fill nominee details."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "After submitting the personal and Nominee details, Citizen is redirected to NSDL website for eSign."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Once Aadhaar is OTP verified,  Citizen gets successfully registered in APY."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "One can also join digitally through e-APY portal or through web portal of banks providing such facility."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Visit website “"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html",
+                    "children": [
+                      {
+                        "text": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "“ and select “Atal Pension Yojana”."
+                  }
+                ]
+              },
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Helpline Number - - Toll Free Helpline number for APY Scheme is 1800-110-069"
+                  }
+                ]
+              }
+            ],
+            "process_md": "#### **Process 1:**\n\n1. One can also open an APY account online using one&#39;s Net banking facility. \n1. The applicant can login into his/her internet banking account and search for APY on dashboard.\n1. Customer has to fill basic and Nominee details.\n1. Customer has to give consent for  auto debit of premium from the account and submit the form.\n\n##### **Process 2:**\n##### Visit website “[https://enps.nsdl.com/eNPS/NationalPensionSystem.html]() “ and select “Atal Pension Yojana”.\n##### Select “APY Registration”\n##### Fill the basic details in the form. One can complete KYC through 3 options – \n\n  - Offline KYC – Where one has to upload XML file of Aadhaar\n  - Aadhaar – Where KYC is done through OTP verification on Mobile Number register with Aadhaar\n  - Virtual ID – Where Aadhaar virtual ID is created for KYC \n\n**Citizen can select either one of three options.**\n##### Once the basic details are filled, an acknowledgement number is generated.\n\n  - Citizen then has to fill personal details and decide the pension amount he/she wants after 60 years.\n  - The Citizen also has to decide the frequency of contribution for the scheme.\n  - Once the citizen “confirms” for personal details, he/she  has to then fill nominee details.\n  - After submitting the personal and Nominee details, Citizen is redirected to NSDL website for eSign.\n  - Once Aadhaar is OTP verified,  Citizen gets successfully registered in APY.\n  - One can also join digitally through e-APY portal or through web portal of banks providing such facility.\n\n##### Visit website “[https://enps.nsdl.com/eNPS/NationalPensionSystem.html ](https://enps.nsdl.com/eNPS/NationalPensionSystem.html)“ and select “Atal Pension Yojana”.\n##### Helpline Number - - Toll Free Helpline number for APY Scheme is 1800-110-069\n"
+          },
+          {
+            "mode": "Offline",
+            "url": "",
+            "process": [
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "One can visit the nearest Bank branch or Post Office where he/ she is having a saving bank account and submit the APY registration form for opening the APY account."
+                  }
+                ]
+              }
+            ],
+            "process_md": "##### One can visit the nearest Bank branch or Post Office where he/ she is having a saving bank account and submit the APY registration form for opening the APY account.\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "#### Age of joining and contribution period\n\n1. The minimum age of joining APY is 18 years and maximum is 40 years.\n1. The age of exit and start of pension is 60 years.\n1. Subscriber contribution to APY shall be made through the facility of ‘auto-debit’ of the prescribed contribution amount from the savings bank account of the subscriber on monthly, quarterly or half-yearly basis.\n1. The subscribers are required to contribute the prescribed contribution amount from the age of joining APY till the age of  60 years. \n\n",
+          "eligibilityDescription": [
+            {
+              "type": "heading_four",
+              "children": [
+                {
+                  "text": "Age of joining and contribution period"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The minimum age of joining APY is 18 years and maximum is 40 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The age of exit and start of pension is 60 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subscriber contribution to APY shall be made through the facility of ‘auto-debit’ of the prescribed contribution amount from the savings bank account of the subscriber on monthly, quarterly or half-yearly basis."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The subscribers are required to contribute the prescribed contribution amount from the age of joining APY till the age of  60 years. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "apy"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "628b4421c9b440ca7f31ffb8",
+      "en": {
+        "documents_required": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "KYC details are fetched from active Bank/Post Office Savings account.  ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "**KYC details are fetched from active Bank/Post Office Savings account.**  \n<br>\n\n"
+      },
+      "schemeId": "628b41a2c9b440ca7f31ff6c"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "628b4531c9b440ca7f31ffe9",
+      "en": {
+        "faqs": [
+          {
+            "question": "When will I receive my Pension? ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Age Of Start Of Pension is  60 Years."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Age Of Start Of Pension is  60 Years.\n"
+          },
+          {
+            "question": "I am a  Swavalamban subscriber. Can I still, apply for APY? ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": " Eligible Swavalamban Subscribers may be migrated to APY."
+                  }
+                ]
+              }
+            ],
+            "answer_md": " Eligible Swavalamban Subscribers may be migrated to APY.\n"
+          },
+          {
+            "question": "Is it required to furnish nomination while joining the scheme?  ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes.  "
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes.  \n"
+          },
+          {
+            "question": "Is there any provision of default nominee or blood relation?  ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "If the subscriber is unmarried they can nominate any other person as nominee and they have to provide spouse details after marriage. If married, the spouse will be the default nominee. The Aadhaar details of spouse and nominees may be provided."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "If the subscriber is unmarried they can nominate any other person as nominee and they have to provide spouse details after marriage. If married, the spouse will be the default nominee. The Aadhaar details of spouse and nominees may be provided.\n"
+          },
+          {
+            "question": "What will happen if the contribution gets delayed? ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Subscriber will be charged overdue interest for the delayed period in case the APY contribution gets delayed beyond the due date."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Subscriber will be charged overdue interest for the delayed period in case the APY contribution gets delayed beyond the due date.\n"
+          },
+          {
+            "question": "How will I know the status of my contribution?  ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The periodical information to the subscribers regarding activation of PRAN, balance in the account, contribution credits etc. will be intimated to APY subscribers by way of SMS alerts on the registered mobile number or can be accessed through mobile/APY app launched by NSDL. The subscriber will also be receiving physical statement of account once in a financial year at their registered address."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The periodical information to the subscribers regarding activation of PRAN, balance in the account, contribution credits etc. will be intimated to APY subscribers by way of SMS alerts on the registered mobile number or can be accessed through mobile/APY app launched by NSDL. The subscriber will also be receiving physical statement of account once in a financial year at their registered address.\n"
+          },
+          {
+            "question": "Whether Aadhaar Number is compulsory for joining the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "It is not mandatory as of now."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "It is not mandatory as of now.\n"
+          },
+          {
+            "question": "Whether an employee of Central/State Government or Public Sector Undertaking and/or a NPS subscriber can subscribe to APY?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "APY is open to all citizens of India who have a savings bank account. The minimum age of joining APY is 18 years and maximum age is 40 years.\nProvided that from 1st Oct 2022, any citizen who is or has been an income tax payer, shall not be eligible to join APY. "
+                  }
+                ]
+              }
+            ],
+            "answer_md": "APY is open to all citizens of India who have a savings bank account. The minimum age of joining APY is 18 years and maximum age is 40 years.\nProvided that from 1st Oct 2022, any citizen who is or has been an income tax payer, shall not be eligible to join APY. \n"
+          },
+          {
+            "question": "Can I open APY Account without savings bank account? ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No, the savings bank account/ post office savings bank account is mandatory for joining APY."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No, the savings bank account/ post office savings bank account is mandatory for joining APY.\n"
+          },
+          {
+            "question": "If I have completed 40 years, can I join Atal Pension Yojana?  ",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A person can join APY till his/ her 40th birthday. For example, if person ‘X’ becomes 40 years old on 1st January 2023, then, he/she is eligible to join APY till 1st January 2023 and becomes ineligible from 2nd January 2023 to join the scheme."
+                  }
+                ]
+              }
+            ],
+            "answer_md": "A person can join APY till his/ her 40th birthday. For example, if person 'X' becomes 40 years old on 1st January 2023, then, he/she is eligible to join APY till 1st January 2023 and becomes ineligible from 2nd January 2023 to join the scheme.\n"
+          }
+        ]
+      },
+      "schemeId": "628b41a2c9b440ca7f31ff6c"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

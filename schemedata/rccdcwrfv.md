@@ -1,0 +1,1022 @@
+# Compensation for Crop Damage Caused by Wildlife (in Revenue and Forest Villages)
+
+- **Slug:** `rccdcwrfv`
+- **Scheme ID:** `68ede4e58ba160c15f333244`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/rccdcwrfv
+- **Dbt Scheme:** No
+- **Tags:** Farmer, Financial Relief, Wild Animal, Crops
+- **Scheme Name:** Compensation for Crop Damage Caused by Wildlife (in Revenue and Forest Villages)
+- **Scheme Short Title:** CDCWRFV
+- **Level:** State/ UT
+- **Scheme Category:** Agriculture,Rural & Environment
+- **Scheme Sub Category:** Financial assistance, Wildlife and biodiversity
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Individual
+- **Scheme For:** Individual
+- **State:** Madhya Pradesh
+- **Nodal Department Name:** Forest Department
+
+## Brief Description
+
+The scheme aims to provide timely financial assistance to farmers for crop damage caused by wildlife, assessed and compensated within 30 working days as per revenue book circular guidelines.
+
+## Detailed Description
+
+The "Compensation for Crop Damage Caused by Wildlife (in Revenue and Forest Villages)" scheme is launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to provide financial relief to farmers whose crops are damaged by wild animals in both revenue and forest villages.
+<br>
+
+## Benefits
+
+**Financial Benefits**
+
+- Compensation is provided to farmers whose crops are damaged by wild animals.
+- Loss assessment is conducted as per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4.
+- The compensation amount depends on the extent of damage assessed by the designated authority.
+
+**Mode of Disbursement**
+
+- Payment is made through e-payment directly into the farmer’s bank account.
+
+**Expected Time of Disbursement**
+
+- Compensation is provided within 30 working days from the date of loss assessment.
+
+<br>
+
+## Eligibility
+
+- The applicant must be a resident of Madhya Pradesh. 
+- The applicant must be a farmer whose crops have been damaged.
+- The damage must be caused by wild animals and not by domestic or stray animals.
+
+<br>
+
+## Application Process
+
+### Online
+
+##### ***Registration***
+**Step 1:** Visit the Official Website of "[Madhya Pradesh Lok Sewa Guarantee Portal](https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx)".
+**Step 2:** On the homepage, click "Citizen Registration". You will be taken to the registration page.
+**Step 3:** On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click "Verify Mobile Number."
+**Step 4:** A verification code will be sent to your mobile number. Enter the code and complete the registration.
+##### ***Application***
+**Step 1:** Visit the Official Website of "Madhya Pradesh Lok Sewa Guarantee Portal".
+**Step 2:** Enter your User ID, Password, and Captcha Code, and click "Login."
+**Step 3:** Click on "Apply Online Service" and select the scheme you intend to apply for.
+**Step 4:** In the scheme's online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click "Submit".
+<br>
+
+**NOTE:** The applicant must inform the incident within 3 days of the damage as per Revenue Book Circular, Volume 6, Clause 4.
+<br>
+
+### Offline
+
+> **Application Process:**
+
+**Step 1:** The interested applicant should visit (during office hours) the Tehsildar, Additional Tehsildar, or Naib Tehsildar Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.
+**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).
+**Step 3:** Submit the duly filled and signed application form along with the documents to the Tehsildar, Additional Tehsildar, or Naib Tehsildar.
+**Step 4:** Request a receipt or acknowledgment from the Tehsildar, Additional Tehsildar, or Naib Tehsildar Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). 
+> **Post- Application Process:**
+
+**Step 1:** The Revenue Officer, in coordination with the Forest Department, assesses the extent of crop damage as per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4.
+**Step 2:** Based on the assessment, the compensation amount is determined and sanctioned.
+**Step 3:** The sanctioned amount is disbursed to the farmer via e-payment within 30 working days.
+**Note 1:** The applicant must inform the incident within 3 days of the damage as per Revenue Book Circular, Volume 6, Clause 4.
+<br>
+
+## References
+
+- [Guidelines](https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=962)
+
+## Documents Required
+
+- Identity Proof
+- Bank Account Passbook
+- Any Other Document, If required
+
+<br>
+
+## Frequently Asked Questions
+
+### Which department implements this scheme?
+
+The Forest Department in coordination with the Revenue Department.
+<br>
+
+### When was the scheme launched?
+
+The scheme was launched in 2011.
+<br>
+
+### Who can apply for compensation?
+
+Any farmer whose crops are damaged by wild animals.
+<br>
+
+### What is the time limit to report the incident?
+
+The farmer must report the damage within 3 days of occurrence.
+<br>
+
+### To whom should the application be submitted?
+
+The application should be submitted to the Tehsildar, Additional Tehsildar, or Naib Tehsildar.
+<br>
+
+### How is the loss assessed?
+
+As per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4.
+<br>
+
+### What is the time frame for receiving compensation?
+
+The compensation receiving within 30 working days from the date of loss assessment.
+<br>
+
+### Is there any application fee?
+
+No, the application process is free of cost.
+<br>
+
+### Can farmers from forest villages apply?
+
+Yes, the scheme applies to both revenue and forest villages.
+<br>
+
+### Where can farmers get more information?
+
+At the local Tehsil Office, Forest Range Office, or online at www.mpedistrict.gov.in
+<br>
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Madhya Pradesh"
+    ],
+    "schemeShortTitle": "CDCWRFV",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Compensation for Crop Damage Caused by Wildlife (in Revenue and Forest Villages)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "rccdcwrfv",
+    "briefDescription": "The scheme aims to provide timely financial assistance to farmers for crop damage caused by wildlife, assessed and compensated within 30 working days as per revenue book circular guidelines.",
+    "tags": [
+      "Farmer",
+      "Financial Relief",
+      "Wild Animal",
+      "Crops"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "68ede4e58ba160c15f333244",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Farmer",
+            "Financial Relief",
+            "Wild Animal",
+            "Crops"
+          ],
+          "schemeName": "Compensation for Crop Damage Caused by Wildlife (in Revenue and Forest Villages)",
+          "schemeShortTitle": "CDCWRFV",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce6ead6d1a3bde4685252",
+              "label": "Agriculture,Rural & Environment"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Financial assistance",
+              "label": "Financial assistance"
+            },
+            {
+              "value": "Wildlife and biodiversity",
+              "label": "Wildlife and biodiversity"
+            }
+          ],
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "schemeFor": "Individual",
+          "state": {
+            "value": 23,
+            "label": "Madhya Pradesh"
+          },
+          "nodalDepartmentName": {
+            "value": 2300015,
+            "label": "Forest Department"
+          }
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=962"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The &quot;Compensation for Crop Damage Caused by Wildlife (in Revenue and Forest Villages)&quot; scheme is launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to provide financial relief to farmers whose crops are damaged by wild animals in both revenue and forest villages.\n<br>\n\n",
+          "benefits_md": "**Financial Benefits**\n\n- Compensation is provided to farmers whose crops are damaged by wild animals.\n- Loss assessment is conducted as per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4.\n- The compensation amount depends on the extent of damage assessed by the designated authority.\n\n**Mode of Disbursement**\n\n- Payment is made through e-payment directly into the farmer’s bank account.\n\n**Expected Time of Disbursement**\n\n- Compensation is provided within 30 working days from the date of loss assessment.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide timely financial assistance to farmers for crop damage caused by wildlife, assessed and compensated within 30 working days as per revenue book circular guidelines.",
+          "exclusions_md": "",
+          "detailedDescription": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Compensation for Crop Damage Caused by Wildlife (in Revenue and Forest Villages)\" scheme is launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to provide financial relief to farmers whose crops are damaged by wild animals in both revenue and forest villages."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 1,
+            "value": "cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Benefits",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Compensation is provided to farmers whose crops are damaged by wild animals."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Loss assessment is conducted as per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The compensation amount depends on the extent of damage assessed by the designated authority."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Mode of Disbursement",
+                  "underline": true,
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Payment is made through e-payment directly into the farmer’s bank account."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Expected Time of Disbursement",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Compensation is provided within 30 working days from the date of loss assessment."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Registration",
+                    "bold": true,
+                    "underline": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx",
+                    "children": [
+                      {
+                        "text": "Madhya Pradesh Lok Sewa Guarantee Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\"."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " On the homepage, click \"Citizen Registration\". You will be taken to the registration page."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click \"Verify Mobile Number.\""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " A verification code will be sent to your mobile number. Enter the code and complete the registration."
+                  }
+                ]
+              },
+              {
+                "type": "heading_five",
+                "children": [
+                  {
+                    "text": "Application",
+                    "bold": true,
+                    "underline": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \"Madhya Pradesh Lok Sewa Guarantee Portal\"."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " Enter your User ID, Password, and Captcha Code, and click \"Login.\""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " Click on \"Apply Online Service\" and select the scheme you intend to apply for."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " In the scheme's online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click \"Submit\"."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "underline": true,
+                    "text": "NOTE:"
+                  },
+                  {
+                    "text": " The applicant must inform the incident within 3 days of the damage as per Revenue Book Circular, Volume 6, Clause 4."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "process_md": "##### ***Registration***\n**Step 1:** Visit the Official Website of &quot;[Madhya Pradesh Lok Sewa Guarantee Portal](https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx)&quot;.\n**Step 2:** On the homepage, click &quot;Citizen Registration&quot;. You will be taken to the registration page.\n**Step 3:** On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click &quot;Verify Mobile Number.&quot;\n**Step 4:** A verification code will be sent to your mobile number. Enter the code and complete the registration.\n##### ***Application***\n**Step 1:** Visit the Official Website of &quot;Madhya Pradesh Lok Sewa Guarantee Portal&quot;.\n**Step 2:** Enter your User ID, Password, and Captcha Code, and click &quot;Login.&quot;\n**Step 3:** Click on &quot;Apply Online Service&quot; and select the scheme you intend to apply for.\n**Step 4:** In the scheme&#39;s online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click &quot;Submit&quot;.\n<br>\n\n**NOTE:** The applicant must inform the incident within 3 days of the damage as per Revenue Book Circular, Volume 6, Clause 4.\n<br>\n\n"
+          },
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the Tehsildar, Additional Tehsildar, or Naib Tehsildar Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the Tehsildar, Additional Tehsildar, or Naib Tehsildar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the Tehsildar, Additional Tehsildar, or Naib Tehsildar Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Post- Application Process:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The Revenue Officer, in coordination with the Forest Department, assesses the extent of crop damage as per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Based on the assessment, the compensation amount is determined and sanctioned."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The sanctioned amount is disbursed to the farmer via e-payment within 30 working days."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 1:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " The applicant must inform the incident within 3 days of the damage as per Revenue Book Circular, Volume 6, Clause 4."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "process_md": "> **Application Process:**\n\n**Step 1:** The interested applicant should visit (during office hours) the Tehsildar, Additional Tehsildar, or Naib Tehsildar Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Tehsildar, Additional Tehsildar, or Naib Tehsildar.\n**Step 4:** Request a receipt or acknowledgment from the Tehsildar, Additional Tehsildar, or Naib Tehsildar Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). \n> **Post- Application Process:**\n\n**Step 1:** The Revenue Officer, in coordination with the Forest Department, assesses the extent of crop damage as per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4.\n**Step 2:** Based on the assessment, the compensation amount is determined and sanctioned.\n**Step 3:** The sanctioned amount is disbursed to the farmer via e-payment within 30 working days.\n**Note 1:** The applicant must inform the incident within 3 days of the damage as per Revenue Book Circular, Volume 6, Clause 4.\n<br>\n\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n- The applicant must be a resident of Madhya Pradesh. \n- The applicant must be a farmer whose crops have been damaged.\n- The damage must be caused by wild animals and not by domestic or stray animals.\n\n<br>\n\n",
+          "eligibilityDescription": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer whose crops have been damaged."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The damage must be caused by wild animals and not by domestic or stray animals."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "rccdcwrfv"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "68ede523ed2c57f57c3daccf",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank Account Passbook"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Any Other Document, If required"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n- Identity Proof\n- Bank Account Passbook\n- Any Other Document, If required\n\n<br>\n\n"
+      },
+      "schemeId": "68ede4e58ba160c15f333244"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "68ede67eed2c57f57c3db535",
+      "en": {
+        "faqs": [
+          {
+            "question": "Which department implements this scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Forest Department in coordination with the Revenue Department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Forest Department in coordination with the Revenue Department.\n<br>\n\n"
+          },
+          {
+            "question": "When was the scheme launched?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme was launched in 2011."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme was launched in 2011.\n<br>\n\n"
+          },
+          {
+            "question": "Who can apply for compensation?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Any farmer whose crops are damaged by wild animals."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Any farmer whose crops are damaged by wild animals.\n<br>\n\n"
+          },
+          {
+            "question": "What is the time limit to report the incident?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The farmer must report the damage within 3 days of occurrence."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The farmer must report the damage within 3 days of occurrence.\n<br>\n\n"
+          },
+          {
+            "question": "To whom should the application be submitted?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The application should be submitted to the Tehsildar, Additional Tehsildar, or Naib Tehsildar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The application should be submitted to the Tehsildar, Additional Tehsildar, or Naib Tehsildar.\n<br>\n\n"
+          },
+          {
+            "question": "How is the loss assessed?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "As per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "As per Madhya Pradesh Revenue Book Circular, Volume 6, Clause 4.\n<br>\n\n"
+          },
+          {
+            "question": "What is the time frame for receiving compensation?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The compensation receiving within 30 working days from the date of loss assessment."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The compensation receiving within 30 working days from the date of loss assessment.\n<br>\n\n"
+          },
+          {
+            "question": "Is there any application fee?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No, the application process is free of cost."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "No, the application process is free of cost.\n<br>\n\n"
+          },
+          {
+            "question": "Can farmers from forest villages apply?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Yes, the scheme applies to both revenue and forest villages."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Yes, the scheme applies to both revenue and forest villages.\n<br>\n\n"
+          },
+          {
+            "question": "Where can farmers get more information?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "At the local Tehsil Office, Forest Range Office, or online at www.mpedistrict.gov.in"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "At the local Tehsil Office, Forest Range Office, or online at www.mpedistrict.gov.in\n<br>\n\n"
+          }
+        ]
+      },
+      "schemeId": "68ede4e58ba160c15f333244"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

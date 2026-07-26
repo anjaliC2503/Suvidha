@@ -1,0 +1,901 @@
+# "Employment Incentive" under "Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives"
+
+- **Slug:** `ei-mesifai-vi`
+- **Scheme ID:** `65f95953d4cc0707f1606178`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/ei-mesifai-vi
+- **Dbt Scheme:** No
+- **Tags:** Employment, Incentive, Subsidy, Business, Industry, MSME
+- **Scheme Name:** "Employment Incentive" under "Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives"
+- **Scheme Short Title:** EI-MESIFAI-VI
+- **Level:** State/ UT
+- **Scheme Category:** Business & Entrepreneurship
+- **Scheme Sub Category:** Setting up / start-up / entrepreneurship, Employee management
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Business Entity
+- **State:** Puducherry
+- **Nodal Department Name:** Industries and Commerce Department, Puducherry
+- **Scheme For:** Infra
+
+## Brief Description
+
+Through the "Employment Incentive" scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of ₹5,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in prescribed form available on the Official Website.
+
+## Detailed Description
+
+"Employment Incentive" under "Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives" is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of ₹5,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in the prescribed form available on the Official Website of the Department.
+<br>
+
+<br>
+
+## Benefits
+
+- **Subsidy:** Wage/Employment Subsidy of 20% Wage/Salary.- **Ceiling:** ₹5,00,000/- per annum.- **Number of Installments:** In single or multiple instalments, depending on the availability of funds.- **Period:** 5 years for Puducherry and Karaikal regions. 7 years for Mahe and Yanam regions. - **Mode of Disbursement:** The subsidy amount shall be disbursed through the financial institutions/banks only, if the unit is financed by them, towards the adjustment against the loan availed by the entrepreneurs or for the creation of additional fixed assets or for the working capital purposes. In case of self-financed units, the subsidy shall be disbursed directly to the entrepreneur/unit.
+_*The financial institution shall mean and include PIPDIC or any other Government Corporation, Scheduled Banks including Co-operative Banks._
+
+## Exclusions
+
+- A unit which has availed investment subsidy from Central Government/State Government or any other agency shall not be eligible to apply for subsidy for same investment again under this Scheme.
+- Second-hand/used imported/indigenous machinery is not eligible.
+
+## Eligibility
+
+- All the Micro, Small, Medium and Large Industries are eligible.
+- The Unit should have made the investment on or after 1st April 2017.
+- The unit should provide at least 60% of employment to the people of the Union territory of Puducherry of the total employment strength of the industrial units. This 60% of the local employment will have to be maintained by the industrial unit during the period specified in the Affidavit.
+- The unit should provide direct employment to at least 10 persons.
+- The workers should be covered under Provident Fund (PF).
+- The industrial unit shall not transfer or dispose of the fixed asset including plant and machinery in any manner till the completion of 5 years from the date of submitting the application/disbursement of the subsidy whichever is later.
+
+_*The additional investments made by the new/existing industrial units after availing the first claim are also eligible for subsidy up to the ceiling limit._
+> **Special Cases**
+
+If, two or more industrial undertakings are set up by the same person as proprietor, common partners, common Board of Directors/shareholders, such units are eligible for subsidy as separate entity provided the location of the unit are different and licenses /clearances/ registrations are obtained separately for the enterprises.
+
+## Application Process
+
+### Offline
+
+**Step 1:** The industrial unit should register the claim for the grant of incentive/subsidy in the [prescribed form](https://industry.py.gov.in/common-application-subsidies) available on the Official Website of the Directorate of Industries and Commerce, Puducherry.
+**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).
+**Step 3:** The unit should submit the duly filled and signed application form and the documents to the concerned authority.
+**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application form has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). 
+> **Post-Application Process**
+
+**Step 1:** The applications shall be scrutinized by the Directorate of the Industries on merit basis for the grant of incentives/subsidies/assistances to determine the quantum of amount admissible will be placed before the State Level Committee.
+**Step 2:** The State Level Committee will go into the merits of each case to decide whether the unit qualifies for the grant of incentive/subsidy and will recommend the quantum of incentive/subsidy admissible to the unit.
+> **Application Deadline**
+
+**For New Units**
+Within one year from the date of commencement of obtaining the Entrepreneurs Memorandum Part-2/ Permanent Registration/ Commencement of Production Certificate.
+**For Existing Units**
+Within one year of completion of Expansion/ Diversification/ Modernization.
+
+## References
+
+- [Guidelines](https://industry.py.gov.in/sites/default/files/indsubsidy-g.o.pdf)
+- [Application Form & Documents Required](https://industry.py.gov.in/common-application-subsidies)
+- [Grievance Redressal](https://industry.py.gov.in/grievance-redressal-mechanism)
+- [Helpline](https://industry.py.gov.in/state-helpline)
+
+## Documents Required
+
+- Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration/ Commencement of Production Certificate.
+- Loan Sanction Letter.
+- Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.
+- Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.
+- Month-wise Interest Paid Statement from the Finance Institution/Bank Along with No-due Certificate.
+- List of Employees Covered Under the Provident Fund Scheme Along with Wage/Salary Payment Particulars.
+- Provident Fund Remittance for the Claiming Period.
+- Notary Affidavit.
+
+_*The industrial unit shall have to furnish the details of production, employment and other information every year and from time to time as sought by the Industries and Commerce Department._
+
+## Frequently Asked Questions
+
+### What is the timeline for submitting subsidy applications for capital investment?
+
+The subsidy application for capital investment must be submitted within one year from the date of commencement of regular commercial production.
+
+### What is required for all claims to be supported according to the provided content?
+
+All claims must be supported by a certificate issued by a Chartered Accountant.
+
+### How much employment must be provided to residents of Puducherry for a unit to be eligible for incentives/subsidies/assistance?
+
+At least 60% of employment must be provided to the people of Puducherry out of the total employment strength of the industrial units.
+
+### What is the composition of the State Level Committee responsible for evaluating subsidy applications?
+
+The State Level Committee consists of the Secretary to Government (Industries & Commerce), the Managing Director of PIPDIC, the Deputy Secretary/Under Secretary (Finance), and the Director of Industries and Commerce, all from Puducherry.
+
+### How is the subsidy disbursed for self-financed units?
+
+For self-financed units, the subsidy is disbursed directly to the entrepreneur/unit.
+
+### What happens if an industrial unit has availed investment subsidy from the Central Government/State Government or any other agency?
+
+If an industrial unit has availed investment subsidy from any other agency, it is not eligible to apply for a subsidy for the same investment again under this Scheme.
+
+### What is the condition for industrial units set up by the same person to be eligible for subsidy as separate entities?
+
+Industrial units set up by the same person as proprietor, common partners, or common Board of Directors/shareholders are eligible for subsidy as separate entities provided the location of the units is different and licenses/clearances/registrations are obtained separately for the enterprises.
+
+### Who sanctions the subsidies based on the Committee's recommendations?
+
+The Director of Industries and Commerce sanctions the subsidies based on the Committee's recommendations.
+
+### What is the composition of the State Level Committee?
+
+The Committee comprises the Secretary to Government (Industries and Commerce), Managing Director of PIPDIC, Deputy Secretary/Under Secretary (Finance), and Director of Industries and Commerce.
+
+### When is the entire amount of subsidies and incentives availed required to be refunded?
+
+The amount must be refunded if there are amendments in partners or shareholders within five years of availing the subsidy, with an interest of 14% per annum.
+
+### How is the subsidy amount disbursed for units financed by financial institutions?
+
+The subsidy amount is disbursed through financial institutions/banks, either for loan adjustment or the creation of additional fixed assets or working capital.
+
+### What conditions determine the instalment disbursement of subsidies?
+
+Subsidies can be disbursed in single or multiple instalments based on fund availability.
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Puducherry"
+    ],
+    "schemeShortTitle": "EI-MESIFAI-VI",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "\"Employment Incentive\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives\"",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "ei-mesifai-vi",
+    "briefDescription": "Through the \"Employment Incentive\" scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of ₹5,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in prescribed form available on the Official Website.",
+    "tags": [
+      "Employment",
+      "Incentive",
+      "Subsidy",
+      "Business",
+      "Industry",
+      "MSME"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65f95953d4cc0707f1606178",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Employment",
+            "Incentive",
+            "Subsidy",
+            "Business",
+            "Industry",
+            "MSME"
+          ],
+          "schemeName": "\"Employment Incentive\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives\"",
+          "schemeShortTitle": "EI-MESIFAI-VI",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce733d6d1a3bde4685278",
+              "label": "Business & Entrepreneurship"
+            }
+          ],
+          "schemeSubCategory": [
+            {
+              "value": "Setting up / start-up / entrepreneurship",
+              "label": "Setting up / start-up / entrepreneurship"
+            },
+            {
+              "value": "Employee management",
+              "label": "Employee management"
+            }
+          ],
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "business-entity",
+              "label": "Business Entity"
+            }
+          ],
+          "state": {
+            "value": 34,
+            "label": "Puducherry"
+          },
+          "nodalDepartmentName": {
+            "value": 34000021,
+            "label": "Industries and Commerce Department, Puducherry"
+          },
+          "schemeFor": "Infra"
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://industry.py.gov.in/sites/default/files/indsubsidy-g.o.pdf"
+            },
+            {
+              "title": "Application Form & Documents Required",
+              "url": "https://industry.py.gov.in/common-application-subsidies"
+            },
+            {
+              "title": "Grievance Redressal",
+              "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+            },
+            {
+              "title": "Helpline",
+              "url": "https://industry.py.gov.in/state-helpline"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "&quot;Employment Incentive&quot; under &quot;Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives&quot; is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of ₹5,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in the prescribed form available on the Official Website of the Department.\n<br>\n\n<br>\n\n",
+          "benefits_md": "\n- **Subsidy:** Wage/Employment Subsidy of 20% Wage/Salary.- **Ceiling:** ₹5,00,000/- per annum.- **Number of Installments:** In single or multiple instalments, depending on the availability of funds.- **Period:** 5 years for Puducherry and Karaikal regions. 7 years for Mahe and Yanam regions. - **Mode of Disbursement:** The subsidy amount shall be disbursed through the financial institutions/banks only, if the unit is financed by them, towards the adjustment against the loan availed by the entrepreneurs or for the creation of additional fixed assets or for the working capital purposes. In case of self-financed units, the subsidy shall be disbursed directly to the entrepreneur/unit.\n_*The financial institution shall mean and include PIPDIC or any other Government Corporation, Scheduled Banks including Co-operative Banks._\n",
+          "exclusions_md": "\n- A unit which has availed investment subsidy from Central Government/State Government or any other agency shall not be eligible to apply for subsidy for same investment again under this Scheme.\n- Second-hand/used imported/indigenous machinery is not eligible.\n\n",
+          "briefDescription": "Through the \"Employment Incentive\" scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of ₹5,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in prescribed form available on the Official Website.",
+          "detailedDescription": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"Employment Incentive\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives\" is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of ₹5,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in the prescribed form available on the Official Website of the Department."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 1,
+            "value": "cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subsidy: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Wage/Employment Subsidy of 20% Wage/Salary."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Ceiling: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "₹5,00,000/- per annum."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Number of Installments:",
+                      "bold": true
+                    },
+                    {
+                      "text": " In single or multiple instalments, depending on the availability of funds."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Period: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "5 years for Puducherry and Karaikal regions. 7 years for Mahe and Yanam regions. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Mode of Disbursement: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "The subsidy amount shall be disbursed through the financial institutions/banks only, if the unit is financed by them, towards the adjustment against the loan availed by the entrepreneurs or for the creation of additional fixed assets or for the working capital purposes. In case of self-financed units, the subsidy shall be disbursed directly to the entrepreneur/unit."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "*The financial institution shall mean and include PIPDIC or any other Government Corporation, Scheduled Banks including Co-operative Banks.",
+                  "italic": true
+                }
+              ]
+            }
+          ],
+          "exclusions": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A unit which has availed investment subsidy from Central Government/State Government or any other agency shall not be eligible to apply for subsidy for same investment again under this Scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Second-hand/used imported/indigenous machinery is not eligible."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The industrial unit should register the claim for the grant of incentive/subsidy in the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://industry.py.gov.in/common-application-subsidies",
+                    "children": [
+                      {
+                        "text": "prescribed form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " available on the Official Website of the Directorate of Industries and Commerce, Puducherry."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The unit should submit the duly filled and signed application form and the documents to the concerned authority."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgement from the concerned authority to whom the application form has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Post-Application Process",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applications shall be scrutinized by the Directorate of the Industries on merit basis for the grant of incentives/subsidies/assistances to determine the quantum of amount admissible will be placed before the State Level Committee."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The State Level Committee will go into the merits of each case to decide whether the unit qualifies for the grant of incentive/subsidy and will recommend the quantum of incentive/subsidy admissible to the unit."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Deadline",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "For New Units",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Within one year from the date of commencement of obtaining the Entrepreneurs Memorandum Part-2/ Permanent Registration/ Commencement of Production Certificate."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "For Existing Units",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Within one year of completion of Expansion/ Diversification/ Modernization."
+                  }
+                ]
+              }
+            ],
+            "process_md": "**Step 1:** The industrial unit should register the claim for the grant of incentive/subsidy in the [prescribed form](https://industry.py.gov.in/common-application-subsidies) available on the Official Website of the Directorate of Industries and Commerce, Puducherry.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The unit should submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application form has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). \n> **Post-Application Process**\n\n**Step 1:** The applications shall be scrutinized by the Directorate of the Industries on merit basis for the grant of incentives/subsidies/assistances to determine the quantum of amount admissible will be placed before the State Level Committee.\n**Step 2:** The State Level Committee will go into the merits of each case to decide whether the unit qualifies for the grant of incentive/subsidy and will recommend the quantum of incentive/subsidy admissible to the unit.\n> **Application Deadline**\n\n**For New Units**\nWithin one year from the date of commencement of obtaining the Entrepreneurs Memorandum Part-2/ Permanent Registration/ Commencement of Production Certificate.\n**For Existing Units**\nWithin one year of completion of Expansion/ Diversification/ Modernization.\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n- All the Micro, Small, Medium and Large Industries are eligible.\n- The Unit should have made the investment on or after 1st April 2017.\n- The unit should provide at least 60% of employment to the people of the Union territory of Puducherry of the total employment strength of the industrial units. This 60% of the local employment will have to be maintained by the industrial unit during the period specified in the Affidavit.\n- The unit should provide direct employment to at least 10 persons.\n- The workers should be covered under Provident Fund (PF).\n- The industrial unit shall not transfer or dispose of the fixed asset including plant and machinery in any manner till the completion of 5 years from the date of submitting the application/disbursement of the subsidy whichever is later.\n\n_*The additional investments made by the new/existing industrial units after availing the first claim are also eligible for subsidy up to the ceiling limit._\n> **Special Cases**\n\nIf, two or more industrial undertakings are set up by the same person as proprietor, common partners, common Board of Directors/shareholders, such units are eligible for subsidy as separate entity provided the location of the unit are different and licenses /clearances/ registrations are obtained separately for the enterprises.\n",
+          "eligibilityDescription": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All the Micro, Small, Medium and Large Industries are eligible."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Unit should have made the investment on or after 1st April 2017."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The unit should provide at least 60% of employment to the people of the Union territory of Puducherry of the total employment strength of the industrial units. This 60% of the local employment will have to be maintained by the industrial unit during the period specified in the Affidavit."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The unit should provide direct employment to at least 10 persons."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The workers should be covered under Provident Fund (PF)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The industrial unit shall not transfer or dispose of the fixed asset including plant and machinery in any manner till the completion of 5 years from the date of submitting the application/disbursement of the subsidy whichever is later."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "*The additional investments made by the new/existing industrial units after availing the first claim are also eligible for subsidy up to the ceiling limit.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Special Cases",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If, two or more industrial undertakings are set up by the same person as proprietor, common partners, common Board of Directors/shareholders, such units are eligible for subsidy as separate entity provided the location of the unit are different and licenses /clearances/ registrations are obtained separately for the enterprises."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "ei-mesifai-vi"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65f959b9e06bfd734043580f",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration/ Commencement of Production Certificate."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Loan Sanction Letter."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Month-wise Interest Paid Statement from the Finance Institution/Bank Along with No-due Certificate."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "List of Employees Covered Under the Provident Fund Scheme Along with Wage/Salary Payment Particulars."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Provident Fund Remittance for the Claiming Period."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Notary Affidavit."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*The industrial unit shall have to furnish the details of production, employment and other information every year and from time to time as sought by the Industries and Commerce Department.",
+                "italic": true
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n- Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration/ Commencement of Production Certificate.\n- Loan Sanction Letter.\n- Purchase Invoices for Plant &amp; Machinery/ Pollution Equipment/ Generator.\n- Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.\n- Month-wise Interest Paid Statement from the Finance Institution/Bank Along with No-due Certificate.\n- List of Employees Covered Under the Provident Fund Scheme Along with Wage/Salary Payment Particulars.\n- Provident Fund Remittance for the Claiming Period.\n- Notary Affidavit.\n\n_*The industrial unit shall have to furnish the details of production, employment and other information every year and from time to time as sought by the Industries and Commerce Department._\n"
+      },
+      "schemeId": "65f95953d4cc0707f1606178"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "65f95aafd4cc0707f160641d",
+      "en": {
+        "faqs": [
+          {
+            "question": "What is the timeline for submitting subsidy applications for capital investment?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The subsidy application for capital investment must be submitted within one year from the date of commencement of regular commercial production.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The subsidy application for capital investment must be submitted within one year from the date of commencement of regular commercial production.\n\n"
+          },
+          {
+            "question": "What is required for all claims to be supported according to the provided content?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "All claims must be supported by a certificate issued by a Chartered Accountant.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "All claims must be supported by a certificate issued by a Chartered Accountant.\n\n"
+          },
+          {
+            "question": "How much employment must be provided to residents of Puducherry for a unit to be eligible for incentives/subsidies/assistance?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "At least 60% of employment must be provided to the people of Puducherry out of the total employment strength of the industrial units.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "At least 60% of employment must be provided to the people of Puducherry out of the total employment strength of the industrial units.\n\n"
+          },
+          {
+            "question": "What is the composition of the State Level Committee responsible for evaluating subsidy applications?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The State Level Committee consists of the Secretary to Government (Industries & Commerce), the Managing Director of PIPDIC, the Deputy Secretary/Under Secretary (Finance), and the Director of Industries and Commerce, all from Puducherry.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The State Level Committee consists of the Secretary to Government (Industries & Commerce), the Managing Director of PIPDIC, the Deputy Secretary/Under Secretary (Finance), and the Director of Industries and Commerce, all from Puducherry.\n\n"
+          },
+          {
+            "question": "How is the subsidy disbursed for self-financed units?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "For self-financed units, the subsidy is disbursed directly to the entrepreneur/unit.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "For self-financed units, the subsidy is disbursed directly to the entrepreneur/unit.\n\n"
+          },
+          {
+            "question": "What happens if an industrial unit has availed investment subsidy from the Central Government/State Government or any other agency?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "If an industrial unit has availed investment subsidy from any other agency, it is not eligible to apply for a subsidy for the same investment again under this Scheme.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "If an industrial unit has availed investment subsidy from any other agency, it is not eligible to apply for a subsidy for the same investment again under this Scheme.\n\n"
+          },
+          {
+            "question": "What is the condition for industrial units set up by the same person to be eligible for subsidy as separate entities?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Industrial units set up by the same person as proprietor, common partners, or common Board of Directors/shareholders are eligible for subsidy as separate entities provided the location of the units is different and licenses/clearances/registrations are obtained separately for the enterprises.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Industrial units set up by the same person as proprietor, common partners, or common Board of Directors/shareholders are eligible for subsidy as separate entities provided the location of the units is different and licenses/clearances/registrations are obtained separately for the enterprises.\n\n"
+          },
+          {
+            "question": "Who sanctions the subsidies based on the Committee's recommendations?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Director of Industries and Commerce sanctions the subsidies based on the Committee's recommendations.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Director of Industries and Commerce sanctions the subsidies based on the Committee's recommendations.\n\n"
+          },
+          {
+            "question": "What is the composition of the State Level Committee?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Committee comprises the Secretary to Government (Industries and Commerce), Managing Director of PIPDIC, Deputy Secretary/Under Secretary (Finance), and Director of Industries and Commerce.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Committee comprises the Secretary to Government (Industries and Commerce), Managing Director of PIPDIC, Deputy Secretary/Under Secretary (Finance), and Director of Industries and Commerce.\n\n"
+          },
+          {
+            "question": "When is the entire amount of subsidies and incentives availed required to be refunded?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The amount must be refunded if there are amendments in partners or shareholders within five years of availing the subsidy, with an interest of 14% per annum.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The amount must be refunded if there are amendments in partners or shareholders within five years of availing the subsidy, with an interest of 14% per annum.\n\n"
+          },
+          {
+            "question": "How is the subsidy amount disbursed for units financed by financial institutions?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The subsidy amount is disbursed through financial institutions/banks, either for loan adjustment or the creation of additional fixed assets or working capital.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The subsidy amount is disbursed through financial institutions/banks, either for loan adjustment or the creation of additional fixed assets or working capital.\n\n"
+          },
+          {
+            "question": "What conditions determine the instalment disbursement of subsidies?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Subsidies can be disbursed in single or multiple instalments based on fund availability.\n"
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Subsidies can be disbursed in single or multiple instalments based on fund availability.\n\n"
+          }
+        ]
+      },
+      "schemeId": "65f95953d4cc0707f1606178"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````

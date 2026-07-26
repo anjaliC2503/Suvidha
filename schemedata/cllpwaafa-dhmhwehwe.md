@@ -1,0 +1,846 @@
+# Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Damage to Houses Due to Wild Elephant Attacks
+
+- **Slug:** `cllpwaafa-dhmhwehwe`
+- **Scheme ID:** `68d280e5f95e55ec5808ee6c`
+- **myScheme page:** https://www.myscheme.gov.in/schemes/cllpwaafa-dhmhwehwe
+- **Dbt Scheme:** No
+- **Tags:** Damage To Houses, Elephant, Wild Elephant Attacks, Damage
+- **Scheme Name:** Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Damage to Houses Due to Wild Elephant Attacks
+- **Scheme Short Title:** ADHWEA
+- **Level:** State/ UT
+- **Scheme Category:** Housing & Shelter
+- **Scheme Sub Category:** Not specified
+- **Scheme Open Date:** Not specified
+- **Target Beneficiaries:** Individual
+- **Scheme For:** Individual
+- **State:** Uttarakhand
+- **Nodal Department Name:** Uttarakhand Forest Department
+
+## Brief Description
+
+The scheme aims to provide financial assistance to residents of Uttarakhand whose houses, boundary walls, huts, or kutcha structures are damaged by wild elephants.
+
+## Detailed Description
+
+The scheme “Assistance for Damage to Houses Due to Wild Elephant Attacks” is a sub-component of the umbrella scheme “Compensation for Loss of Life and Property Caused by Wild Animals in and Around Forest Areas”, which is implemented by the Department of Forest, Government of Uttarakhand. The scheme aims to provide financial assistance to residents of Uttarakhand whose houses, boundary walls, huts, or kutcha structures are damaged by wild elephants.
+<br>
+
+## Benefits
+
+**At present, the following compensation amounts are provided in the event of house damage caused by wild elephants:**
+**Type of House****(a) Completely Damaged/ Destroyed House****Total Amount payable (in ₹ per house)****Share of State Disaster Response Fund (in ₹ per house)****Share of Human Wildlife Conflict Relief Distribution Fund (in ₹ per house)**Kutcha house/ Pakka house (Completely damaged)(i) Kutcha house                                          (ii) Pakka house₹95,000/-₹95,000/---Kutcha House (Partially damaged)Kutcha House (Partially damaged)₹20,000/---₹20,000/-Damage to boundary wall of a pucca house and partial damage to a pucca house(b) Partially Damaged House                                    (i) A pucca house (other than a hut) where the damage is at least 15%₹15,000/-₹5,200/-₹9,800/-Damage to boundary wall of a pucca house and partial damage to a pucca housePartially Damaged House                                    (i)  Kutcha house (other than hut) where the damage is at least 15%        ₹3,200/-₹3,200/---In case of damage to hut or house made of strawDamaged/destroyed hut₹5,000/-₹4,100/-₹900/-<br>
+
+## Eligibility
+
+1. The applicant must be a resident of Uttarakhand.
+1. The compensation is provided for damage to houses caused by wild elephants in and around forest areas of Uttarakhand.
+
+<br>
+
+## Application Process
+
+### Offline
+
+- In case of damage to a house due to an attack by wild elephants, the incident must be reported in writing to the concerned Range Office within two days. It will then be immediately verified by the Forest Inspector or Deputy Forest Range Officer. After the damage has been jointly assessed by the Naib Tehsildar and the Range Officer of the concerned area, the investigation report will be submitted to the Assistant Conservator of Forests/Wildlife Warden, who will conduct a final investigation and forward the report to the Divisional Forest Officer/Deputy Director within one month. 
+  - Upon receiving the final report, the Divisional Forest Officer/Deputy Director has full authority to approve and disburse the ex-gratia compensation. The Divisional Forest Officer/Deputy Director will also ensure that complete details of the case are communicated to the Chief Wildlife Warden.
+
+***Note: The Forest Department has issued a toll-free number - 1800-890-9715. Anyone can use this number to report human-wildlife incidents or the presence of wildlife in populated areas anywhere in the state.***
+<br>
+
+## References
+
+- [Guidelines (Page No. 252)](https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf)
+
+## Documents Required
+
+1. Identity proof of applicant
+1. Damage assessment report
+1. Bank account details
+1. Other supporting documents as required
+
+<br>
+
+## Frequently Asked Questions
+
+### Who is eligible to apply?
+
+Any resident of Uttarakhand whose house or structure has been damaged by wild elephants is eligible to apply.
+<br>
+
+### What types of houses are covered?
+
+The scheme covers kutcha houses, boundary walls, huts, and pucca houses damaged by wild elephants.
+<br>
+
+### What is the compensation range under the scheme?
+
+Compensation ranges from a minimum of ₹900 to a maximum of ₹95,000, depending on the extent and type of damage.
+<br>
+
+### How should the damage be reported?
+
+The incident must be reported in writing to the concerned Range Office within two days of the damage.
+<br>
+
+### Who verifies the reported damage?
+
+The Forest Inspector or Deputy Forest Range Officer immediately confirms the incident, and the damage is jointly assessed by the Naib Tehsildar and Range Officer of the concerned area.
+<br>
+
+### Who approves the compensation?
+
+The Divisional Forest Officer/Deputy Director receives the final report and has full authority to approve and disburse the ex-gratia compensation.
+<br>
+
+### What is the timeline for the final investigation report?
+
+The Assistant Conservator of Forests/Wildlife Warden must submit the final investigation report to the Divisional Forest Officer/Deputy Director within one month of the incident.
+<br>
+
+## Complete Source Data
+
+The following preserves every field returned by the public-facing APIs.
+
+````json
+{
+  "searchSummary": {
+    "beneficiaryState": [
+      "Uttarakhand"
+    ],
+    "schemeShortTitle": "ADHWEA",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Housing & Shelter"
+    ],
+    "schemeName": "Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Damage to Houses Due to Wild Elephant Attacks",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cllpwaafa-dhmhwehwe",
+    "briefDescription": "The scheme aims to provide financial assistance to residents of Uttarakhand whose houses, boundary walls, huts, or kutcha structures are damaged by wild elephants.",
+    "tags": [
+      "Damage To Houses",
+      "Elephant",
+      "Wild Elephant Attacks",
+      "Damage"
+    ]
+  },
+  "scheme": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "68d280e5f95e55ec5808ee6c",
+      "en": {
+        "basicDetails": {
+          "dbtScheme": false,
+          "tags": [
+            "Damage To Houses",
+            "Elephant",
+            "Wild Elephant Attacks",
+            "Damage"
+          ],
+          "schemeName": "Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Damage to Houses Due to Wild Elephant Attacks",
+          "schemeShortTitle": "ADHWEA",
+          "level": {
+            "value": "state",
+            "label": "State/ UT"
+          },
+          "schemeCategory": [
+            {
+              "value": "628ce7d2d6d1a3bde46852c2",
+              "label": "Housing & Shelter"
+            }
+          ],
+          "schemeSubCategory": null,
+          "schemeOpenDate": null,
+          "targetBeneficiaries": [
+            {
+              "value": "individual",
+              "label": "Individual"
+            }
+          ],
+          "schemeFor": "Individual",
+          "state": {
+            "value": 5,
+            "label": "Uttarakhand"
+          },
+          "nodalDepartmentName": {
+            "value": 50000042,
+            "label": "Uttarakhand Forest Department"
+          }
+        },
+        "schemeContent": {
+          "references": [
+            {
+              "title": "Guidelines (Page No. 252)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": "",
+          "detailedDescription_md": "The scheme “Assistance for Damage to Houses Due to Wild Elephant Attacks” is a sub-component of the umbrella scheme “Compensation for Loss of Life and Property Caused by Wild Animals in and Around Forest Areas”, which is implemented by the Department of Forest, Government of Uttarakhand. The scheme aims to provide financial assistance to residents of Uttarakhand whose houses, boundary walls, huts, or kutcha structures are damaged by wild elephants.\n<br>\n\n",
+          "benefits_md": "**At present, the following compensation amounts are provided in the event of house damage caused by wild elephants:**\n**Type of House****(a) Completely Damaged/ Destroyed House****Total Amount payable (in ₹ per house)****Share of State Disaster Response Fund (in ₹ per house)****Share of Human Wildlife Conflict Relief Distribution Fund (in ₹ per house)**Kutcha house/ Pakka house (Completely damaged)(i) Kutcha house                                          (ii) Pakka house₹95,000/-₹95,000/---Kutcha House (Partially damaged)Kutcha House (Partially damaged)₹20,000/---₹20,000/-Damage to boundary wall of a pucca house and partial damage to a pucca house(b) Partially Damaged House                                    (i) A pucca house (other than a hut) where the damage is at least 15%₹15,000/-₹5,200/-₹9,800/-Damage to boundary wall of a pucca house and partial damage to a pucca housePartially Damaged House                                    (i)  Kutcha house (other than hut) where the damage is at least 15%        ₹3,200/-₹3,200/---In case of damage to hut or house made of strawDamaged/destroyed hut₹5,000/-₹4,100/-₹900/-<br>\n\n",
+          "briefDescription": "The scheme aims to provide financial assistance to residents of Uttarakhand whose houses, boundary walls, huts, or kutcha structures are damaged by wild elephants.",
+          "exclusions_md": "",
+          "detailedDescription": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The scheme “Assistance for Damage to Houses Due to Wild Elephant Attacks” is a sub-component of the umbrella scheme “Compensation for Loss of Life and Property Caused by Wild Animals in and Around Forest Areas”, which is implemented by the Department of Forest, Government of Uttarakhand. The scheme aims to provide financial assistance to residents of Uttarakhand whose houses, boundary walls, huts, or kutcha structures are damaged by wild elephants."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "benefitTypes": {
+            "id": 1,
+            "value": "cash",
+            "label": "Cash"
+          },
+          "benefits": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At present, the following compensation amounts are provided in the event of house damage caused by wild elephants:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "children": [
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Type of House",
+                          "bold": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "(a) Completely Damaged/ Destroyed House",
+                          "bold": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Total Amount payable (in ₹ per house)",
+                          "bold": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Share of State Disaster Response Fund (in ₹ per house)",
+                          "bold": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Share of Human Wildlife Conflict Relief Distribution Fund (in ₹ per house)",
+                          "bold": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Kutcha house/ Pakka house (Completely damaged)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "(i) Kutcha house                                          (ii) Pakka house"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹95,000/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹95,000/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "--"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Kutcha House (Partially damaged)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Kutcha House (Partially damaged)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹20,000/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "--"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹20,000/-"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Damage to boundary wall of a pucca house and partial damage to a pucca house"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "(b) Partially Damaged House                                    (i) A pucca house (other than a hut) where the damage is at least 15%"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹15,000/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹5,200/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹9,800/-"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Damage to boundary wall of a pucca house and partial damage to a pucca house"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Partially Damaged House                                    (i)  Kutcha house (other than hut) where the damage is at least 15%        "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹3,200/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹3,200/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "--"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_row",
+                  "children": [
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "In case of damage to hut or house made of straw"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "Damaged/destroyed hut"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹5,000/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹4,100/-"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "table_cell",
+                      "children": [
+                        {
+                          "text": "₹900/-"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "In case of damage to a house due to an attack by wild elephants, the incident must be reported in writing to the concerned Range Office within two days. It will then be immediately verified by the Forest Inspector or Deputy Forest Range Officer. After the damage has been jointly assessed by the Naib Tehsildar and the Range Officer of the concerned area, the investigation report will be submitted to the Assistant Conservator of Forests/Wildlife Warden, who will conduct a final investigation and forward the report to the Divisional Forest Officer/Deputy Director within one month. "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Upon receiving the final report, the Divisional Forest Officer/Deputy Director has full authority to approve and disburse the ex-gratia compensation. The Divisional Forest Officer/Deputy Director will also ensure that complete details of the case are communicated to the Chief Wildlife Warden."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note: The Forest Department has issued a toll-free number - 1800-890-9715. Anyone can use this number to report human-wildlife incidents or the presence of wildlife in populated areas anywhere in the state.",
+                        "bold": true,
+                        "italic": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "process_md": "\n  - In case of damage to a house due to an attack by wild elephants, the incident must be reported in writing to the concerned Range Office within two days. It will then be immediately verified by the Forest Inspector or Deputy Forest Range Officer. After the damage has been jointly assessed by the Naib Tehsildar and the Range Officer of the concerned area, the investigation report will be submitted to the Assistant Conservator of Forests/Wildlife Warden, who will conduct a final investigation and forward the report to the Divisional Forest Officer/Deputy Director within one month. \n  - Upon receiving the final report, the Divisional Forest Officer/Deputy Director has full authority to approve and disburse the ex-gratia compensation. The Divisional Forest Officer/Deputy Director will also ensure that complete details of the case are communicated to the Chief Wildlife Warden.\n\n***Note: The Forest Department has issued a toll-free number - 1800-890-9715. Anyone can use this number to report human-wildlife incidents or the presence of wildlife in populated areas anywhere in the state.***\n<br>\n\n"
+          }
+        ],
+        "schemeDefinitions": [],
+        "eligibilityCriteria": {
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The compensation is provided for damage to houses caused by wild elephants in and around forest areas of Uttarakhand.\n\n<br>\n\n",
+          "eligibilityDescription": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The compensation is provided for damage to houses caused by wild elephants in and around forest areas of Uttarakhand."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "slug": "cllpwaafa-dhmhwehwe"
+    }
+  },
+  "documents": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "68d2816cf95e55ec5808f1bb",
+      "en": {
+        "documents_required": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Identity proof of applicant"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Damage assessment report"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "documentsRequired_md": "\n1. Identity proof of applicant\n1. Damage assessment report\n1. Bank account details\n1. Other supporting documents as required\n\n<br>\n\n"
+      },
+      "schemeId": "68d280e5f95e55ec5808ee6c"
+    }
+  },
+  "faqs": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": {
+      "_id": "68d287b8ea68bc7181ba31c0",
+      "en": {
+        "faqs": [
+          {
+            "question": "Who is eligible to apply?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Any resident of Uttarakhand whose house or structure has been damaged by wild elephants is eligible to apply."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Any resident of Uttarakhand whose house or structure has been damaged by wild elephants is eligible to apply.\n<br>\n\n"
+          },
+          {
+            "question": "What types of houses are covered?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The scheme covers kutcha houses, boundary walls, huts, and pucca houses damaged by wild elephants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The scheme covers kutcha houses, boundary walls, huts, and pucca houses damaged by wild elephants.\n<br>\n\n"
+          },
+          {
+            "question": "What is the compensation range under the scheme?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Compensation ranges from a minimum of ₹900 to a maximum of ₹95,000, depending on the extent and type of damage."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "Compensation ranges from a minimum of ₹900 to a maximum of ₹95,000, depending on the extent and type of damage.\n<br>\n\n"
+          },
+          {
+            "question": "How should the damage be reported?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The incident must be reported in writing to the concerned Range Office within two days of the damage."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The incident must be reported in writing to the concerned Range Office within two days of the damage.\n<br>\n\n"
+          },
+          {
+            "question": "Who verifies the reported damage?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Forest Inspector or Deputy Forest Range Officer immediately confirms the incident, and the damage is jointly assessed by the Naib Tehsildar and Range Officer of the concerned area."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Forest Inspector or Deputy Forest Range Officer immediately confirms the incident, and the damage is jointly assessed by the Naib Tehsildar and Range Officer of the concerned area.\n<br>\n\n"
+          },
+          {
+            "question": "Who approves the compensation?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Divisional Forest Officer/Deputy Director receives the final report and has full authority to approve and disburse the ex-gratia compensation."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Divisional Forest Officer/Deputy Director receives the final report and has full authority to approve and disburse the ex-gratia compensation.\n<br>\n\n"
+          },
+          {
+            "question": "What is the timeline for the final investigation report?",
+            "answer": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Assistant Conservator of Forests/Wildlife Warden must submit the final investigation report to the Divisional Forest Officer/Deputy Director within one month of the incident."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "answer_md": "The Assistant Conservator of Forests/Wildlife Warden must submit the final investigation report to the Divisional Forest Officer/Deputy Director within one month of the incident.\n<br>\n\n"
+          }
+        ]
+      },
+      "schemeId": "68d280e5f95e55ec5808ee6c"
+    }
+  },
+  "applicationChannels": {
+    "status": "Success",
+    "statusCode": 200,
+    "errorDescription": "",
+    "error": "{}",
+    "data": null
+  }
+}
+````
